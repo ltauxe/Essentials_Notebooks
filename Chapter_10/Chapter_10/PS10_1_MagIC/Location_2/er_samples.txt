@@ -1,0 +1,3 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	sample_class	sample_lat	sample_lithology	sample_lon	sample_type
+10.1016/j.pepi.2014.12.007:This study	Finland	BR06	BR06	Archeologic	60.1	Not Specified	24.90	Brick

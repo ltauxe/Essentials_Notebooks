@@ -1,0 +1,12 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_method_codes	magic_software_packages	sample_azimuth	sample_dip
+This study	Dike	west_a	west_a	west_a1		pmagpy-3.1.6	100.00	-20.00
+This study	Dike	west_b	west_b	west_b1		pmagpy-3.1.6	164.00	-17.00
+This study	Dike	west_c	west_c	west_c1		pmagpy-3.1.6	183.00	-30.00
+This study	Dike	west_d	west_d	west_d1		pmagpy-3.1.6	117.00	-15.00
+This study	Dike	west_e	west_e	west_e1		pmagpy-3.1.6	151.00	-11.00
+This study	Dike	west-g	west	west-g1		pmagpy-3.1.6	199.0000	-75.00000
+This study	Dike	west-h	west	west-h1		pmagpy-3.1.6	202.0000	-71.00000
+This study	Dike	west-i	west	west-i1		pmagpy-3.1.6	206.0000	-83.00000
+This study	Dike	west-k	west	west-k2		pmagpy-3.1.6	188.0	-77.0
+This study	Dike	west-l	west	west-l1		pmagpy-3.1.6	188.0000	-69.00000

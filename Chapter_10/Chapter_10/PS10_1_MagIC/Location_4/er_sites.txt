@@ -1,0 +1,10 @@
+tab 	er_sites
+er_citation_names	er_location_name	er_site_name	site_class	site_definition	site_lithology	site_type
+10.1111/j.1365-246X.2012.05412.x:This study	Hawaii	Hawaii 1960 Flow	Igneous:Extrusive	s	Basalt	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw108	Igneous:Extrusive	s	Basalt	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw123	Igneous:Extrusive	s	Basalt	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw126	Igneous:Extrusive	s	Basalt	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw128	Igneous:Extrusive	s	Basalt	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw201	Igneous:Extrusive	s	Basalt	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw226	Igneous:Extrusive	s	Basalt	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw241	Igneous:Extrusive	s	Basalt	Lava Flow

@@ -1,0 +1,9 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	sample_class	sample_lat	sample_lithology	sample_lon	sample_type
+10.1016/j.epsl.2011.08.024:This study	HUJI	remag-rs61	remag-rs61	Synthetic	31.7811	Not Specified	35.20	Slag
+10.1016/j.epsl.2011.08.024:This study	HUJI	remag-rs62	remag-rs62	Synthetic	31.7811	Not Specified	35.20	Slag
+10.1016/j.epsl.2011.08.024:This study	HUJI	remag-rs63	remag-rs63	Synthetic	31.7811	Not Specified	35.20	Slag
+10.1016/j.epsl.2011.08.024:This study	HUJI	remag-rs78	remag-rs78	Synthetic	31.7811	Not Specified	35.20	Slag
+10.1016/j.epsl.2009.12.022:This study	HUJI	rs25	rs25	Synthetic	31.7811	Not Specified	35.20	Slag
+10.1016/j.epsl.2009.12.022:This study	HUJI	rs26	rs26	Synthetic	31.7811	Not Specified	35.20	Slag
+10.1016/j.epsl.2009.12.022:This study	HUJI	rs27	rs27	Synthetic	31.7811	Not Specified	35.20	Slag

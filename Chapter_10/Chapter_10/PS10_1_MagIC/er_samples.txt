@@ -1,0 +1,108 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	sample_class	sample_lat	sample_lithology	sample_lon	sample_type
+10.1111/j.1365-246X.2012.05412.x:This study	Hawaii	A	Hawaii 1960 Flow	Extrusive:Igneous	19.52	Basalt	204.19	Lava Flow
+10.1029/2005GC001141:This study	EPR	AL2360-1	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2742-4	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2770-3	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2844-2	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2852-2	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3023-1	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3028-2	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3029-4	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3029-5	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3031-1	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3034-2	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3034-5	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3035-2	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3156-1	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3159-1	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3166-1	1991-1992 Eruption Site	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1111/j.1365-246X.2012.05412.x:This study	Hawaii	B	Hawaii 1960 Flow	Extrusive:Igneous	19.52	Basalt	204.19	Lava Flow
+10.1016/j.pepi.2014.12.007:This study	Finland	BR06	BR06	Archeologic	60.1	Not Specified	24.90	Brick
+10.1111/j.1365-246X.2012.05412.x:This study	Hawaii	C	Hawaii 1960 Flow	Extrusive:Igneous	19.52	Basalt	204.19	Lava Flow
+10.1029/93jb01160:This study	EPR	SBG_2352-2	BBQ	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2358-4	BBQ	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2372-2	BBQ	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2372-3	BBQ	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2392-4	BBQ	Igneous:Extrusive:Submarine	9.8	Submarine Basaltic Glass	255.70	Glassy Margin
+10.1016/j.pepi.2008.03.006:This study	Sakurajima	SW01	SW	Extrusive:Igneous	31.6	Andesite	229.40	Lava Flow
+10.1016/j.pepi.2008.03.006:This study	Sakurajima	TS01	TS	Extrusive:Igneous	31.6	Andesite	229.40	Lava Flow
+10.1016/j.pepi.2008.03.006:This study	Sakurajima	TS02	TS	Extrusive:Igneous	31.6	Andesite	229.40	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw108a	hw108	Extrusive:Igneous	19.9	Basalt	204.10	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw108b	hw108	Extrusive:Igneous	19.9	Basalt	204.10	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw108c	hw108	Extrusive:Igneous	19.9	Basalt	204.10	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw123a	hw123	Extrusive:Igneous	19.07	Basalt	204.29	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw126a	hw126	Extrusive:Igneous	19.69	Basalt	204.54	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw126b	hw126	Extrusive:Igneous	19.69	Basalt	204.54	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw128a	hw128	Extrusive:Igneous	19.26	Basalt	204.13	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw128b	hw128	Extrusive:Igneous	19.26	Basalt	204.13	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw128c	hw128	Extrusive:Igneous	19.26	Basalt	204.13	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw128d	hw128	Extrusive:Igneous	19.26	Basalt	204.13	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw201a	hw201	Extrusive:Igneous	19.36	Basalt	205.03	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw226a	hw226	Extrusive:Igneous	19.64	Basalt	204.13	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw226b	hw226	Extrusive:Igneous	19.64	Basalt	204.13	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw241a	hw241	Extrusive:Igneous	19.52	Basalt	204.19	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw241d	hw241	Extrusive:Igneous	19.52	Basalt	204.19	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw241e	hw241	Extrusive:Igneous	19.52	Basalt	204.19	Lava Flow
+10.1111/j.1365-246X.2012.05412.x:This study	Krafla	kf	kf	Extrusive:Igneous	65.7	Basalt	343.20	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1ay	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1c-stub1	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1cy_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1cz_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1e_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1fx_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1fy_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1ga_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1gb_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1gc_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1h_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1hb_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1ka_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1kb_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1kc_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1kd_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1l_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1my	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1na_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1nb	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p1o_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2aa_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2ab_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2ac_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2ad	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2b_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2d	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2ey_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2kx_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2na_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2nb_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2o_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2q	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2qc	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2rl_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1029/2010JB007844:This study	Paracutin	p2s_u	P	Extrusive:Igneous	19.3	Basalt	257.90	Lava Flow
+10.1016/j.epsl.2011.08.024:This study	HUJI	remag-rs61	remag-rs61	Synthetic	31.7811	Not Specified	35.20	Slag
+10.1016/j.epsl.2011.08.024:This study	HUJI	remag-rs62	remag-rs62	Synthetic	31.7811	Not Specified	35.20	Slag
+10.1016/j.epsl.2011.08.024:This study	HUJI	remag-rs63	remag-rs63	Synthetic	31.7811	Not Specified	35.20	Slag
+10.1016/j.epsl.2011.08.024:This study	HUJI	remag-rs78	remag-rs78	Synthetic	31.7811	Not Specified	35.20	Slag
+10.1016/j.epsl.2009.12.022:This study	HUJI	rs25	rs25	Synthetic	31.7811	Not Specified	35.20	Slag
+10.1016/j.epsl.2009.12.022:This study	HUJI	rs26	rs26	Synthetic	31.7811	Not Specified	35.20	Slag
+10.1016/j.epsl.2009.12.022:This study	HUJI	rs27	rs27	Synthetic	31.7811	Not Specified	35.20	Slag
+10.1029/2010JB007844:This study	Vesuvius	vm1a	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1c	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1dy	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1f	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1g	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1hx	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1i	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1kx	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1mx	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1my	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1nx	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1o	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1q	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1ry	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm1s	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm2ay	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm2by	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow
+10.1029/2010JB007844:This study	Vesuvius	vm2dy	VM	Extrusive:Igneous	40.8	Basalt	14.50	Lava Flow

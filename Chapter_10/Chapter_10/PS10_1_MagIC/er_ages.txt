@@ -1,0 +1,25 @@
+tab 	er_ages
+age	age_unit	er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_method_codes
+1991	Years AD (+/-)	This study	EPR		1991-1992 Eruption Site		GM-NO
+1990	Years AD (+/-)	This study	EPR		BBQ		GM-NO
+1906	Years AD (+/-)	This study	Finland		BR06		GM-NO
+1960	Years AD (+/-)	This study	Hawaii		Hawaii 1960 Flow		GM-NO
+1943	Years AD (+/-)	This study	Paracutin		P		GM-NO
+1946	Years AD (+/-)	This study	Sakurajima		SW		GM-NO
+1914	Years AD (+/-)	This study	Sakurajima		TS		GM-NO
+1944	Years AD (+/-)	This study	Vesuvius		VM		GM-NO
+1859	Years AD (+/-)	This study	Hawaii		hw108		GM-NO
+1907	Years AD (+/-)	This study	Hawaii		hw123		GM-NO
+1935	Years AD (+/-)	This study	Hawaii		hw126		GM-NO
+1950	Years AD (+/-)	This study	Hawaii		hw128		GM-NO
+1990	Years AD (+/-)	This study	Hawaii		hw201		GM-NO
+1843	Years AD (+/-)	This study	Hawaii		hw226		GM-NO
+1960	Years AD (+/-)	This study	Hawaii		hw241		GM-NO
+1984	Years AD (+/-)	This study	Krafla		kf		GM-NO
+2011	Years AD (+/-)	This study	HUJI		remag-rs61		GM-NO
+2011	Years AD (+/-)	This study	HUJI		remag-rs62		GM-NO
+2011	Years AD (+/-)	This study	HUJI		remag-rs63		GM-NO
+2011	Years AD (+/-)	This study	HUJI		remag-rs78		GM-NO
+2010	Years AD (+/-)	This study	HUJI		rs25		GM-NO
+2010	Years AD (+/-)	This study	HUJI		rs26		GM-NO
+2010	Years AD (+/-)	This study	HUJI		rs27		GM-NO

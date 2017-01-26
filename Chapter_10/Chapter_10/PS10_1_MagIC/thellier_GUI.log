@@ -1,0 +1,40 @@
+starting...
+-I- thellier_gui.preferences imported
+-I- Read magic file  /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_14/Chapter_10/PS10_1_MagIC/magic_measurements.txt
+-I- Anisotropy data read  /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_14/Chapter_10/PS10_1_MagIC/from rmag_anisotropy.txt
+-I- Anisotropy data read  /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_14/Chapter_10/PS10_1_MagIC/from rmag_anisotropy.txt
+-I-  tanh parameters for specimen rs25a were calculated sucsessfuly
+-W- WARNING: Cant fit tanh function to NLT data specimen rs25b. Ignore NLT data for specimen rs25b. Instead check [max(M/B)]/ [min(M/B)] 
+-E- ERROR: 2 NLT measurement for specimen rs25b. [max(M/B)]/ [min(M/B)] is nan  ( > 1.1 ). More NLT mrasurements may be required  !
+-I-  tanh parameters for specimen rs25c were calculated sucsessfuly
+-I-  tanh parameters for specimen rs25d were calculated sucsessfuly
+-I-  tanh parameters for specimen rs25e were calculated sucsessfuly
+-I-  tanh parameters for specimen rs26a were calculated sucsessfuly
+-I-  tanh parameters for specimen rs26b were calculated sucsessfuly
+-I-  tanh parameters for specimen rs26c were calculated sucsessfuly
+-I-  tanh parameters for specimen rs26d were calculated sucsessfuly
+-I-  tanh parameters for specimen rs26e were calculated sucsessfuly
+-I-  tanh parameters for specimen rs27a were calculated sucsessfuly
+-I-  tanh parameters for specimen rs27b were calculated sucsessfuly
+-I-  tanh parameters for specimen rs27c were calculated sucsessfuly
+-I-  tanh parameters for specimen rs27d were calculated sucsessfuly
+-I-  tanh parameters for specimen rs27e were calculated sucsessfuly
+-I- Done calculating non linear TRM parameters for all specimens
+-I- number of specimens in this project directory: 377
+-I- number of samples in this project directory: 106
+-I- Read pmag_specimens.txt for previous interpretation-I- Read new criteria file: /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_14/Chapter_10/PS10_1_MagIC/tta_criteria.txt
+-W- WARNING: problematic NLT mesurements for specimens rs25a. Cant do NLT calculation. check data
+-W- WARNING: problematic NLT mesurements for specimens rs26c. Cant do NLT calculation. check data
+-W- WARNING: problematic NLT mesurements for specimens rs26e. Cant do NLT calculation. check data
+-W- WARNING: problematic NLT mesurements for specimens rs27a. Cant do NLT calculation. check data
+-W- WARNING: problematic NLT mesurements for specimens rs27a. Cant do NLT calculation. check data
+-W- WARNING: problematic NLT mesurements for specimens rs27a. Cant do NLT calculation. check data
+-W- WARNING: problematic NLT mesurements for specimens rs27a. Cant do NLT calculation. check data
+-I- Read exiting magic file  /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_14/Chapter_10/PS10_1_MagIC/pmag_specimens.txt
+-I- rename old magic file  /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_14/Chapter_10/PS10_1_MagIC/pmag_specimens.txt.backup
+-I- Read exiting magic file  /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_14/Chapter_10/PS10_1_MagIC/pmag_samples.txt
+-I- Cant read existing magic file  /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_14/Chapter_10/PS10_1_MagIC/pmag_samples.txt
+-I- Read exiting magic file  /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_14/Chapter_10/PS10_1_MagIC/pmag_sites.txt
+-I- Cant read existing magic file  /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_14/Chapter_10/PS10_1_MagIC/pmag_sites.txt
+-I- Read exiting magic file  /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_14/Chapter_10/PS10_1_MagIC/pmag_results.txt
+-I- rename old magic file  /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_14/Chapter_10/PS10_1_MagIC/pmag_results.txt.backup

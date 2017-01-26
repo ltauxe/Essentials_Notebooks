@@ -1,0 +1,9 @@
+tab 	er_ages
+age	age_unit	er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_method_codes
+2011	Years AD (+/-)	This study	HUJI		remag-rs61		GM-NO
+2011	Years AD (+/-)	This study	HUJI		remag-rs62		GM-NO
+2011	Years AD (+/-)	This study	HUJI		remag-rs63		GM-NO
+2011	Years AD (+/-)	This study	HUJI		remag-rs78		GM-NO
+2010	Years AD (+/-)	This study	HUJI		rs25		GM-NO
+2010	Years AD (+/-)	This study	HUJI		rs26		GM-NO
+2010	Years AD (+/-)	This study	HUJI		rs27		GM-NO

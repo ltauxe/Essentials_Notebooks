@@ -1,0 +1,9 @@
+tab 	er_sites
+er_citation_names	er_location_name	er_site_name	site_class	site_definition	site_lithology	site_type
+10.1016/j.epsl.2011.08.024:This study	HUJI	remag-rs61	Synthetic	s	Not Specified	Slag
+10.1016/j.epsl.2011.08.024:This study	HUJI	remag-rs62	Synthetic	s	Not Specified	Slag
+10.1016/j.epsl.2011.08.024:This study	HUJI	remag-rs63	Synthetic	s	Not Specified	Slag
+10.1016/j.epsl.2011.08.024:This study	HUJI	remag-rs78	Synthetic	s	Not Specified	Slag
+10.1016/j.epsl.2009.12.022:This study	HUJI	rs25	Synthetic	s	Not Specified	Slag
+10.1016/j.epsl.2009.12.022:This study	HUJI	rs26	Synthetic	s	Not Specified	Slag
+10.1016/j.epsl.2009.12.022:This study	HUJI	rs27	Synthetic	s	Not Specified	Slag

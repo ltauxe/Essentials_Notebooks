@@ -1,0 +1,20 @@
+tab 	er_specimens
+er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_class	specimen_lithology	specimen_type
+10.1029/2010JB007844:This study	Vesuvius	vm1a	VM	vm1a	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1c	VM	vm1c	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1dy	VM	vm1dy	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1f	VM	vm1f	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1g	VM	vm1g	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1hx	VM	vm1hx	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1i	VM	vm1i	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1kx	VM	vm1kx	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1mx	VM	vm1mx	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1my	VM	vm1my	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1nx	VM	vm1nx	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1o	VM	vm1o	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1q	VM	vm1q	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1ry	VM	vm1ry	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm1s	VM	vm1s	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm2ay	VM	vm2ay	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm2by	VM	vm2by	Igneous:Extrusive	Basalt	Lava flow
+10.1029/2010JB007844:This study	Vesuvius	vm2dy	VM	vm2dy	Igneous:Extrusive	Basalt	Lava flow

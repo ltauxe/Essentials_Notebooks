@@ -1,0 +1,5 @@
+tab 	er_sites
+er_citation_names	er_location_name	er_site_alternatives	er_site_name	site_class	site_definition	site_lat	site_lithology	site_lon	site_type
+This study	Scripps Beach	Site B : Cryptoslump	as1	Sedimentary	s	32.8694	shale	242.7463	Sediment Layer
+This study	Scripps Beach	Site C : Slumped	as2	Sedimentary	s	32.8694	shale	242.7463	Sediment Layer
+This study	Scripps Beach	Site A : Undeformed	as3	Sedimentary	s	32.8694	shale	242.7463	Sediment Layer

@@ -1,0 +1,23 @@
+tab 	er_samples
+cooling_rate_corr	cooling_rate_mcd	er_citation_names	er_location_name	er_sample_name	er_scientist_mail_names	er_site_name	magic_method_codes	sample_azimuth	sample_bed_dip	sample_bed_dip_direction	sample_class	sample_cooling_rate	sample_date	sample_declination_correction	sample_description	sample_dip	sample_height	sample_igsn	sample_lat	sample_lithology	sample_lon	sample_orientation_flag	sample_texture	sample_type
+		This study		ns034a			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-MAG	354.0	12	137.4	igneous:extrusive		2006:7:14:14:16			-18.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034a			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-CMD-NORTH	353.4	12	137.4	igneous:extrusive		2006:7:14:14:16	359.4	Declination correction calculated from IGRF	-18.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034a			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-SUN	357.1	12	137.4	igneous:extrusive		2006:7:14:14:16			-18.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034b			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-MAG	4.0	12	137.4	igneous:extrusive		2006:7:14:14:23			-31.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034b			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-CMD-NORTH	3.4	12	137.4	igneous:extrusive		2006:7:14:14:23	359.4	Declination correction calculated from IGRF	-31.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034b			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-SUN	6.2	12	137.4	igneous:extrusive		2006:7:14:14:23			-31.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034c			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-MAG	15.0	12	137.4	igneous:extrusive		2006:7:14:14:25			-26.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034c			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-CMD-NORTH	14.4	12	137.4	igneous:extrusive		2006:7:14:14:25	359.4	Declination correction calculated from IGRF	-26.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034c			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-SUN	19.0	12	137.4	igneous:extrusive		2006:7:14:14:25			-26.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034d			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-MAG	156.0	12	137.4	igneous:extrusive		2006:7:14:14:29			-53.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034d			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-CMD-NORTH	155.4	12	137.4	igneous:extrusive		2006:7:14:14:29	359.4	Declination correction calculated from IGRF	-53.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034d			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-SUN	155.7	12	137.4	igneous:extrusive		2006:7:14:14:29			-53.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034e			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-MAG	272.0	12	137.4	igneous:extrusive		2006:7:14:14:36			-32.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034e			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-CMD-NORTH	271.4	12	137.4	igneous:extrusive		2006:7:14:14:36	359.4	Declination correction calculated from IGRF	-32.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034e			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-SUN	272.6	12	137.4	igneous:extrusive		2006:7:14:14:36			-32.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034f			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-MAG	343.0	12	137.4	igneous:extrusive		2006:7:14:14:40			-62.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034f			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-CMD-NORTH	342.4	12	137.4	igneous:extrusive		2006:7:14:14:40	359.4	Declination correction calculated from IGRF	-62.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034f			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-SUN	343.2	12	137.4	igneous:extrusive		2006:7:14:14:40			-62.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034g			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-MAG	299.0	12	137.4	igneous:extrusive		2006:7:14:14:42			-49.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034g			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-CMD-NORTH	298.4	12	137.4	igneous:extrusive		2006:7:14:14:42	359.4	Declination correction calculated from IGRF	-49.0			47.01668	basalt	-91.66029	g		lava flow
+		This study		ns034g			FS-FD:FS-LOC-GPS:SO-POM:SO-SUN:SO-SUN	299.0	12	137.4	igneous:extrusive		2006:7:14:14:42			-49.0			47.01668	basalt	-91.66029	g		lava flow

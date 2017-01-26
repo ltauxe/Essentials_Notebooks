@@ -1,0 +1,15 @@
+tab 	magic_methods
+magic_method_code
+FS-C-DRILL-IODP
+SP-SS-C
+SO-V
+FS-C-PISTON-H
+FS-C-DRILL-DSDP
+GM-PMAG-POL
+GM-INT-L
+LT-AF-Z
+LT-AF-I
+LT-IRM
+LP-X
+LP-PI-IRM
+LP-PI-REL

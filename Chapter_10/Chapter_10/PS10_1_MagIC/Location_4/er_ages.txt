@@ -1,0 +1,10 @@
+tab 	er_ages
+age	age_unit	er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_method_codes
+1960	Years AD (+/-)	This study	Hawaii		Hawaii 1960 Flow		GM-NO
+1859	Years AD (+/-)	This study	Hawaii		hw108		GM-NO
+1907	Years AD (+/-)	This study	Hawaii		hw123		GM-NO
+1935	Years AD (+/-)	This study	Hawaii		hw126		GM-NO
+1950	Years AD (+/-)	This study	Hawaii		hw128		GM-NO
+1990	Years AD (+/-)	This study	Hawaii		hw201		GM-NO
+1843	Years AD (+/-)	This study	Hawaii		hw226		GM-NO
+1960	Years AD (+/-)	This study	Hawaii		hw241		GM-NO

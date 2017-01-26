@@ -1,0 +1,3 @@
+tab 	er_locations
+er_citation_names	er_location_name	location_begin_lat	location_begin_lon	location_end_lat	location_end_lon	location_type
+10.1016/j.epsl.2009.12.022:10.016/j.epsl.2011.08.024:This study	HUJI	31.7811	35.20	31.7811	35.20	Laboratory

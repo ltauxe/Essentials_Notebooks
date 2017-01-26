@@ -1,0 +1,21 @@
+-I- cant find zeq_gui_preferences file, using defualt default
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034a
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034a
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034b
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034b
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034c
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034c
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034d
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034d
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034e
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034e
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034f
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034f
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034g
+-E- ERROR: magic file /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/er_samples.txt has more than one line for er_sample_name ns034g
+-W- Cant find er_locations.txt in project directory
+-W- Cant find er_ages in project directory
+-I- Read magic file  /Users/ltauxe/Documents/courses_current/SIO247_2016/Homework/HW_8/MagIC/magic_measurements.txt
+-I- done sorting meas data
+-I- Reading previous interpretations from pmag* tables
+

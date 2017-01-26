@@ -1,0 +1,67 @@
+tab 	er_specimens
+er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_class	specimen_lithology	specimen_type
+10.1029/2005GC001141:This study	EPR	AL2360-1	1991-1992 Eruption Site	AL2360-1a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2360-1	1991-1992 Eruption Site	AL2360-1b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2360-1	1991-1992 Eruption Site	AL2360-1c	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2360-1	1991-1992 Eruption Site	AL2360-1d	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2360-1	1991-1992 Eruption Site	AL2360-1e	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2742-4	1991-1992 Eruption Site	AL2742-4a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2742-4	1991-1992 Eruption Site	AL2742-4b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2742-4	1991-1992 Eruption Site	AL2742-4e	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2742-4	1991-1992 Eruption Site	AL2742-4f	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2742-4	1991-1992 Eruption Site	AL2742-4g	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2770-3	1991-1992 Eruption Site	AL2770-3a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2770-3	1991-1992 Eruption Site	AL2770-3b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2770-3	1991-1992 Eruption Site	AL2770-3c	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2844-2	1991-1992 Eruption Site	AL2844-2a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2844-2	1991-1992 Eruption Site	AL2844-2b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2852-2	1991-1992 Eruption Site	AL2852-2a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2852-2	1991-1992 Eruption Site	AL2852-2b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2852-2	1991-1992 Eruption Site	AL2852-2c	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2852-2	1991-1992 Eruption Site	AL2852-2d	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2852-2	1991-1992 Eruption Site	AL2852-2e	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL2852-2	1991-1992 Eruption Site	AL2852-2f	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3023-1	1991-1992 Eruption Site	AL3023-1a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3023-1	1991-1992 Eruption Site	AL3023-1b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3028-2	1991-1992 Eruption Site	AL3028-2a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3028-2	1991-1992 Eruption Site	AL3028-2b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3029-4	1991-1992 Eruption Site	AL3029-4a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3029-4	1991-1992 Eruption Site	AL3029-4b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3029-4	1991-1992 Eruption Site	AL3029-4c	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3029-5	1991-1992 Eruption Site	AL3029-5a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3031-1	1991-1992 Eruption Site	AL3031-1a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3031-1	1991-1992 Eruption Site	AL3031-1b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3031-1	1991-1992 Eruption Site	AL3031-1c	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3031-1	1991-1992 Eruption Site	AL3031-1d	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3034-2	1991-1992 Eruption Site	AL3034-2a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3034-2	1991-1992 Eruption Site	AL3034-2d	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3034-2	1991-1992 Eruption Site	AL3034-2e	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3034-5	1991-1992 Eruption Site	AL3034-5a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3034-5	1991-1992 Eruption Site	AL3034-5b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3034-5	1991-1992 Eruption Site	AL3034-5d	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3035-2	1991-1992 Eruption Site	AL3035-2a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3035-2	1991-1992 Eruption Site	AL3035-2b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3035-2	1991-1992 Eruption Site	AL3035-2h	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3035-2	1991-1992 Eruption Site	AL3035-2i	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3035-2	1991-1992 Eruption Site	AL3035-2j	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3156-1	1991-1992 Eruption Site	AL3156-1a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3156-1	1991-1992 Eruption Site	AL3156-1b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3159-1	1991-1992 Eruption Site	AL3159-1a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3159-1	1991-1992 Eruption Site	AL3159-1b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3159-1	1991-1992 Eruption Site	AL3159-1g	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3166-1	1991-1992 Eruption Site	AL3166-1a	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3166-1	1991-1992 Eruption Site	AL3166-1b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3166-1	1991-1992 Eruption Site	AL3166-1g	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/2005GC001141:This study	EPR	AL3166-1	1991-1992 Eruption Site	AL3166-1h	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2352-2	BBQ	SBG_2352-2b	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2352-2	BBQ	SBG_2352-2e	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2352-2	BBQ	SBG_2352-2g	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2358-4	BBQ	SBG_2358-4f	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2372-2	BBQ	SBG_2372-2e	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2372-2	BBQ	SBG_2372-2g	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2372-2	BBQ	SBG_2372-2h	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2372-3	BBQ	SBG_2372-3d	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2372-3	BBQ	SBG_2372-3e	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2372-3	BBQ	SBG_2372-3f	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2392-4	BBQ	SBG_2392-4c	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin
+10.1029/93jb01160:This study	EPR	SBG_2392-4	BBQ	SBG_2392-4e	Igneous:Extrusive:Submarine	Submarine Basaltic Glass	Glassy Margin

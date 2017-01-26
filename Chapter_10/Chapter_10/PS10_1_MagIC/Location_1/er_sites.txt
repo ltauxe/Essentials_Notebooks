@@ -1,0 +1,4 @@
+tab 	er_sites
+er_citation_names	er_location_name	er_site_name	site_class	site_definition	site_lithology	site_type
+10.1029/2005GC001141:This study	EPR	1991-1992 Eruption Site	Igneous:Extrusive	s	Submarine Basaltic Glass	Glassy Margin
+10.1029/93jb01160:This study	EPR	BBQ	Igneous:Extrusive	s	Submarine Basaltic Glass	Glassy Margin

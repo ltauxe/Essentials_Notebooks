@@ -1,0 +1,3 @@
+tab 	er_locations
+er_citation_names	er_location_name	location_begin_lat	location_begin_lon	location_end_lat	location_end_lon	location_type
+10.1029/2005GC001141:This study	Hawaii	19.07	204.10	19.9	205.03	Outcrop

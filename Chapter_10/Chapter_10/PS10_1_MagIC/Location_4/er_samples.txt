@@ -1,0 +1,21 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	sample_class	sample_lat	sample_lithology	sample_lon	sample_type
+10.1111/j.1365-246X.2012.05412.x:This study	Hawaii	A	Hawaii 1960 Flow	Extrusive:Igneous	19.52	Basalt	204.19	Lava Flow
+10.1111/j.1365-246X.2012.05412.x:This study	Hawaii	B	Hawaii 1960 Flow	Extrusive:Igneous	19.52	Basalt	204.19	Lava Flow
+10.1111/j.1365-246X.2012.05412.x:This study	Hawaii	C	Hawaii 1960 Flow	Extrusive:Igneous	19.52	Basalt	204.19	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw108a	hw108	Extrusive:Igneous	19.9	Basalt	204.10	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw108b	hw108	Extrusive:Igneous	19.9	Basalt	204.10	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw108c	hw108	Extrusive:Igneous	19.9	Basalt	204.10	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw123a	hw123	Extrusive:Igneous	19.07	Basalt	204.29	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw126a	hw126	Extrusive:Igneous	19.69	Basalt	204.54	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw126b	hw126	Extrusive:Igneous	19.69	Basalt	204.54	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw128a	hw128	Extrusive:Igneous	19.26	Basalt	204.13	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw128b	hw128	Extrusive:Igneous	19.26	Basalt	204.13	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw128c	hw128	Extrusive:Igneous	19.26	Basalt	204.13	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw128d	hw128	Extrusive:Igneous	19.26	Basalt	204.13	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw201a	hw201	Extrusive:Igneous	19.36	Basalt	205.03	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw226a	hw226	Extrusive:Igneous	19.64	Basalt	204.13	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw226b	hw226	Extrusive:Igneous	19.64	Basalt	204.13	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw241a	hw241	Extrusive:Igneous	19.52	Basalt	204.19	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw241d	hw241	Extrusive:Igneous	19.52	Basalt	204.19	Lava Flow
+10.1029/2005GC001141:This study	Hawaii	hw241e	hw241	Extrusive:Igneous	19.52	Basalt	204.19	Lava Flow
