@@ -1,4 +1,0 @@
-names	rooms	telnos
-jeff	300D RH	44707
-lisa	300E RH	46531
-lab	1162 SvH	46084
