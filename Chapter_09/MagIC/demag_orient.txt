@@ -1,9 +1,0 @@
-tab	demag_orient
-sample_name	sample_orientation_flag	mag_azimuth	field_dip	bedding_dip_direction	bedding_dip	shadow_angle	lat	long	date	hhmm	GPS_baseline	GPS_Az	magic_method_codes	site_name	mag_az_bs	sample_type	sample_lithology	sample_class
-ns034a	g	354	18	138	12	325	47.01668	-91.66029	7/14/06	14:16						lava flow	basalt	igneous:extrusive
-ns034b	g	4	31	138	12	331	47.01668	-91.66029	7/14/06	14:23						lava flow	basalt	igneous:extrusive
-ns034c	g	15	26	138	12	343	47.01668	-91.66029	7/14/06	14:25						lava flow	basalt	igneous:extrusive
-ns034d	g	156	53	138	12	118	47.01668	-91.66029	7/14/06	14:29						lava flow	basalt	igneous:extrusive
-ns034e	g	272	32	138	12	232	47.01668	-91.66029	7/14/06	14:36						lava flow	basalt	igneous:extrusive
-ns034f 	g	343	62	138	12	301	47.01668	-91.66029	7/14/06	14:40						lava flow	basalt	igneous:extrusive
-ns034g	g	299	49	138	12	256	47.01668	-91.66029	7/14/06	14:42			SO-GT5			lava flow	basalt	igneous:extrusive

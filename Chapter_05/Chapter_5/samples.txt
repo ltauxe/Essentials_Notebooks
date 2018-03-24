@@ -1,0 +1,10 @@
+tab	samples
+sample	site
+IS06a-1	IS06a-
+IS06a-2	IS06a-
+IS06a-3	IS06a-
+IS06a-4	IS06a-
+IS06a-5	IS06a-
+IS06a-6	IS06a-
+IS06a-8	IS06a-
+IS06a-9	IS06a-

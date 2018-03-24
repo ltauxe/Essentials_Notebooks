@@ -1,0 +1,18 @@
+tab	specimens
+specimen	experiments	sample	hyst_bc	hyst_bcr	hyst_mr_moment	hyst_ms_moment	hyst_xhf	software_packages	citations	method_codes	experiment
+IS06a-1		IS06a-1									
+IS06a-2		IS06a-2									
+IS06a-3		IS06a-3									
+IS06a-4		IS06a-4									
+IS06a-5		IS06a-5									
+IS06a-6		IS06a-6									
+IS06a-8		IS06a-8									
+IS06a-9		IS06a-9									
+IS06a-1	IS06a-1:LP-HYS	IS06a-1	2.855e+02	0	9.784e+03	3.977e+04	2.48e-06	pmagpy-3.16.0	This study	LP-HYS:	IS06a-1:LP-HYS
+IS06a-2	IS06a-2:LP-HYS	IS06a-2	6.206e+02	0	1.515e-03	4.075e-03	1.28e-12	pmagpy-3.16.0	This study	LP-HYS:	IS06a-2:LP-HYS
+IS06a-3	IS06a-3:LP-HYS	IS06a-3	6.137e+02	0	5.802e-04	1.658e-03	1.01e-12	pmagpy-3.16.0	This study	LP-HYS:	IS06a-3:LP-HYS
+IS06a-4	IS06a-4:LP-HYS	IS06a-4	6.907e+02	0	6.748e-03	1.480e-02	1.68e-12	pmagpy-3.16.0	This study	LP-HYS:	IS06a-4:LP-HYS
+IS06a-5	IS06a-5:LP-HYS	IS06a-5	3.971e+02	0	6.076e-03	1.926e-02	1.84e-12	pmagpy-3.16.0	This study	LP-HYS:	IS06a-5:LP-HYS
+IS06a-6	IS06a-6:LP-HYS	IS06a-6	2.846e+02	0	1.648e-03	6.542e-03	8.94e-13	pmagpy-3.16.0	This study	LP-HYS:	IS06a-6:LP-HYS
+IS06a-8	IS06a-8:LP-HYS	IS06a-8	4.314e+02	0	3.405e-03	1.127e-02	9.30e-13	pmagpy-3.16.0	This study	LP-HYS:	IS06a-8:LP-HYS
+IS06a-9	IS06a-9:LP-HYS	IS06a-9	3.015e+02	0	7.436e-04	2.823e-03	4.48e-13	pmagpy-3.16.0	This study	LP-HYS:	IS06a-9:LP-HYS
