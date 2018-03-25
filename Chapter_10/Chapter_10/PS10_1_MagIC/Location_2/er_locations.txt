@@ -1,3 +1,0 @@
-tab 	er_locations
-er_citation_names	er_location_name	location_begin_lat	location_begin_lon	location_end_lat	location_end_lon	location_type
-10.1016/j.pepi.2014.12.007:This study	Finland	60.1	24.90	60.1	24.90	Archeological Site

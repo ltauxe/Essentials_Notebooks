@@ -1,4 +1,0 @@
-tab 	er_sites
-er_citation_names	er_location_name	er_site_name	site_class	site_definition	site_lithology	site_type
-10.1016/j.pepi.2008.03.006:This study	Sakurajima	SW	Igneous:Extrusive	s	Andesite	Lava Flow
-10.1016/j.pepi.2008.03.006:This study	Sakurajima	TS	Igneous:Extrusive	s	Andesite	Lava Flow

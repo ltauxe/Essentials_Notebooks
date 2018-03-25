@@ -1,3 +1,0 @@
-tab 	er_sites
-er_citation_names	er_location_name	er_site_name	site_class	site_definition	site_lithology	site_type
-10.1016/j.pepi.2014.12.007:This study	Finland	BR06	Archeologic	s	Not Specified	Brick

@@ -1,5 +1,0 @@
-tab 	er_specimens
-er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_class	specimen_lithology	specimen_type
-10.1016/j.pepi.2014.12.007:This study	Finland	BR06	BR06	BR06-3F	Archeologic	Not Specified	Brick
-10.1016/j.pepi.2014.12.007:This study	Finland	BR06	BR06	BR06-4F	Archeologic	Not Specified	Brick
-10.1016/j.pepi.2014.12.007:This study	Finland	BR06	BR06	BR06-5F	Archeologic	Not Specified	Brick

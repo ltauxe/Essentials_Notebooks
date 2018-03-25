@@ -1,3 +1,0 @@
-tab 	er_locations
-er_citation_names	er_location_name	location_begin_lat	location_begin_lon	location_end_lat	location_end_lon	location_type
-10.1111/j.1365-246X.2012.05412.x:This study	Krafla	65.7	343.20	65.7	343.20	Outcrop

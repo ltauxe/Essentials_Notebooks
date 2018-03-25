@@ -1,5 +1,0 @@
-tab 	er_samples
-er_citation_names	er_location_name	er_sample_name	er_site_name	sample_class	sample_lat	sample_lithology	sample_lon	sample_type
-10.1016/j.pepi.2008.03.006:This study	Sakurajima	SW01	SW	Extrusive:Igneous	31.6	Andesite	229.40	Lava Flow
-10.1016/j.pepi.2008.03.006:This study	Sakurajima	TS01	TS	Extrusive:Igneous	31.6	Andesite	229.40	Lava Flow
-10.1016/j.pepi.2008.03.006:This study	Sakurajima	TS02	TS	Extrusive:Igneous	31.6	Andesite	229.40	Lava Flow

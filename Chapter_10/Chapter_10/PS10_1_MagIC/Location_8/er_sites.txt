@@ -1,3 +1,0 @@
-tab 	er_sites
-er_citation_names	er_location_name	er_site_name	site_class	site_definition	site_lithology	site_type
-10.1029/2010JB007844:This study	Vesuvius	VM	Igneous:Extrusive	s	Basalt	Lava Flow

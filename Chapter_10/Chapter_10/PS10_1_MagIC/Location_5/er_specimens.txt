@@ -1,5 +1,0 @@
-tab 	er_specimens
-er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_class	specimen_lithology	specimen_type
-10.1111/j.1365-246X.2012.05412.x:This study	Krafla	kf	kf	kf011	Igneous:Extrusive	Basalt	Lava flow
-10.1111/j.1365-246X.2012.05412.x:This study	Krafla	kf	kf	kf031	Igneous:Extrusive	Basalt	Lava flow
-10.1111/j.1365-246X.2012.05412.x:This study	Krafla	kf	kf	kf072	Igneous:Extrusive	Basalt	Lava flow

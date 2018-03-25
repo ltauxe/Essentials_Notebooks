@@ -1,3 +1,0 @@
-tab 	er_samples
-er_citation_names	er_location_name	er_sample_name	er_site_name	sample_class	sample_lat	sample_lithology	sample_lon	sample_type
-10.1111/j.1365-246X.2012.05412.x:This study	Krafla	kf	kf	Extrusive:Igneous	65.7	Basalt	343.20	Lava Flow

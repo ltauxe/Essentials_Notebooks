@@ -1,3 +1,0 @@
-tab 	er_ages
-age	age_unit	er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	magic_method_codes
-1944	Years AD (+/-)	This study	Vesuvius		VM		GM-NO
