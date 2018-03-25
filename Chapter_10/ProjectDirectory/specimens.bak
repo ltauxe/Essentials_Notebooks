@@ -1,0 +1,379 @@
+tab	specimens
+specimen	sample	geologic_classes	geologic_types	lithologies	citations
+A-1-3	A	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+A-2-3	A	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+A-3-3	A	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+A-4-3	A	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+A-4-4L	A	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+A-5-3	A	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+AL2360-1a	AL2360-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2360-1b	AL2360-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2360-1c	AL2360-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2360-1d	AL2360-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2360-1e	AL2360-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2742-4a	AL2742-4	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2742-4b	AL2742-4	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2742-4e	AL2742-4	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2742-4f	AL2742-4	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2742-4g	AL2742-4	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2770-3a	AL2770-3	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2770-3b	AL2770-3	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2770-3c	AL2770-3	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2844-2a	AL2844-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2844-2b	AL2844-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2852-2a	AL2852-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2852-2b	AL2852-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2852-2c	AL2852-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2852-2d	AL2852-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2852-2e	AL2852-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL2852-2f	AL2852-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3023-1a	AL3023-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3023-1b	AL3023-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3028-2a	AL3028-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3028-2b	AL3028-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3029-4a	AL3029-4	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3029-4b	AL3029-4	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3029-4c	AL3029-4	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3029-5a	AL3029-5	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3031-1a	AL3031-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3031-1b	AL3031-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3031-1c	AL3031-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3031-1d	AL3031-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3034-2a	AL3034-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3034-2d	AL3034-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3034-2e	AL3034-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3034-5a	AL3034-5	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3034-5b	AL3034-5	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3034-5d	AL3034-5	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3035-2a	AL3035-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3035-2b	AL3035-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3035-2h	AL3035-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3035-2i	AL3035-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3035-2j	AL3035-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3156-1a	AL3156-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3156-1b	AL3156-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3159-1a	AL3159-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3159-1b	AL3159-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3159-1g	AL3159-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3166-1a	AL3166-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3166-1b	AL3166-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3166-1g	AL3166-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+AL3166-1h	AL3166-1	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+B-1-3	B	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+B-10-1	B	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+B-2-1	B	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+B-3-3	B	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+B-4-3	B	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+B-5-1	B	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+B-6-3	B	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+B-7-3	B	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+B-8-1	B	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+B-9-3	B	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+B-9-4L	B	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+BR06-3F	BR06	Archeologic	Brick	Not Specified	10.1016/j.pepi.2014.12.007:This study
+BR06-4F	BR06	Archeologic	Brick	Not Specified	10.1016/j.pepi.2014.12.007:This study
+BR06-5F	BR06	Archeologic	Brick	Not Specified	10.1016/j.pepi.2014.12.007:This study
+C-1-3	C	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+C-2-3	C	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+C-3-3	C	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+C-4-1	C	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+C-4-4L	C	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+SBG_2352-2b	SBG_2352-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/93jb01160:This study
+SBG_2352-2e	SBG_2352-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/93jb01160:This study
+SBG_2352-2g	SBG_2352-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/93jb01160:This study
+SBG_2358-4f	SBG_2358-4	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/93jb01160:This study
+SBG_2372-2e	SBG_2372-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/93jb01160:This study
+SBG_2372-2g	SBG_2372-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/93jb01160:This study
+SBG_2372-2h	SBG_2372-2	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/93jb01160:This study
+SBG_2372-3d	SBG_2372-3	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/93jb01160:This study
+SBG_2372-3e	SBG_2372-3	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/93jb01160:This study
+SBG_2372-3f	SBG_2372-3	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/93jb01160:This study
+SBG_2392-4c	SBG_2392-4	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/93jb01160:This study
+SBG_2392-4e	SBG_2392-4	Extrusive:Igneous:Submarine	Glassy Margin	Submarine Basaltic Glass	10.1029/93jb01160:This study
+SW01-01A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-02A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-03A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-04A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-05A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-06A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-07A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-08A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-09A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-10A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-11A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-12A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-13A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-14A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-15A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-16A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-17A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-18A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+SW01-19A-2	SW01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-00A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-01A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-02A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-04A-1	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-05A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-06A-3	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-07A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-08A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-10A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-11A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-12A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-13A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-14A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-15A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-16A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-17A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-18A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-19A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-20A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-21A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-22A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-23A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-24A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-25A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-26A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-27A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS01-28A-2	TS01	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-01A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-02A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-03A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-04A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-05A-3	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-06A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-07A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-08A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-09A-3	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-10A-3	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-11A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-12A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-13A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-14A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-15A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-16A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-17A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-18A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-19A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-20A-3	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-21A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-22A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-23A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-24A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-25A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS02-26A-2	TS02	Extrusive:Igneous	Lava flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+hw108a1	hw108a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108a2	hw108a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108a3	hw108a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108a4	hw108a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108a5	hw108a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108b1	hw108b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108b2	hw108b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108b3	hw108b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108b4	hw108b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108b5	hw108b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108c1	hw108c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108c10	hw108c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108c11	hw108c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108c12	hw108c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108c13	hw108c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108c2	hw108c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108c3	hw108c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108c4	hw108c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108c5	hw108c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108c6	hw108c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108c7	hw108c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108c8	hw108c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw108c9	hw108c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw123a1	hw123a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw123a10	hw123a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw123a11	hw123a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw123a12	hw123a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw123a2	hw123a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw123a3	hw123a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw123a4	hw123a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw123a5	hw123a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw123a6	hw123a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw123a7	hw123a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw123a8	hw123a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw123a9	hw123a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw126a1	hw126a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw126a2	hw126a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw126a3	hw126a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw126a4	hw126a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw126a5	hw126a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw126a6	hw126a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw126a7	hw126a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw126a8	hw126a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw126b1	hw126b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw126b2	hw126b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw126b3	hw126b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw126b4	hw126b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw126b5	hw126b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128a1	hw128a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128a10	hw128a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128a11	hw128a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128a2	hw128a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128a3	hw128a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128a4	hw128a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128a5	hw128a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128a6	hw128a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128a7	hw128a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128a8	hw128a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128a9	hw128a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128b1	hw128b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128b2	hw128b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128b3	hw128b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128b4	hw128b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128b5	hw128b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128c1	hw128c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128c2	hw128c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128c3	hw128c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128c4	hw128c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128c5	hw128c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128d1	hw128d	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128d2	hw128d	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128d3	hw128d	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128d4	hw128d	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw128d5	hw128d	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw201a1	hw201a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw201a10	hw201a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw201a11	hw201a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw201a12	hw201a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw201a2	hw201a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw201a3	hw201a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw201a4	hw201a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw201a5	hw201a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw201a6	hw201a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw201a7	hw201a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw201a8	hw201a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw201a9	hw201a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw226a1	hw226a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw226a2	hw226a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw226a3	hw226a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw226a4	hw226a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw226a5	hw226a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw226a6	hw226a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw226b1	hw226b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw226b2	hw226b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw226b3	hw226b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw226b4	hw226b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw226b5	hw226b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw226b6	hw226b	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241a1	hw241a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241a2	hw241a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241a3	hw241a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241a4	hw241a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241a5	hw241a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241a6	hw241a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241d1	hw241d	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241d2	hw241d	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241d3	hw241d	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241d4	hw241d	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241d5	hw241d	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241d6	hw241d	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241e1	hw241e	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241e2	hw241e	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241e3	hw241e	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241e4	hw241e	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241e5	hw241e	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+hw241e6	hw241e	Extrusive:Igneous	Lava flow	Basalt	10.1029/2005GC001141:This study
+kf011	kf	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+kf031	kf	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+kf072	kf	Extrusive:Igneous	Lava flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+p1ay	p1ay	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1c-stub1	p1c-stub1	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1cy_u	p1cy_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1cz_u	p1cz_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1e_u	p1e_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1fx_u	p1fx_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1fy_u	p1fy_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1ga_u	p1ga_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1gb_u	p1gb_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1gc_u	p1gc_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1h_u	p1h_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1hb_u	p1hb_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1ka_u	p1ka_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1kb_u	p1kb_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1kc_u	p1kc_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1kd_u	p1kd_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1l_u	p1l_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1my	p1my	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1na_u	p1na_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1nb	p1nb	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p1o_u	p1o_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2aa_u	p2aa_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2ab_u	p2ab_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2ac_u	p2ac_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2ad	p2ad	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2b_u	p2b_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2d	p2d	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2ey_u	p2ey_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2kx_u	p2kx_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2na_u	p2na_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2nb_u	p2nb_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2o_u	p2o_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2q	p2q	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2qc	p2qc	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2rl_u	p2rl_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+p2s_u	p2s_u	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+remag-rs61a	remag-rs61	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs61c	remag-rs61	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs61e	remag-rs61	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs61f	remag-rs61	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs61h	remag-rs61	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs61i	remag-rs61	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs62a	remag-rs62	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs62b	remag-rs62	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs62e	remag-rs62	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs62f	remag-rs62	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs62g	remag-rs62	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs62h	remag-rs62	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs63a	remag-rs63	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs63f	remag-rs63	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs63g	remag-rs63	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs63i	remag-rs63	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs63j	remag-rs63	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs78a	remag-rs78	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs78e	remag-rs78	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs78f	remag-rs78	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs78g	remag-rs78	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs78i	remag-rs78	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+rs25a	rs25	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs25b	rs25	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs25c	rs25	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs25d	rs25	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs25e	rs25	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs26a	rs26	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs26b	rs26	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs26c	rs26	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs26d	rs26	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs26e	rs26	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs27a	rs27	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs27b	rs27	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs27c	rs27	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs27d	rs27	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs27e	rs27	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs27f	rs27	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs27g	rs27	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs27h	rs27	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs27i	rs27	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs27j	rs27	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+vm1a	vm1a	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1c	vm1c	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1dy	vm1dy	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1f	vm1f	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1g	vm1g	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1hx	vm1hx	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1i	vm1i	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1kx	vm1kx	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1mx	vm1mx	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1my	vm1my	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1nx	vm1nx	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1o	vm1o	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1q	vm1q	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1ry	vm1ry	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm1s	vm1s	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm2ay	vm2ay	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm2by	vm2by	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study
+vm2dy	vm2dy	Extrusive:Igneous	Lava flow	Basalt	10.1029/2010JB007844:This study

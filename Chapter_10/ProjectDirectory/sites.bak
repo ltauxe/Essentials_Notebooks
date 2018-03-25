@@ -1,0 +1,25 @@
+tab	sites
+site	location	lat	lon	geologic_classes	geologic_types	lithologies	citations
+1991-1992 Eruption Site	EPR	9.8	255.7	Extrusive:Igneous	Glassy Margin	Submarine Basaltic Glass	10.1029/2005GC001141:This study
+BBQ	EPR	9.8	255.7	Extrusive:Igneous	Glassy Margin	Submarine Basaltic Glass	10.1029/93jb01160:This study
+BR06	Finland	60.1	24.9	Archeologic	Brick	Not Specified	10.1016/j.pepi.2014.12.007:This study
+Hawaii 1960 Flow	Hawaii	19.52	204.19	Extrusive:Igneous	Lava Flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+P	Paracutin	19.3	257.9	Extrusive:Igneous	Lava Flow	Basalt	10.1029/2010JB007844:This study
+SW	Sakurajima	31.6	229.4	Extrusive:Igneous	Lava Flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+TS	Sakurajima	31.6	229.4	Extrusive:Igneous	Lava Flow	Andesite	10.1016/j.pepi.2008.03.006:This study
+VM	Vesuvius	40.8	14.5	Extrusive:Igneous	Lava Flow	Basalt	10.1029/2010JB007844:This study
+hw108	Hawaii	19.9	204.1	Extrusive:Igneous	Lava Flow	Basalt	10.1029/2005GC001141:This study
+hw123	Hawaii	19.07	204.29	Extrusive:Igneous	Lava Flow	Basalt	10.1029/2005GC001141:This study
+hw126	Hawaii	19.69	204.54	Extrusive:Igneous	Lava Flow	Basalt	10.1029/2005GC001141:This study
+hw128	Hawaii	19.26	204.13	Extrusive:Igneous	Lava Flow	Basalt	10.1029/2005GC001141:This study
+hw201	Hawaii	19.36	205.03	Extrusive:Igneous	Lava Flow	Basalt	10.1029/2005GC001141:This study
+hw226	Hawaii	19.64	204.13	Extrusive:Igneous	Lava Flow	Basalt	10.1029/2005GC001141:This study
+hw241	Hawaii	19.52	204.19	Extrusive:Igneous	Lava Flow	Basalt	10.1029/2005GC001141:This study
+kf	Krafla	65.7	343.2	Extrusive:Igneous	Lava Flow	Basalt	10.1111/j.1365-246X.2012.05412.x:This study
+remag-rs61	HUJI	31.7811	35.2	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs62	HUJI	31.7811	35.2	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs63	HUJI	31.7811	35.2	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+remag-rs78	HUJI	31.7811	35.2	Synthetic	Slag	Not Specified	10.1016/j.epsl.2011.08.024:This study
+rs25	HUJI	31.7811	35.2	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs26	HUJI	31.7811	35.2	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
+rs27	HUJI	31.7811	35.2	Synthetic	Slag	Not Specified	10.1016/j.epsl.2009.12.022:This study
