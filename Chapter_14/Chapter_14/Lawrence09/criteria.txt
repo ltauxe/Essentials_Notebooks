@@ -1,0 +1,26 @@
+tab	criteria
+criterion	table_column	criterion_operation	criterion_value	citations	description
+DE-SAMP	samples.dir_alpha95	<=	180	This study	Criteria for selection of sample direction
+DE-SITE	sites.dir_alpha95	<=	180	This study	Criteria for selection of site direction
+DE-SITE	sites.dir_k	>=	50	This study	Criteria for selection of site direction
+DE-SITE	sites.dir_n_samples	>=	5	This study	Criteria for selection of site direction
+DE-SITE	sites.dir_n_specimens_lines	>=	4	This study	Criteria for selection of site direction
+DE-SPEC	specimens.dir_alpha95	<=	180	This study	Criteria for selection of specimen direction
+DE-SPEC	specimens.dir_mad_free	<=	5	This study	Criteria for selection of specimen direction
+DE-SPEC	specimens.dir_n_measurements	>=	4	This study	Criteria for selection of specimen direction
+IE-SAMP	samples.int_abs_sigma	<=	-1	This study	sample intensity
+IE-SAMP	samples.int_abs_sigma_perc	<=	200	This study	sample intensity
+IE-SAMP	samples.int_n_specimens	>=	1	This study	sample intensity
+IE-SITE	sites.int_abs_sigma	<=	-1	This study	Criteria for selection of site intensity
+IE-SITE	sites.int_abs_sigma_perc	<=	15	This study	Criteria for selection of site intensity
+IE-SITE	sites.int_n_samples	>=	2	This study	Criteria for selection of site intensity
+IE-SPEC	specimens.int_b_beta	<=	0.14	This study	Criteria for selection of specimen intensity
+IE-SPEC	specimens.int_dang	<=	13	This study	Criteria for selection of specimen intensity
+IE-SPEC	specimens.int_drats	<=	17	This study	Criteria for selection of specimen intensity
+IE-SPEC	specimens.int_fvds	>=	0.3	This study	Criteria for selection of specimen intensity
+IE-SPEC	specimens.int_mad_free	<=	11	This study	Criteria for selection of specimen intensity
+IE-SPEC	specimens.int_maxdev	<=	15	This study	Criteria for selection of specimen intensity
+IE-SPEC	specimens.int_n_ptrm	>=	2	This study	Criteria for selection of specimen intensity
+IE-SPEC	specimens.int_q	>=	1	This study	Criteria for selection of specimen intensity
+NPOLE	site.dir_polarity	=	n	This study	Criteria for inclusion in normal mean
+RPOLE	site.dir_polarity	=	r	This study	Criteria for inclusion in reverse mean

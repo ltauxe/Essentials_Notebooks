@@ -1,0 +1,433 @@
+tab	images
+location	site	file	keywords	title	type	citations	photographers	timestamp
+McMurdo	mc108	P1080029.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC108 site overview	Outcrop	This study	Lisa Tauxe	2004-01-08T00:00:00Z
+McMurdo	mc118	P1120001.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC118 closeup of sampling sites	Outcrop	This study	Lisa Tauxe	2004-01-12T00:00:00Z
+McMurdo	mc118	P1150002.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	image of differential GPS system	Outcrop	This study	Lisa Tauxe	2004-01-12T00:00:00Z
+McMurdo	mc119	P1150004.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC119 detail	Outcrop	This study	Lisa Tauxe	2004-01-12T00:00:00Z
+McMurdo	mc119	P1150005.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC119 detail	Outcrop	This study	Lisa Tauxe	2004-01-12T00:00:00Z
+McMurdo	mc150	P12500011.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	Jasper Konter drilling for paleomagnetic site	Outcrop	This study	Lisa Tauxe	2004-01-26T00:00:00Z
+McMurdo	mc150	P12500014.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC150 closeup of samples D-J	Outcrop	This study	Lisa Tauxe	2004-01-26T00:00:00Z
+McMurdo	mc150	P12500015.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC150 closeup of samples A-I	Outcrop	This study	Lisa Tauxe	2004-01-26T00:00:00Z
+McMurdo	mc150	P1250009.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	Taylor Valley landscape	Landscape	This study	Lisa Tauxe	2004-01-26T00:00:00Z
+McMurdo	mc152	P1260026.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC152 detail of sample locations	Outcrop	This study	Lisa Tauxe	2004-01-26T00:00:00Z
+McMurdo	mc152	P1260027.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	Jasper Konter chilling out	Outcrop	This study	Lisa Tauxe	2004-01-26T00:00:00Z
+McMurdo	mc154	P1270009.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC154 view of lava in front of Roaring Valley glacier	Outcrop	This study	Lisa Tauxe	2004-01-28T00:00:00Z
+McMurdo	mc156	P1280023.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC156 closeup of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-28T00:00:00Z
+McMurdo	mc156	P1280024.JPG	overview	MC156 view up valley	Outcrop	This study	Lisa Tauxe	2004-01-28T00:00:00Z
+McMurdo	mc158	P12800012_1.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	Jasper Konter at the bar	Outcrop	This study	Lisa Tauxe	2004-01-29T00:00:00Z
+McMurdo	mc158	P1280004.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC158 detail of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-29T00:00:00Z
+McMurdo	mc158	P1280005.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC158 detail of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-29T00:00:00Z
+McMurdo	mc158	P1280006.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC158 detail of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-29T00:00:00Z
+McMurdo	mc160	P1290039.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC160 detail of samples A-F	Outcrop	This study	Lisa Tauxe	2004-01-29T00:00:00Z
+McMurdo	mc160	P1290040.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC160 detail of samples F-L	Outcrop	This study	Lisa Tauxe	2004-01-29T00:00:00Z
+McMurdo	mc160	P1290041.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC160 detail of samples A-G	Outcrop	This study	Lisa Tauxe	2004-01-29T00:00:00Z
+McMurdo	mc161	P1290005.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC 161 detail of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-30T00:00:00Z
+McMurdo	mc161	P1290006.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC 161 detail of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-30T00:00:00Z
+McMurdo	mc161	P1290007.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC 161 detail of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-30T00:00:00Z
+McMurdo	mc161	P1290008.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC 161 detail of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-30T00:00:00Z
+McMurdo	mc161	P1290009.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC 161 detail of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-30T00:00:00Z
+McMurdo	mc162	P1300016.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC162 detail of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-30T00:00:00Z
+McMurdo	mc162	P1300017.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC162 detail of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-30T00:00:00Z
+McMurdo	mc162	P1300018.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC162 detail of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-30T00:00:00Z
+McMurdo	mc162	P1300019.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	Jasper Konter wrapping samples	Outcrop	This study	Lisa Tauxe	2004-01-30T00:00:00Z
+McMurdo	mc163	P1300083.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC163 detail of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-30T00:00:00Z
+McMurdo	mc163	P1300084.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC163 detail of sampling locations	Outcrop	This study	Lisa Tauxe	2004-01-30T00:00:00Z
+McMurdo	mc163	P1300085.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	Jasper Konter wrapping more samples	Outcrop	This study	Lisa Tauxe	2004-01-30T00:00:00Z
+McMurdo	mc165	P1310044_1.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC165 detail of C-J	Outcrop	This study	Lisa Tauxe	2004-01-31T00:00:00Z
+McMurdo	mc165	P1310045_1.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC165 detail of A-H	Outcrop	This study	Lisa Tauxe	2004-01-31T00:00:00Z
+McMurdo	mc166	P2020025.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	Jasper Konter orienting samples	Outcrop	This study	Lisa Tauxe	2004-02-02T00:00:00Z
+McMurdo	mc166	P2020026.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC166 detail of samples	Outcrop	This study	Lisa Tauxe	2004-02-02T00:00:00Z
+McMurdo	mc166	P2020027.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC166 detail of samples	Outcrop	This study	Lisa Tauxe	2004-02-02T00:00:00Z
+McMurdo	mc166	P2020028.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC166 detail of samples	Outcrop	This study	Lisa Tauxe	2004-02-02T00:00:00Z
+McMurdo	mc167	P2020038.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC167 detail of samples	Outcrop	This study	Lisa Tauxe	2004-02-03T00:00:00Z
+McMurdo	mc168	P2020050.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC168 detail of samples	Outcrop	This study	Lisa Tauxe	2004-02-03T00:00:00Z
+McMurdo	mc168	P2020051.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC168 detail of samples	Outcrop	This study	Lisa Tauxe	2004-02-03T00:00:00Z
+McMurdo	mc168	P2020053.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	view from outcrop	Landscape	This study	Lisa Tauxe	2004-02-03T00:00:00Z
+McMurdo	mc168	P2020054.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	Jasper Konter taking sun compass reading	Outcrop	This study	Lisa Tauxe	2004-02-03T00:00:00Z
+McMurdo	mc169	P2030059.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC169 samples A-D	Outcrop	This study	Lisa Tauxe	2004-02-03T00:00:00Z
+McMurdo	mc169	P2030060.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC169 samples E-G	Outcrop	This study	Lisa Tauxe	2004-02-03T00:00:00Z
+McMurdo	mc169	P2030064.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC169 overview	Outcrop	This study	Lisa Tauxe	2004-02-03T00:00:00Z
+McMurdo	mc169	P2030065.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	view from MC169	Landscape	This study	Lisa Tauxe	2004-02-03T00:00:00Z
+McMurdo	mc170	P2030030.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC170 detail of samples	Outcrop	This study	Lisa Tauxe	2004-02-04T00:00:00Z
+McMurdo	mc170	P2030031.JPG	outcrop photo: paleomagnetic site :McMurdo volcanics	MC170 detail of samples	Outcrop	This study	Lisa Tauxe	2004-02-04T00:00:00Z
+McMurdo	mc200	DSC_0079.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC200 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-24T00:00:00Z
+McMurdo	mc200	DSC_0080.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC200 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-24T00:00:00Z
+McMurdo	mc200	DSC_0081.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC200 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-24T00:00:00Z
+McMurdo	mc200	DSC_0082.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC200 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-24T00:00:00Z
+McMurdo	mc200	DSC_0083.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC200 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-24T00:00:00Z
+McMurdo	mc200	DSC_0084.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC200 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-24T00:00:00Z
+McMurdo	mc200	DSC_0085.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC200 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-24T00:00:00Z
+McMurdo	mc200	DSC_0086.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC200 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-24T00:00:00Z
+McMurdo	mc200	DSC_0087.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC200 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-24T00:00:00Z
+McMurdo	mc200	DSC_0088.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC200 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-24T00:00:00Z
+McMurdo	mc200	DSC_0089.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC200 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-24T00:00:00Z
+McMurdo	mc201	DSC_0226.JPG	McMurdo Volcanics: paleomagnetic sampling :North of Cape Barne	MC201 overview	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc201	DSC_0227.JPG	McMurdo Volcanics: paleomagnetic sampling :North of Cape Barne	MC201 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc201	DSC_0228.JPG	McMurdo Volcanics: paleomagnetic sampling :North of Cape Barne	MC201 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc201	DSC_0229.JPG	McMurdo Volcanics: paleomagnetic sampling :North of Cape Barne	MC201 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc201	DSC_0230.JPG	McMurdo Volcanics: paleomagnetic sampling :North of Cape Barne	MC201 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc201	DSC_0231.JPG	McMurdo Volcanics: paleomagnetic sampling :North of Cape Barne	MC201 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc201	DSC_0232.JPG	McMurdo Volcanics: paleomagnetic sampling :North of Cape Barne	MC201 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc201	DSC_0233.JPG	McMurdo Volcanics: paleomagnetic sampling :North of Cape Barne	MC201 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc201	DSC_0234.JPG	McMurdo Volcanics: paleomagnetic sampling :North of Cape Barne	MC201 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc201	DSC_0235.JPG	McMurdo Volcanics: paleomagnetic sampling :North of Cape Barne	MC201 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc202	DSC_0240.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC202 overview	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc202	DSC_0242.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC202 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc202	DSC_0243.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC202 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc202	DSC_0244.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC202 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc202	DSC_0245.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC202 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc202	DSC_0246.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC202 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc202	DSC_0247.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC202 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc202	DSC_0248.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC202 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc202	DSC_0249.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC202 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc203	DSC_0168.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Barnes Dike	MC203 drilling	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc203	DSC_0181.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Barnes Dike	MC203 drilling	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc203	DSC_0188.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Barnes Dike	MC203 drilling	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc203	DSC_0196.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Barnes Dike	MC203 drilling	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc203	DSC_0252.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Barnes Dike	MC203 drilling	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc203	DSC_0253.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Barnes Dike	MC203 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc203	DSC_0254.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Barnes Dike	MC203 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc203	DSC_0255.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Barnes Dike	MC203 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc203	DSC_0256.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Barnes Dike	MC203 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc203	DSC_0257.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Barnes Dike	MC203 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc203	DSC_0258.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Barnes Dike	MC203 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc203	DSC_0259.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Barnes Dike	MC203 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-27T00:00:00Z
+McMurdo	mc204	DSC_0200.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc204	DSC_0201.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc204	DSC_0202.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc204	DSC_0203.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc204	DSC_0204.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc204	DSC_0205.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc204	DSC_0206.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc204	DSC_0207.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 overview of outcrop	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc204	DSC_0208.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 overview of outcrop	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc204	DSC_0209.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 overview of outcrop	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc204	DSC_0210.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc204	DSC_0211.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc204	DSC_0212.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc204	DSC_0213.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Evans	MC204 detail of samples	Outcrop	This study	Hubert Staudigel	2006-11-28T00:00:00Z
+McMurdo	mc205	DSC_0002.JPG	McMurdo Volcanics: paleomagnetic sampling :Tryggve Point	MC205 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc205	DSC_0003.JPG	McMurdo Volcanics: paleomagnetic sampling :Tryggve Point	MC205 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc205	DSC_0004.JPG	McMurdo Volcanics: paleomagnetic sampling :Tryggve Point	MC205 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc205	DSC_0005.JPG	McMurdo Volcanics: paleomagnetic sampling :Tryggve Point	MC205 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc205	DSC_0006.JPG	McMurdo Volcanics: paleomagnetic sampling :Tryggve Point	MC205 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc205	DSC_0007.JPG	McMurdo Volcanics: paleomagnetic sampling :Tryggve Point	MC205 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc205	DSC_0008.JPG	McMurdo Volcanics: paleomagnetic sampling :Tryggve Point	MC205 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc205	DSC_0009.JPG	McMurdo Volcanics: paleomagnetic sampling :Tryggve Point	MC205 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc205	DSC_0010.JPG	McMurdo Volcanics: paleomagnetic sampling :Tryggve Point	MC205 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc205	DSC_0011.JPG	McMurdo Volcanics: paleomagnetic sampling :Tryggve Point	MC205 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc205	DSC_0012.JPG	McMurdo Volcanics: paleomagnetic sampling :Tryggve Point	MC205 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc205	DSC_0013.JPG	McMurdo Volcanics: paleomagnetic sampling :Tryggve Point	MC205 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc206	DSC_0014.JPG	McMurdo Volcanics: paleomagnetic sampling :Turk's head	MC206 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc206	DSC_0015.JPG	McMurdo Volcanics: paleomagnetic sampling :Turk's head	MC206 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc206	DSC_0016.JPG	McMurdo Volcanics: paleomagnetic sampling :Turk's head	MC206 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc206	DSC_0017.JPG	McMurdo Volcanics: paleomagnetic sampling :Turk's head	MC206 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc206	DSC_0018.JPG	McMurdo Volcanics: paleomagnetic sampling :Turk's head	MC206 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc206	DSC_0019.JPG	McMurdo Volcanics: paleomagnetic sampling :Turk's head	MC206 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc206	DSC_0020.JPG	McMurdo Volcanics: paleomagnetic sampling :Turk's head	MC206 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc206	DSC_0021.JPG	McMurdo Volcanics: paleomagnetic sampling :Turk's head	MC206 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc206	DSC_0022.JPG	McMurdo Volcanics: paleomagnetic sampling :Turk's head	MC206 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-02T00:00:00Z
+McMurdo	mc207	DSC_0091.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0092.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0093.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0094.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0095.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0096.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0097.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0098.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0099.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0100.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0101.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0102.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0103.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0104.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0105.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc207	DSC_0118.JPG	McMurdo Volcanics: paleomagnetic sampling :Big Razorback	MC207 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-03T00:00:00Z
+McMurdo	mc208	DSC_0107.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc208	DSC_0108.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc208	DSC_0110.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc208	DSC_0119.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc208	DSC_0120.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc208	DSC_0121.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc208	DSC_0122.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc208	DSC_0123.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc208	DSC_0124.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc208	DSC_0125.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc208	DSC_0126.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc208	DSC_0127.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc208	DSC_0128.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc208	DSC_0129.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC208 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0141.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0142.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0143.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0144.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0145.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0146.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0148.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0149.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0150.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0151.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0152.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0153.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0154.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0155.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0156.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0157.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0158.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc209	DSC_0159.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC209 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-04T00:00:00Z
+McMurdo	mc210	DSC_0002A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 drilling	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0003A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 drilling	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0004A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0005A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0006A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0007A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0008A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0009A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0010A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0011A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0012A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0013A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0014A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0015A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0039A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0040A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0041A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0042A.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc210	DSC_0042B.JPG	McMurdo Volcanics: paleomagnetic sampling :Tent Island	MC210 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc211	DSC_0021A.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC211 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc211	DSC_0022A.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC211 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc211	DSC_0023A.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC211 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc211	DSC_0024A.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC211 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc211	DSC_0025A.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC211 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc211	DSC_0026A.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC211 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc211	DSC_0027A.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC211 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc211	DSC_0028A.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC211 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc211	DSC_0029A.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC211 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc211	DSC_0030A.JPG	McMurdo Volcanics: paleomagnetic sampling :Inaccessible Island	MC211 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-05T00:00:00Z
+McMurdo	mc212	DSC_0081A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0082A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0083A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0084A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0085A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0086A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0087A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0088A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0089A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0090A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0091A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0092A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0093A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0094A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc212	DSC_0095A.JPG	McMurdo Volcanics: paleomagnetic sampling :Wright Valley	MC212 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-07T00:00:00Z
+McMurdo	mc213	DSC_0281A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0284A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0287A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0288A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0289A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0290A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0291A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0292A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0293A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0294A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0295A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0296A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0297A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0298A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc213	DSC_0299A.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC213 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc214	DSC_0302.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC214 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc214	DSC_0303.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC214 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc214	DSC_0304.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC214 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc214	DSC_0305.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC214 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc214	DSC_0306.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC214 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc214	DSC_0307.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC214 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc214	DSC_0308.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC214 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc214	DSC_0309.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC214 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc214	DSC_0310.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC214 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc214	DSC_0311.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC214 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc214	DSC_0312.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC214 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-08T00:00:00Z
+McMurdo	mc215	DSC_0001B.JPG	McMurdo Volcanics: paleomagnetic sampling :South of Abbot peak	MC215 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc215	DSC_0002B.JPG	McMurdo Volcanics: paleomagnetic sampling :South of Abbot peak	MC215 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc215	DSC_0003B.JPG	McMurdo Volcanics: paleomagnetic sampling :South of Abbot peak	MC215 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc215	DSC_0004B.JPG	McMurdo Volcanics: paleomagnetic sampling :South of Abbot peak	MC215 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc215	DSC_0005B.JPG	McMurdo Volcanics: paleomagnetic sampling :South of Abbot peak	MC215 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc215	DSC_0006B.JPG	McMurdo Volcanics: paleomagnetic sampling :South of Abbot peak	MC215 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc215	DSC_0007B.JPG	McMurdo Volcanics: paleomagnetic sampling :South of Abbot peak	MC215 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc215	DSC_0008B.JPG	McMurdo Volcanics: paleomagnetic sampling :South of Abbot peak	MC215 detail of samples	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc215	IMG_0423.JPG	McMurdo Volcanics: paleomagnetic sampling :South of Abbot peak	MC215 happy team	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc216	DSC_0021B.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Abbot Peak	MC216 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc216	DSC_0029B.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Abbot Peak	MC216 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc216	DSC_0030B.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Abbot Peak	MC216 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc216	DSC_0031B.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Abbot Peak	MC216 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc216	DSC_0032B.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Abbot Peak	MC216 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc216	DSC_0033B.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Abbot Peak	MC216 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc216	DSC_0034B.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Abbot Peak	MC216 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc216	IMG_0452.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Abbot Peak	MC216 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-13T00:00:00Z
+McMurdo	mc217	DSC_0007C.JPG	McMurdo Volcanics: paleomagnetic sampling :Three sisters	MC217 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc217	DSC_0008C.JPG	McMurdo Volcanics: paleomagnetic sampling :Three sisters	MC217 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc217	DSC_0009C.JPG	McMurdo Volcanics: paleomagnetic sampling :Three sisters	MC217 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc217	DSC_0010C.JPG	McMurdo Volcanics: paleomagnetic sampling :Three sisters	MC217 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc217	DSC_0011C.JPG	McMurdo Volcanics: paleomagnetic sampling :Three sisters	MC217 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc217	DSC_0012C.JPG	McMurdo Volcanics: paleomagnetic sampling :Three sisters	MC217 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc217	DSC_0013C.JPG	McMurdo Volcanics: paleomagnetic sampling :Three sisters	MC217 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc217	DSC_0014C.JPG	McMurdo Volcanics: paleomagnetic sampling :Three sisters	MC217 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc217	DSC_0015C.JPG	McMurdo Volcanics: paleomagnetic sampling :Three sisters	MC217 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc217	DSC_0016C.JPG	McMurdo Volcanics: paleomagnetic sampling :Three sisters	MC217 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc217	DSC_0017C.JPG	McMurdo Volcanics: paleomagnetic sampling :Three sisters	MC217 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc217	DSC_0018C.JPG	McMurdo Volcanics: paleomagnetic sampling :Three sisters	MC217 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc218	DSC_0019C.JPG	McMurdo Volcanics: paleomagnetic sampling :Bomb peak	MC218 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc218	DSC_0020C.JPG	McMurdo Volcanics: paleomagnetic sampling :Bomb peak	MC218 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc218	DSC_0021C.JPG	McMurdo Volcanics: paleomagnetic sampling :Bomb peak	MC218 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc218	DSC_0022C.JPG	McMurdo Volcanics: paleomagnetic sampling :Bomb peak	MC218 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc218	DSC_0023C.JPG	McMurdo Volcanics: paleomagnetic sampling :Bomb peak	MC218 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc218	DSC_0024C.JPG	McMurdo Volcanics: paleomagnetic sampling :Bomb peak	MC218 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc218	DSC_0025C.JPG	McMurdo Volcanics: paleomagnetic sampling :Bomb peak	MC218 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc218	DSC_0026C.JPG	McMurdo Volcanics: paleomagnetic sampling :Bomb peak	MC218 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc218	DSC_0027C.JPG	McMurdo Volcanics: paleomagnetic sampling :Bomb peak	MC218 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc218	DSC_0028C.JPG	McMurdo Volcanics: paleomagnetic sampling :Bomb peak	MC218 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc218	DSC_0029C.JPG	McMurdo Volcanics: paleomagnetic sampling :Bomb peak	MC218 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc218	DSC_0030C.JPG	McMurdo Volcanics: paleomagnetic sampling :Bomb peak	MC218 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc218	DSC_0031C.JPG	McMurdo Volcanics: paleomagnetic sampling :Bomb peak	MC218 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-16T00:00:00Z
+McMurdo	mc219	DSC_0060C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0061C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0062C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0063C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0064C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0065C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0066C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0067C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0068C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0069C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0070C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0071C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0072C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0073C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0074C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0075C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0076C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0077C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0078C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	DSC_0079C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc219	IMG_4548C.JPG	McMurdo Volcanics: paleomagnetic sampling :MCM lava flow	MC219 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-17T00:00:00Z
+McMurdo	mc220	DSC_0001D.JPG	McMurdo Volcanics: paleomagnetic sampling :Abbot Peak	MC220 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc220	DSC_0002D.JPG	McMurdo Volcanics: paleomagnetic sampling :Abbot Peak	MC220 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc220	DSC_0004D.JPG	McMurdo Volcanics: paleomagnetic sampling :Abbot Peak	MC220 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc220	DSC_0005D.JPG	McMurdo Volcanics: paleomagnetic sampling :Abbot Peak	MC220 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc220	DSC_0006D.JPG	McMurdo Volcanics: paleomagnetic sampling :Abbot Peak	MC220 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc220	DSC_0007D.JPG	McMurdo Volcanics: paleomagnetic sampling :Abbot Peak	MC220 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc220	DSC_0008D.JPG	McMurdo Volcanics: paleomagnetic sampling :Abbot Peak	MC220 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc220	DSC_0024D.JPG	McMurdo Volcanics: paleomagnetic sampling :Abbot Peak	MC220 view from outcrop	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc221	DSC_0022D.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Hooper's shoulder	MC221 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc221	DSC_0023D.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Hooper's shoulder	MC221 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc221	DSC_0024E.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Hooper's shoulder	MC221 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc221	DSC_0025D.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Hooper's shoulder	MC221 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc221	DSC_0026D.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Hooper's shoulder	MC221 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc221	DSC_0027D.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Hooper's shoulder	MC221 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc221	DSC_0028D.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Hooper's shoulder	MC221 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc221	DSC_0029D.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Hooper's shoulder	MC221 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc221	DSC_0030D.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Hooper's shoulder	MC221 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc221	DSC_0031D.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Hooper's shoulder	MC221 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc221	DSC_0033D.JPG	McMurdo Volcanics: paleomagnetic sampling :W. Hooper's shoulder	MC221 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc222	DSC_0037B.JPG	McMurdo Volcanics: paleomagnetic sampling :SW Hooper's shoulder	MC222 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc222	DSC_0038B.JPG	McMurdo Volcanics: paleomagnetic sampling :SW Hooper's shoulder	MC222 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc222	DSC_0039B.JPG	McMurdo Volcanics: paleomagnetic sampling :SW Hooper's shoulder	MC222 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc222	DSC_0040B.JPG	McMurdo Volcanics: paleomagnetic sampling :SW Hooper's shoulder	MC222 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc222	DSC_0041B.JPG	McMurdo Volcanics: paleomagnetic sampling :SW Hooper's shoulder	MC222 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc222	DSC_0042C.JPG	McMurdo Volcanics: paleomagnetic sampling :SW Hooper's shoulder	MC222 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc222	DSC_0043B.JPG	McMurdo Volcanics: paleomagnetic sampling :SW Hooper's shoulder	MC222 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc222	DSC_0044B.JPG	McMurdo Volcanics: paleomagnetic sampling :SW Hooper's shoulder	MC222 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc222	DSC_0045B.JPG	McMurdo Volcanics: paleomagnetic sampling :SW Hooper's shoulder	MC222 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0035B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0036B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0053B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0054B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0056B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0057B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0058B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0059B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0060B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0061B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0062B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0063B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0064B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0065B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc223	DSC_0066B.JPG	McMurdo Volcanics: paleomagnetic sampling :Top Turk's head	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-18T00:00:00Z
+McMurdo	mc224	DSC_0080B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	MC224 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc224	DSC_0093B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	MC224 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc224	DSC_0119B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	Hubert Staudigel using sun compass	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc224	DSC_0120B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc224	DSC_0121B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc224	DSC_0122B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc224	DSC_0123B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc224	DSC_0124B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc224	DSC_0125B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc224	DSC_0126B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc224	DSC_0127B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	MC223 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc224	DSC_0334B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	MC223 aerial view	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc224	IMG_2204B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	MC223 view from outcrop	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc224	IMG_2205B.JPG	McMurdo Volcanics: paleomagnetic sampling :Hooper's shoulder peak	MC223 view from outcrop	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc225	DSC_0141B.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC225 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc225	DSC_0142B.JPG	McMurdo Volcanics: paleomagnetic sampling :William's Cliff	MC225 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc225	DSC_0160B.JPG	McMurdo Volcanics: paleomagnetic sampling :William's Cliff	MC225 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc225	DSC_0161B.JPG	McMurdo Volcanics: paleomagnetic sampling :William's Cliff	MC225 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc225	DSC_0162B.JPG	McMurdo Volcanics: paleomagnetic sampling :William's Cliff	MC225 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc225	DSC_0163B.JPG	McMurdo Volcanics: paleomagnetic sampling :William's Cliff	MC225 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc225	DSC_0164B.JPG	McMurdo Volcanics: paleomagnetic sampling :William's Cliff	MC225 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc225	DSC_0165B.JPG	McMurdo Volcanics: paleomagnetic sampling :William's Cliff	MC225 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc225	DSC_0166B.JPG	McMurdo Volcanics: paleomagnetic sampling :William's Cliff	MC225 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc225	DSC_0167B.JPG	McMurdo Volcanics: paleomagnetic sampling :William's Cliff	MC225 view from outcrop	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc225	DSC_0168B.JPG	McMurdo Volcanics: paleomagnetic sampling :William's Cliff	MC225 view from outcrop	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc226	DSC_0179B.JPG	McMurdo Volcanics: paleomagnetic sampling :Williams Cliff	MC226 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc226	DSC_0180B.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC226 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc226	DSC_0181B.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC226 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc226	DSC_0182B.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC226 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc226	DSC_0183B.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC226 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc226	DSC_0184B.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC226 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc226	DSC_0185B.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC226 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc226	DSC_0186B.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC226 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc226	DSC_0187B.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Royds	MC226 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-20T00:00:00Z
+McMurdo	mc227	DSC_0040C.JPG	McMurdo Volcanics: paleomagnetic sampling :Mt Bird	MC227 outcrop overview	Outcrop	This study	Hubert Staudigel	2006-12-21T00:00:00Z
+McMurdo	mc227	DSC_0041C.JPG	McMurdo Volcanics: paleomagnetic sampling :Mt Bird	MC227 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-21T00:00:00Z
+McMurdo	mc227	DSC_0042D.JPG	McMurdo Volcanics: paleomagnetic sampling :Mt Bird	MC227 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-21T00:00:00Z
+McMurdo	mc227	DSC_0043C.JPG	McMurdo Volcanics: paleomagnetic sampling :Mt Bird	MC227 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc227	DSC_0044C.JPG	McMurdo Volcanics: paleomagnetic sampling :Mt Bird	MC227 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc227	DSC_0045C.JPG	McMurdo Volcanics: paleomagnetic sampling :Mt Bird	MC227 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc227	DSC_0047C.JPG	McMurdo Volcanics: paleomagnetic sampling :Mt Bird	MC227 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc227	DSC_0048C.JPG	McMurdo Volcanics: paleomagnetic sampling :Mt Bird	MC227 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc227	DSC_0049C.JPG	McMurdo Volcanics: paleomagnetic sampling :Mt Bird	MC227 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc228	DSC_0072D.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC228 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc228	DSC_0073D.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC228 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc228	DSC_0074D.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC228 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc228	DSC_0075D.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC228 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc228	DSC_0076D.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC228 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc228	DSC_0077D.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC228 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc228	DSC_0078D.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC228 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc228	DSC_0079D.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC228 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc228	DSC_0080D.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC228 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc228	DSC_0081D.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC228 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc228	DSC_0082D.JPG	McMurdo Volcanics: paleomagnetic sampling :Cape Bird	MC228 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-22T00:00:00Z
+McMurdo	mc229	DSC_0050D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0063D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0064D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0065D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0066D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0067D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0068D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0069D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0070D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0071D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0072E.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0073E.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0074E.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0075E.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0076E.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0077E.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0078E.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0079E.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0080E.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0081E.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0082E.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0083D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0084D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0085D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0086D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z
+McMurdo	mc229	DSC_0196D.JPG	McMurdo Volcanics: paleomagnetic sampling :Fang Ridge	MC229 sample detail	Outcrop	This study	Hubert Staudigel	2006-12-27T00:00:00Z

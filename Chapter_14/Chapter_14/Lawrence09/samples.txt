@@ -1,0 +1,1420 @@
+tab	samples
+sample	site	lat	lon	geologic_classes	geologic_types	lithologies	description	azimuth	azimuth_dec_correction	dip	orientation_quality	citations	method_codes
+mc01a	mc01	-77.85	166.64	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	260.0	0	-57.0	g	This study	SO-SIGHT:FS-FD
+mc01b	mc01	-77.85	166.64	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	189.0	0	-63.0	g	This study	SO-SIGHT:FS-FD
+mc01c	mc01	-77.85	166.64	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	183.0	0	-30.0	g	This study	SO-SIGHT:FS-FD
+mc01d	mc01	-77.85	166.64	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	133.0	0	-57.0	g	This study	SO-SIGHT:FS-FD
+mc01e	mc01	-77.85	166.64	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	91.0	0	-51.0	g	This study	SO-SIGHT:FS-FD
+mc01f	mc01	-77.85	166.64	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	94.0	0	-55.0	g	This study	SO-SIGHT:FS-FD
+mc01g	mc01	-77.85	166.64	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	69.0	0	-56.0	g	This study	SO-SIGHT:FS-FD
+mc01h	mc01	-77.85	166.64	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	157.0	0	-41.0	g	This study	SO-SIGHT:FS-FD
+mc02a	mc02	-77.85	166.69	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	190.0	0	-50.0	g	This study	SO-SIGHT:FS-FD
+mc02b	mc02	-77.85	166.69	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	231.0	0	-59.0	g	This study	SO-SIGHT:FS-FD
+mc02c	mc02	-77.85	166.69	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	220.0	0	-58.0	g	This study	SO-SIGHT:FS-FD
+mc02d	mc02	-77.85	166.69	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	246.0	0	-68.0	g	This study	SO-SIGHT:FS-FD
+mc02e	mc02	-77.85	166.69	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions ## direction deleted because: bad mark in field##.	235.0	0	-43.0	b	This study	SO-SIGHT:FS-FD
+mc02f	mc02	-77.85	166.69	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	182.0	0	-50.0	g	This study	SO-SIGHT:FS-FD
+mc02g	mc02	-77.85	166.69	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	197.0	0	-32.0	g	This study	SO-SIGHT:FS-FD
+mc02h	mc02	-77.85	166.69	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	298.0	0	-48.0	g	This study	SO-SIGHT:FS-FD
+mc03a	mc03	-77.84	166.76	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	306.0	0	-68.0	g	This study	SO-SIGHT:FS-FD
+mc03b	mc03	-77.84	166.76	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	287.0	0	-66.0	g	This study	SO-SIGHT:FS-FD
+mc03c	mc03	-77.84	166.76	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	291.0	0	-76.0	g	This study	SO-SIGHT:FS-FD
+mc03d	mc03	-77.84	166.76	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	250.0	0	-58.0	g	This study	SO-SIGHT:FS-FD
+mc03e	mc03	-77.84	166.76	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	309.0	0	-68.0	g	This study	SO-SIGHT:FS-FD
+mc03f	mc03	-77.84	166.76	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	305.0	0	-86.0	g	This study	SO-SIGHT:FS-FD
+mc03g	mc03	-77.84	166.76	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	288.0	0	-41.0	g	This study	SO-SIGHT:FS-FD
+mc03h	mc03	-77.84	166.76	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	274.0	0	-58.0	g	This study	SO-SIGHT:FS-FD
+mc04a	mc04	-77.84	166.7	Intrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	91.0	0	-43.0	g	This study	SO-SIGHT:FS-FD
+mc04b	mc04	-77.84	166.7	Intrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	86.0	0	-50.0	g	This study	SO-SIGHT:FS-FD
+mc04c	mc04	-77.84	166.7	Extrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	121.0	0	-33.0	g	This study	SO-SIGHT:FS-FD
+mc04d	mc04	-77.84	166.7	Extrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	92.0	0	-55.0	g	This study	SO-SIGHT:FS-FD
+mc04e	mc04	-77.84	166.7	Intrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	124.0	0	-68.0	g	This study	SO-SIGHT:FS-FD
+mc04f	mc04	-77.84	166.7	Intrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	151.0	0	-39.0	g	This study	SO-SIGHT:FS-FD
+mc04g	mc04	-77.84	166.7	Intrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	306.0	0	-29.0	g	This study	SO-SIGHT:FS-FD
+mc04h	mc04	-77.84	166.7	Intrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions ## direction deleted because: bad mark in field##.	44.0	0	-55.0	b	This study	SO-SIGHT:FS-FD
+mc06a	mc06	-77.83	166.67	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	137.0	0	-23.0	g	This study	SO-SIGHT:FS-FD
+mc06b	mc06	-77.83	166.67	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	171.0	0	-13.0	g	This study	SO-SIGHT:FS-FD
+mc06c	mc06	-77.83	166.67	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	209.0	0	-26.0	g	This study	SO-SIGHT:FS-FD
+mc06d	mc06	-77.83	166.67	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	128.0	0	-20.0	g	This study	SO-SIGHT:FS-FD
+mc06e	mc06	-77.83	166.67	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	139.0	0	-18.0	g	This study	SO-SIGHT:FS-FD
+mc06f	mc06	-77.83	166.67	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	131.0	0	-17.0	g	This study	SO-SIGHT:FS-FD
+mc06g	mc06	-77.83	166.67	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	97.0	0	-22.0	g	This study	SO-SIGHT:FS-FD
+mc06h	mc06	-77.83	166.67	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	81.0	0	-22.0	g	This study	SO-SIGHT:FS-FD
+mc07a	mc07	-77.8	166.72	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	70.0	0	-50.0	g	This study	SO-SIGHT:FS-FD
+mc07b	mc07	-77.8	166.72	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	314.0	0	-47.0	g	This study	SO-SIGHT:FS-FD
+mc07c	mc07	-77.8	166.72	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	304.0	0	-53.0	g	This study	SO-SIGHT:FS-FD
+mc07d	mc07	-77.8	166.72	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	270.0	0	-45.0	g	This study	SO-SIGHT:FS-FD
+mc07e	mc07	-77.8	166.72	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	290.0	0	-49.0	g	This study	SO-SIGHT:FS-FD
+mc07f	mc07	-77.8	166.72	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	299.0	0	-50.0	g	This study	SO-SIGHT:FS-FD
+mc07g	mc07	-77.8	166.72	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	273.0	0	-39.0	g	This study	SO-SIGHT:FS-FD
+mc07h	mc07	-77.8	166.72	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	320.0	0	-51.0	g	This study	SO-SIGHT:FS-FD
+mc08a	mc08	-77.8	166.83	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	245.0	0	-54.0	g	This study	SO-SIGHT:FS-FD
+mc08b	mc08	-77.8	166.83	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	320.0	0	-35.0	g	This study	SO-SIGHT:FS-FD
+mc08c	mc08	-77.8	166.83	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	197.0	0	-32.0	g	This study	SO-SIGHT:FS-FD
+mc08d	mc08	-77.8	166.83	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	74.0	0	-28.0	g	This study	SO-SIGHT:FS-FD
+mc08e	mc08	-77.8	166.83	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	345.0	0	-27.0	g	This study	SO-SIGHT:FS-FD
+mc08f	mc08	-77.8	166.83	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	234.0	0	-49.0	g	This study	SO-SIGHT:FS-FD
+mc08g	mc08	-77.8	166.83	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	315.0	0	-48.0	g	This study	SO-SIGHT:FS-FD
+mc08h	mc08	-77.8	166.83	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	292.0	0	-32.0	g	This study	SO-SIGHT:FS-FD
+mc09a	mc09	-77.55	166.2	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	14.0	0	-50.0	g	This study	SO-SIGHT:FS-FD
+mc09b	mc09	-77.55	166.2	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	85.0	0	-48.0	g	This study	SO-SIGHT:FS-FD
+mc09c	mc09	-77.55	166.2	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	54.0	0	-67.0	g	This study	SO-SIGHT:FS-FD
+mc09d	mc09	-77.55	166.2	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	37.0	0	-76.0	g	This study	SO-SIGHT:FS-FD
+mc09e	mc09	-77.55	166.2	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	36.0	0	-71.0	g	This study	SO-SIGHT:FS-FD
+mc09f	mc09	-77.55	166.2	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	67.0	0	-75.0	g	This study	SO-SIGHT:FS-FD
+mc09g	mc09	-77.55	166.2	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	291.0	0	-57.0	g	This study	SO-SIGHT:FS-FD
+mc09h	mc09	-77.55	166.2	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	337.0	0	-56.0	g	This study	SO-SIGHT:FS-FD
+mc100a	mc100	-78.30199999999999	162.9	Extrusive:Igneous	Lava Flow	Basalt		359.9	0	-65.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc100b	mc100	-78.30199999999999	162.9	Extrusive:Igneous	Lava Flow	Basalt		351.6	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc100c	mc100	-78.30199999999999	162.9	Extrusive:Igneous	Lava Flow	Basalt		358.5	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc100d	mc100	-78.30199999999999	162.9	Extrusive:Igneous	Lava Flow	Basalt		344.5	0	-47.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc100e	mc100	-78.30199999999999	162.9	Extrusive:Igneous	Lava Flow	Basalt		350.7	0	-47.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc100f	mc100	-78.30199999999999	162.9	Extrusive:Igneous	Lava Flow	Basalt		333.9	0	-48.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc100g	mc100	-78.30199999999999	162.9	Extrusive:Igneous	Lava Flow	Basalt		205.1	0	-28.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc100h	mc100	-78.30199999999999	162.9	Extrusive:Igneous	Lava Flow	Basalt		194.9	0	-31.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc100i	mc100	-78.30199999999999	162.9	Extrusive:Igneous	Lava Flow	Basalt		231.3	0	-21.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc100j	mc100	-78.30199999999999	162.9	Extrusive:Igneous	Lava Flow	Basalt		200.8	0	-22.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc101a	mc101	-78.306	162.928	Extrusive:Igneous	Lava Flow	Basalt		150.0	0	-64.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc101b	mc101	-78.306	162.928	Extrusive:Igneous	Lava Flow	Basalt		129.4	0	-49.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc101c	mc101	-78.306	162.928	Extrusive:Igneous	Lava Flow	Basalt		129.0	0	-50.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc101d	mc101	-78.306	162.928	Extrusive:Igneous	Lava Flow	Basalt		141.8	0	-68.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc101e	mc101	-78.306	162.928	Extrusive:Igneous	Lava Flow	Basalt		147.5	0	-72.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc101f	mc101	-78.306	162.928	Extrusive:Igneous	Lava Flow	Basalt		139.2	0	-73.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc101g	mc101	-78.306	162.928	Extrusive:Igneous	Lava Flow	Basalt		136.7	0	-45.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc101h	mc101	-78.306	162.928	Extrusive:Igneous	Lava Flow	Basalt		131.9	0	-65.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc101i	mc101	-78.306	162.928	Extrusive:Igneous	Lava Flow	Basalt		137.2	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc101j	mc101	-78.306	162.928	Extrusive:Igneous	Lava Flow	Basalt		156.3	0	-79.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc102a	mc102	-78.235	163.352	Extrusive:Igneous	Lava Flow	Basalt		241.4	0	-79.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc102b	mc102	-78.235	163.352	Extrusive:Igneous	Lava Flow	Basalt		222.8	0	-82.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc102c	mc102	-78.235	163.352	Extrusive:Igneous	Lava Flow	Basalt		252.8	0	-61.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc102d	mc102	-78.235	163.352	Extrusive:Igneous	Lava Flow	Basalt		240.2	0	-57.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc102e	mc102	-78.235	163.352	Extrusive:Igneous	Lava Flow	Basalt		302.1	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc102f	mc102	-78.235	163.352	Extrusive:Igneous	Lava Flow	Basalt		240.5	0	-84.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc102g	mc102	-78.235	163.352	Extrusive:Igneous	Lava Flow	Basalt		244.2	0	-72.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc102h	mc102	-78.235	163.352	Extrusive:Igneous	Lava Flow	Basalt		246.7	0	-76.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc102i	mc102	-78.235	163.352	Extrusive:Igneous	Lava Flow	Basalt		119.0	0	-72.0	b	This study	FS-LOC-GPS:SO-CMD-NORTH:SO-POM:FS-FD
+mc102j	mc102	-78.235	163.352	Extrusive:Igneous	Lava Flow	Basalt		277.9	0	-75.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc102k	mc102	-78.235	163.352	Extrusive:Igneous	Lava Flow	Basalt		226.9	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc102l	mc102	-78.235	163.352	Extrusive:Igneous	Lava Flow	Basalt		251.3	0	-82.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc102m	mc102	-78.235	163.352	Extrusive:Igneous	Lava Flow	Basalt		296.7	0	-66.0	b	This study	FS-LOC-GPS:SO-CMD-NORTH:SO-POM:FS-FD
+mc103a	mc103	-78.235	163.36	Extrusive:Igneous	Lava Flow	Basalt		147.8	0	-37.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc103b	mc103	-78.235	163.36	Extrusive:Igneous	Lava Flow	Basalt		141.2	0	-45.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc103c	mc103	-78.235	163.36	Extrusive:Igneous	Lava Flow	Basalt		151.2	0	-59.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc103d	mc103	-78.235	163.36	Extrusive:Igneous	Lava Flow	Basalt		152.5	0	-71.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc103e	mc103	-78.235	163.36	Extrusive:Igneous	Lava Flow	Basalt		159.7	0	-57.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc103f	mc103	-78.235	163.36	Extrusive:Igneous	Lava Flow	Basalt		147.0	0	-74.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc103g	mc103	-78.235	163.36	Extrusive:Igneous	Lava Flow	Basalt		140.9	0	-73.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc103h	mc103	-78.235	163.36	Extrusive:Igneous	Lava Flow	Basalt		150.4	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc103i	mc103	-78.235	163.36	Extrusive:Igneous	Lava Flow	Basalt		147.7	0	-67.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc103j	mc103	-78.235	163.36	Extrusive:Igneous	Lava Flow	Basalt		142.4	0	-64.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc103k	mc103	-78.235	163.36	Extrusive:Igneous	Lava Flow	Basalt		128.1	0	-58.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc103l	mc103	-78.235	163.36	Extrusive:Igneous	Lava Flow	Basalt		173.1	0	-42.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc104a	mc104	-78.238	163.401	Extrusive:Igneous	Lava Flow	Basalt		37.5	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc104b	mc104	-78.238	163.401	Extrusive:Igneous	Lava Flow	Basalt		32.8	0	-85.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc104c	mc104	-78.238	163.401	Extrusive:Igneous	Lava Flow	Basalt		66.1	0	-82.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc104d	mc104	-78.238	163.401	Extrusive:Igneous	Lava Flow	Basalt		66.8	0	-94.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc104e	mc104	-78.238	163.401	Extrusive:Igneous	Lava Flow	Basalt		53.3	0	-56.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc104f	mc104	-78.238	163.401	Extrusive:Igneous	Lava Flow	Basalt		13.8	0	-59.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc104g	mc104	-78.238	163.401	Extrusive:Igneous	Lava Flow	Basalt		8.0	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc104h	mc104	-78.238	163.401	Extrusive:Igneous	Lava Flow	Basalt		28.8	0	-59.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc104i	mc104	-78.238	163.401	Extrusive:Igneous	Lava Flow	Basalt		78.8	0	-54.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc104j	mc104	-78.238	163.401	Extrusive:Igneous	Lava Flow	Basalt		54.0	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc104k	mc104	-78.238	163.401	Extrusive:Igneous	Lava Flow	Basalt		55.3	0	-70.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc105a	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		161.3	0	-38.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc105b	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		166.8	0	-41.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc105c	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		266.7	0	-27.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc105d	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		170.7	0	-27.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc105e	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		77.7	0	-58.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc105f	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		171.0	0	-50.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc105g	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		139.2	0	-51.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc105h	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		149.2	0	-46.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc105i	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		139.5	0	-53.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc105j	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		164.0	0	-67.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc105k	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		162.0	0	-60.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc105l	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		158.98	0	-39.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc105m	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		149.5	0	-36.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc105n	mc105	-78.245	163.231	Extrusive:Igneous	Lava Flow	Basalt		147.5	0	-49.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc106a	mc106	-78.21	163.308	Extrusive:Igneous	Lava Flow	Basalt		262.9	0	-29.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc106b	mc106	-78.21	163.308	Extrusive:Igneous	Lava Flow	Basalt		218.6	0	-34.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc106c	mc106	-78.21	163.308	Extrusive:Igneous	Lava Flow	Basalt		177.6	0	-78.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc106d	mc106	-78.21	163.308	Extrusive:Igneous	Lava Flow	Basalt		178.9	0	-65.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc106e	mc106	-78.21	163.308	Extrusive:Igneous	Lava Flow	Basalt		198.7	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc106f	mc106	-78.21	163.308	Extrusive:Igneous	Lava Flow	Basalt		178.7	0	-58.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc106g	mc106	-78.21	163.308	Extrusive:Igneous	Lava Flow	Basalt		193.3	0	-28.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc106h	mc106	-78.21	163.308	Extrusive:Igneous	Lava Flow	Basalt		216.9	0	-30.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc106i	mc106	-78.21	163.308	Extrusive:Igneous	Lava Flow	Basalt		236.5	0	-74.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc106j	mc106	-78.21	163.308	Extrusive:Igneous	Lava Flow	Basalt		245.8	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc106k	mc106	-78.21	163.308	Extrusive:Igneous	Lava Flow	Basalt		143.5	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc106l	mc106	-78.21	163.308	Extrusive:Igneous	Lava Flow	Basalt		130.2	0	-43.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc107a	mc107	-78.204	163.347	Extrusive:Igneous	Lava Flow	Basalt		228.0	0	-52.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc107b	mc107	-78.204	163.347	Extrusive:Igneous	Lava Flow	Basalt		231.8	0	-46.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc107c	mc107	-78.204	163.347	Extrusive:Igneous	Lava Flow	Basalt		168.7	0	-34.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc107d	mc107	-78.204	163.347	Extrusive:Igneous	Lava Flow	Basalt		175.2	0	-34.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc107e	mc107	-78.204	163.347	Extrusive:Igneous	Lava Flow	Basalt		181.1	0	-37.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc107f	mc107	-78.204	163.347	Extrusive:Igneous	Lava Flow	Basalt		198.3	0	-32.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc107g	mc107	-78.204	163.347	Extrusive:Igneous	Lava Flow	Basalt		167.5	0	-54.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc107h	mc107	-78.204	163.347	Extrusive:Igneous	Lava Flow	Basalt		173.3	0	-53.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc107i	mc107	-78.204	163.347	Extrusive:Igneous	Lava Flow	Basalt		177.0	0	-55.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc107j	mc107	-78.204	163.347	Extrusive:Igneous	Lava Flow	Basalt		188.7	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc107k	mc107	-78.204	163.347	Extrusive:Igneous	Lava Flow	Basalt		139.3	0	-30.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc107l	mc107	-78.204	163.347	Extrusive:Igneous	Lava Flow	Basalt		151.1	0	-30.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc108a	mc108	-78.247	163.32299999999998	Extrusive:Igneous	Lava Flow	Basalt		347.3	0	-63.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc108b	mc108	-78.247	163.32299999999998	Extrusive:Igneous	Lava Flow	Basalt		352.8	0	-61.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc108c	mc108	-78.247	163.32299999999998	Extrusive:Igneous	Lava Flow	Basalt		337.3	0	-51.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc108d	mc108	-78.247	163.32299999999998	Extrusive:Igneous	Lava Flow	Basalt		354.8	0	-66.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc108e	mc108	-78.247	163.32299999999998	Extrusive:Igneous	Lava Flow	Basalt		6.8	0	-65.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc108f	mc108	-78.247	163.32299999999998	Extrusive:Igneous	Lava Flow	Basalt		33.8	0	-55.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc108g	mc108	-78.247	163.32299999999998	Extrusive:Igneous	Lava Flow	Basalt		35.1	0	-28.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc108h	mc108	-78.247	163.32299999999998	Extrusive:Igneous	Lava Flow	Basalt		56.3	0	-25.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc108i	mc108	-78.247	163.32299999999998	Extrusive:Igneous	Lava Flow	Basalt		68.05	0	-34.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc108j	mc108	-78.247	163.32299999999998	Extrusive:Igneous	Lava Flow	Basalt		355.55	0	-55.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc108k	mc108	-78.247	163.32299999999998	Extrusive:Igneous	Lava Flow	Basalt		333.8	0	-43.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc109a	mc109	-78.282	163.54399999999998	Extrusive:Igneous	Lava Flow	Basalt		356.3	0	-23.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc109c	mc109	-78.282	163.54399999999998	Extrusive:Igneous	Lava Flow	Basalt		91.4	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc109d	mc109	-78.282	163.54399999999998	Extrusive:Igneous	Lava Flow	Basalt		61.9	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc109e	mc109	-78.282	163.54399999999998	Extrusive:Igneous	Lava Flow	Basalt		71.3	0	-37.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc109f	mc109	-78.282	163.54399999999998	Extrusive:Igneous	Lava Flow	Basalt		60.3	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc109g	mc109	-78.282	163.54399999999998	Extrusive:Igneous	Lava Flow	Basalt		123.7	0	-55.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc109h	mc109	-78.282	163.54399999999998	Extrusive:Igneous	Lava Flow	Basalt		139.7	0	-57.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc109i	mc109	-78.282	163.54399999999998	Extrusive:Igneous	Lava Flow	Basalt		122.4	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc109j	mc109	-78.282	163.54399999999998	Extrusive:Igneous	Lava Flow	Basalt		146.1	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc109k	mc109	-78.282	163.54399999999998	Extrusive:Igneous	Lava Flow	Basalt		68.8	0	-27.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc109l	mc109	-78.282	163.54399999999998	Extrusive:Igneous	Lava Flow	Basalt		53.5	0	-28.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc109m	mc109	-78.282	163.54399999999998	Extrusive:Igneous	Lava Flow	Basalt		43.0	0	-53.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc10a	mc10	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	200.0	0	-73.0	g	This study	SO-SIGHT:FS-FD
+mc10b	mc10	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	224.0	0	-70.0	g	This study	SO-SIGHT:FS-FD
+mc10c	mc10	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	279.0	0	-52.0	g	This study	SO-SIGHT:FS-FD
+mc10d	mc10	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	155.0	0	-37.0	g	This study	SO-SIGHT:FS-FD
+mc10e	mc10	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	174.0	0	-70.0	g	This study	SO-SIGHT:FS-FD
+mc10f	mc10	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	254.0	0	-73.0	g	This study	SO-SIGHT:FS-FD
+mc10g	mc10	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	271.0	0	-31.0	g	This study	SO-SIGHT:FS-FD
+mc10h	mc10	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	289.0	0	-70.0	g	This study	SO-SIGHT:FS-FD
+mc110a	mc110	-78.238	163.44299999999998	Extrusive:Igneous	Lava Flow	Basalt		325.6	0	-49.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc110b	mc110	-78.238	163.44299999999998	Extrusive:Igneous	Lava Flow	Basalt		331.6	0	-47.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc110c	mc110	-78.238	163.44299999999998	Extrusive:Igneous	Lava Flow	Basalt		-31.4	0	-44.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc110d	mc110	-78.238	163.44299999999998	Extrusive:Igneous	Lava Flow	Basalt		337.1	0	-40.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc110f	mc110	-78.238	163.44299999999998	Extrusive:Igneous	Lava Flow	Basalt		16.1	0	-77.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc110g	mc110	-78.238	163.44299999999998	Extrusive:Igneous	Lava Flow	Basalt		18.1	0	-80.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc110h	mc110	-78.238	163.44299999999998	Extrusive:Igneous	Lava Flow	Basalt		37.1	0	-85.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc110i	mc110	-78.238	163.44299999999998	Extrusive:Igneous	Lava Flow	Basalt		31.1	0	-84.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc110j	mc110	-78.238	163.44299999999998	Extrusive:Igneous	Lava Flow	Basalt		-1.4	0	-42.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc110k	mc110	-78.238	163.44299999999998	Extrusive:Igneous	Lava Flow	Basalt		3.1	0	-52.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc111a	mc111	-78.22399999999999	162.787	Extrusive:Igneous	Lava Flow	Basalt		176.5	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc111b	mc111	-78.22399999999999	162.787	Extrusive:Igneous	Lava Flow	Basalt		173.0	0	-45.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc111c	mc111	-78.22399999999999	162.787	Extrusive:Igneous	Lava Flow	Basalt		190.5	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc111d	mc111	-78.22399999999999	162.787	Extrusive:Igneous	Lava Flow	Basalt		164.2	0	-55.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc111e	mc111	-78.22399999999999	162.787	Extrusive:Igneous	Lava Flow	Basalt		174.0	0	-54.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc111f	mc111	-78.22399999999999	162.787	Extrusive:Igneous	Lava Flow	Basalt		81.7	0	-91.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc111g	mc111	-78.22399999999999	162.787	Extrusive:Igneous	Lava Flow	Basalt		90.0	0	-85.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc111h	mc111	-78.22399999999999	162.787	Extrusive:Igneous	Lava Flow	Basalt		174.0	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc111i	mc111	-78.22399999999999	162.787	Extrusive:Igneous	Lava Flow	Basalt		183.0	0	-59.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc111j	mc111	-78.22399999999999	162.787	Extrusive:Igneous	Lava Flow	Basalt		174.7	0	-55.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc111k	mc111	-78.22399999999999	162.787	Extrusive:Igneous	Lava Flow	Basalt		182.5	0	-47.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc111l	mc111	-78.22399999999999	162.787	Extrusive:Igneous	Lava Flow	Basalt		123.2	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc111m	mc111	-78.22399999999999	162.787	Extrusive:Igneous	Lava Flow	Basalt		135.7	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc112a	mc112	-78.238	163.441	Extrusive:Igneous	Lava Flow	Basalt		260.0	0	-71.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc112b	mc112	-78.238	163.441	Extrusive:Igneous	Lava Flow	Basalt		272.0	0	-73.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc112c	mc112	-78.238	163.441	Extrusive:Igneous	Lava Flow	Basalt		2.0	0	-71.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc112d	mc112	-78.238	163.441	Extrusive:Igneous	Lava Flow	Basalt		4.0	0	-74.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc112e	mc112	-78.238	163.441	Extrusive:Igneous	Lava Flow	Basalt		307.5	0	-45.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc112f	mc112	-78.238	163.441	Extrusive:Igneous	Lava Flow	Basalt		317.5	0	-43.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc112g	mc112	-78.238	163.441	Extrusive:Igneous	Lava Flow	Basalt		315.5	0	-51.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc112h	mc112	-78.238	163.441	Extrusive:Igneous	Lava Flow	Basalt		316.5	0	-54.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc112i	mc112	-78.238	163.441	Extrusive:Igneous	Lava Flow	Basalt		287.0	0	-56.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc112j	mc112	-78.238	163.441	Extrusive:Igneous	Lava Flow	Basalt		294.0	0	-63.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc113a	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt		165.2	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc113b	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt		177.5	0	-61.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc113c	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt		157.0	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc113d	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt		116.1	0	-83.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc113e	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: displaced block##.	111.2	0	-85.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc113f	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: displaced block##.	90.1	0	-68.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc113g	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: displaced block##.	105.9	0	-65.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc113h	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt		125.1	0	-52.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc113i	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt		119.5	0	-58.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc113j	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt		105.0	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc113k	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt		147.4	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc113l	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt		141.2	0	-59.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc113m	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt		93.2	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc113n	mc113	-78.226	162.735	Extrusive:Igneous	Lava Flow	Basalt		90.6	0	-66.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc114a	mc114	-78.22399999999999	162.783	Extrusive:Igneous	Lava Flow	Basalt		84.9	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc114b	mc114	-78.22399999999999	162.783	Extrusive:Igneous	Lava Flow	Basalt		118.4	0	-59.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc114c	mc114	-78.22399999999999	162.783	Extrusive:Igneous	Lava Flow	Basalt		104.9	0	-79.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc114d	mc114	-78.22399999999999	162.783	Extrusive:Igneous	Lava Flow	Basalt		136.6	0	-87.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc114e	mc114	-78.22399999999999	162.783	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: bad mark in field##.	88.9	0	-82.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc114f	mc114	-78.22399999999999	162.783	Extrusive:Igneous	Lava Flow	Basalt		128.1	0	-57.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc114g	mc114	-78.22399999999999	162.783	Extrusive:Igneous	Lava Flow	Basalt		103.1	0	-47.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc114h	mc114	-78.22399999999999	162.783	Extrusive:Igneous	Lava Flow	Basalt		138.1	0	-63.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc114i	mc114	-78.22399999999999	162.783	Extrusive:Igneous	Lava Flow	Basalt		144.5	0	-77.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc114j	mc114	-78.22399999999999	162.783	Extrusive:Igneous	Lava Flow	Basalt		141.1	0	-54.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115a	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		47.2	0	-73.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115b	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		47.1	0	-62.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115c	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		52.5	0	-72.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115d	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		40.0	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115e	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		34.6	0	-60.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115f	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		43.8	0	-69.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115g	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		41.9	0	-38.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115h	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		69.8	0	-38.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115i	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		64.3	0	-47.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115j	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		90.0	0	-69.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115k	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		84.3	0	-82.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115m	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		97.2	0	-74.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115n	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		90.9	0	-72.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115p	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		104.1	0	-74.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115q	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		54.3	0	-22.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc115r	mc115	-78.243	162.958	Extrusive:Igneous	Lava Flow	Basalt		25.7	0	-23.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc116a	mc116	-78.222	162.744	Extrusive:Igneous	Lava Flow	Basalt		132.8	0	-55.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc116b	mc116	-78.222	162.744	Extrusive:Igneous	Lava Flow	Basalt		107.1	0	-36.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc116c	mc116	-78.222	162.744	Extrusive:Igneous	Lava Flow	Basalt		95.6	0	-74.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc116d	mc116	-78.222	162.744	Extrusive:Igneous	Lava Flow	Basalt		94.7	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc116e	mc116	-78.222	162.744	Extrusive:Igneous	Lava Flow	Basalt		89.9	0	-71.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc116f	mc116	-78.222	162.744	Extrusive:Igneous	Lava Flow	Basalt		163.9	0	-84.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc116g	mc116	-78.222	162.744	Extrusive:Igneous	Lava Flow	Basalt		168.9	0	-78.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc116h	mc116	-78.222	162.744	Extrusive:Igneous	Lava Flow	Basalt		167.7	0	-85.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc116i	mc116	-78.222	162.744	Extrusive:Igneous	Lava Flow	Basalt		160.2	0	-82.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc116j	mc116	-78.222	162.744	Extrusive:Igneous	Lava Flow	Basalt		160.9	0	-82.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc116k	mc116	-78.222	162.744	Extrusive:Igneous	Lava Flow	Basalt		159.4	0	-83.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc117a	mc117	-78.235	162.97299999999998	Extrusive:Igneous	Lava Flow	Basalt		181.6	0	-44.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc117b	mc117	-78.235	162.97299999999998	Extrusive:Igneous	Lava Flow	Basalt		183.4	0	-43.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc117c	mc117	-78.235	162.97299999999998	Extrusive:Igneous	Lava Flow	Basalt		335.0	0	-49.0	b	This study	FS-LOC-GPS:SO-CMD-NORTH:SO-POM:FS-FD
+mc117d	mc117	-78.235	162.97299999999998	Extrusive:Igneous	Lava Flow	Basalt		182.9	0	-60.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc117e	mc117	-78.235	162.97299999999998	Extrusive:Igneous	Lava Flow	Basalt		189.9	0	-54.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc117f	mc117	-78.235	162.97299999999998	Extrusive:Igneous	Lava Flow	Basalt		306.0	0	-59.5	b	This study	FS-LOC-GPS:SO-CMD-NORTH:SO-POM:FS-FD
+mc117g	mc117	-78.235	162.97299999999998	Extrusive:Igneous	Lava Flow	Basalt		325.0	0	-40.0	b	This study	FS-LOC-GPS:SO-CMD-NORTH:SO-POM:FS-FD
+mc117h	mc117	-78.235	162.97299999999998	Extrusive:Igneous	Lava Flow	Basalt		163.1	0	-50.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc117i	mc117	-78.235	162.97299999999998	Extrusive:Igneous	Lava Flow	Basalt		299.0	0	-49.0	b	This study	FS-LOC-GPS:SO-CMD-NORTH:SO-POM:FS-FD
+mc117j	mc117	-78.235	162.97299999999998	Extrusive:Igneous	Lava Flow	Basalt		309.0	0	-51.0	b	This study	FS-LOC-GPS:SO-CMD-NORTH:SO-POM:FS-FD
+mc117l	mc117	-78.235	162.97299999999998	Extrusive:Igneous	Lava Flow	Basalt		299.0	0	-55.0	b	This study	FS-LOC-GPS:SO-CMD-NORTH:SO-POM:FS-FD
+mc118a	mc118	-78.241	163.141	Extrusive:Igneous	Lava Flow	Basalt		301.9	0	-71.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc118b	mc118	-78.241	163.141	Extrusive:Igneous	Lava Flow	Basalt		297.4	0	-85.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc118c	mc118	-78.241	163.141	Extrusive:Igneous	Lava Flow	Basalt		306.9	0	-82.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc118d	mc118	-78.241	163.141	Extrusive:Igneous	Lava Flow	Basalt		315.1	0	-81.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc118e	mc118	-78.241	163.141	Extrusive:Igneous	Lava Flow	Basalt		299.9	0	-83.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc118f	mc118	-78.241	163.141	Extrusive:Igneous	Lava Flow	Basalt		302.9	0	-85.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc118g	mc118	-78.241	163.141	Extrusive:Igneous	Lava Flow	Basalt		302.4	0	-81.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc118h	mc118	-78.241	163.141	Extrusive:Igneous	Lava Flow	Basalt		308.9	0	-88.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc118i	mc118	-78.241	163.141	Extrusive:Igneous	Lava Flow	Basalt		303.9	0	-78.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc118j	mc118	-78.241	163.141	Extrusive:Igneous	Lava Flow	Basalt		254.2	0	-88.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc118k	mc118	-78.241	163.141	Extrusive:Igneous	Lava Flow	Basalt		232.9	0	-92.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc118l	mc118	-78.241	163.141	Extrusive:Igneous	Lava Flow	Basalt		233.4	0	-88.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc119a	mc119	-78.23899999999999	162.957	Extrusive:Igneous	Lava Flow	Basalt		91.4	0	-70.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc119b	mc119	-78.23899999999999	162.957	Extrusive:Igneous	Lava Flow	Basalt		88.1	0	-71.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc119c	mc119	-78.23899999999999	162.957	Extrusive:Igneous	Lava Flow	Basalt		105.2	0	-79.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc119d	mc119	-78.23899999999999	162.957	Extrusive:Igneous	Lava Flow	Basalt		90.9	0	-86.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc119e	mc119	-78.23899999999999	162.957	Extrusive:Igneous	Lava Flow	Basalt		106.6	0	-77.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc119f	mc119	-78.23899999999999	162.957	Extrusive:Igneous	Lava Flow	Basalt		113.1	0	-71.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc119g	mc119	-78.23899999999999	162.957	Extrusive:Igneous	Lava Flow	Basalt		120.65	0	-70.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc119h	mc119	-78.23899999999999	162.957	Extrusive:Igneous	Lava Flow	Basalt		91.2	0	-71.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc119i	mc119	-78.23899999999999	162.957	Extrusive:Igneous	Lava Flow	Basalt		146.2	0	-50.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc119j	mc119	-78.23899999999999	162.957	Extrusive:Igneous	Lava Flow	Basalt		151.4	0	-51.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc119k	mc119	-78.23899999999999	162.957	Extrusive:Igneous	Lava Flow	Basalt		144.4	0	-43.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc119l	mc119	-78.23899999999999	162.957	Extrusive:Igneous	Lava Flow	Basalt		144.2	0	-50.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc11a	mc11	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	253.0	0	-79.0	g	This study	SO-SIGHT:FS-FD
+mc11b	mc11	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	231.0	0	-77.0	g	This study	SO-SIGHT:FS-FD
+mc11c	mc11	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	238.0	0	-65.0	g	This study	SO-SIGHT:FS-FD
+mc11d	mc11	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	203.0	0	-45.0	g	This study	SO-SIGHT:FS-FD
+mc11e	mc11	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	199.0	0	-35.0	g	This study	SO-SIGHT:FS-FD
+mc11f	mc11	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	197.0	0	-47.0	g	This study	SO-SIGHT:FS-FD
+mc11g	mc11	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	254.0	0	-88.0	g	This study	SO-SIGHT:FS-FD
+mc11h	mc11	-77.57	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	195.0	0	-34.0	g	This study	SO-SIGHT:FS-FD
+mc120a	mc120	-78.241	163.092	Extrusive:Igneous	Lava Flow	Basalt		198.8	0	-35.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc120b	mc120	-78.241	163.092	Extrusive:Igneous	Lava Flow	Basalt		223.8	0	-20.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc120c	mc120	-78.241	163.092	Extrusive:Igneous	Lava Flow	Basalt		213.8	0	-42.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc120d	mc120	-78.241	163.092	Extrusive:Igneous	Lava Flow	Basalt		206.3	0	-60.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc120e	mc120	-78.241	163.092	Extrusive:Igneous	Lava Flow	Basalt		221.8	0	-62.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc120f	mc120	-78.241	163.092	Extrusive:Igneous	Lava Flow	Basalt		159.3	0	-66.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc120g	mc120	-78.241	163.092	Extrusive:Igneous	Lava Flow	Basalt		166.8	0	-59.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc120h	mc120	-78.241	163.092	Extrusive:Igneous	Lava Flow	Basalt		153.8	0	-58.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc120i	mc120	-78.241	163.092	Extrusive:Igneous	Lava Flow	Basalt		178.3	0	-60.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc120j	mc120	-78.241	163.092	Extrusive:Igneous	Lava Flow	Basalt		138.3	0	-57.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc120k	mc120	-78.241	163.092	Extrusive:Igneous	Lava Flow	Basalt		152.3	0	-56.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc120l	mc120	-78.241	163.092	Extrusive:Igneous	Lava Flow	Basalt		113.8	0	-48.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc120m	mc120	-78.241	163.092	Extrusive:Igneous	Lava Flow	Basalt		127.3	0	-56.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc121a	mc121	-78.235	162.954	Extrusive:Igneous	Lava Flow	Basalt		198.2	0	-71.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc121b	mc121	-78.235	162.954	Extrusive:Igneous	Lava Flow	Basalt		195.5	0	-72.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc121c	mc121	-78.235	162.954	Extrusive:Igneous	Lava Flow	Basalt		181.2	0	-77.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc121d	mc121	-78.235	162.954	Extrusive:Igneous	Lava Flow	Basalt		187.7	0	-76.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc121e	mc121	-78.235	162.954	Extrusive:Igneous	Lava Flow	Basalt		156.2	0	-73.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc121f	mc121	-78.235	162.954	Extrusive:Igneous	Lava Flow	Basalt		162.7	0	-74.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc121g	mc121	-78.235	162.954	Extrusive:Igneous	Lava Flow	Basalt		195.5	0	-27.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc121h	mc121	-78.235	162.954	Extrusive:Igneous	Lava Flow	Basalt		235.2	0	-32.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc121i	mc121	-78.235	162.954	Extrusive:Igneous	Lava Flow	Basalt		200.2	0	-25.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc121j	mc121	-78.235	162.954	Extrusive:Igneous	Lava Flow	Basalt		200.23	0	-33.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc121k	mc121	-78.235	162.954	Extrusive:Igneous	Lava Flow	Basalt		194.7	0	-35.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc122a	mc122	-78.187	163.58	Extrusive:Igneous	Lava Flow	Basalt		22.0	0	-13.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc122b	mc122	-78.187	163.58	Extrusive:Igneous	Lava Flow	Basalt		55.0	0	-9.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc122c	mc122	-78.187	163.58	Extrusive:Igneous	Lava Flow	Basalt		146.4	0	-38.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc122d	mc122	-78.187	163.58	Extrusive:Igneous	Lava Flow	Basalt		165.0	0	-39.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc122e	mc122	-78.187	163.58	Extrusive:Igneous	Lava Flow	Basalt		312.0	0	-7.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc122f	mc122	-78.187	163.58	Extrusive:Igneous	Lava Flow	Basalt		10.2	0	-23.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc122g	mc122	-78.187	163.58	Extrusive:Igneous	Lava Flow	Basalt		331.6	0	-29.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc122h	mc122	-78.187	163.58	Extrusive:Igneous	Lava Flow	Basalt		346.1	0	-27.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc122i	mc122	-78.187	163.58	Extrusive:Igneous	Lava Flow	Basalt		141.3	0	-5.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc122k	mc122	-78.187	163.58	Extrusive:Igneous	Lava Flow	Basalt		170.5	0	-22.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc122l	mc122	-78.187	163.58	Extrusive:Igneous	Lava Flow	Basalt		16.2	0	-17.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc123a	mc123	-78.25399999999999	163.72899999999998	Extrusive:Igneous	Lava Flow	Basalt		35.8	0	-38.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc123b	mc123	-78.25399999999999	163.72899999999998	Extrusive:Igneous	Lava Flow	Basalt		18.3	0	-30.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc123c	mc123	-78.25399999999999	163.72899999999998	Extrusive:Igneous	Lava Flow	Basalt		44.5	0	-39.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc123d	mc123	-78.25399999999999	163.72899999999998	Extrusive:Igneous	Lava Flow	Basalt		5.0	0	-35.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc123e	mc123	-78.25399999999999	163.72899999999998	Extrusive:Igneous	Lava Flow	Basalt		144.5	0	-29.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc123f	mc123	-78.25399999999999	163.72899999999998	Extrusive:Igneous	Lava Flow	Basalt		164.0	0	-39.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc123g	mc123	-78.25399999999999	163.72899999999998	Extrusive:Igneous	Lava Flow	Basalt		82.1	0	-35.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc123h	mc123	-78.25399999999999	163.72899999999998	Extrusive:Igneous	Lava Flow	Basalt		103.4	0	-29.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc123i	mc123	-78.25399999999999	163.72899999999998	Extrusive:Igneous	Lava Flow	Basalt		100.1	0	-37.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc123j	mc123	-78.25399999999999	163.72899999999998	Extrusive:Igneous	Lava Flow	Basalt		79.3	0	-29.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc123k	mc123	-78.25399999999999	163.72899999999998	Extrusive:Igneous	Lava Flow	Basalt		124.8	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc123l	mc123	-78.25399999999999	163.72899999999998	Extrusive:Igneous	Lava Flow	Basalt		110.5	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc124a	mc124	-78.186	163.567	Extrusive:Igneous	Lava Flow	Basalt		138.1	0	-16.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc124b	mc124	-78.186	163.567	Extrusive:Igneous	Lava Flow	Basalt		144.1	0	-14.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc124c	mc124	-78.186	163.567	Extrusive:Igneous	Lava Flow	Basalt		108.4	0	-13.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc124d	mc124	-78.186	163.567	Extrusive:Igneous	Lava Flow	Basalt		131.1	0	-9.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc124e	mc124	-78.186	163.567	Extrusive:Igneous	Lava Flow	Basalt		155.6	0	-27.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc124f	mc124	-78.186	163.567	Extrusive:Igneous	Lava Flow	Basalt		145.4	0	-26.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc124g	mc124	-78.186	163.567	Extrusive:Igneous	Lava Flow	Basalt		83.9	0	-23.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc124h	mc124	-78.186	163.567	Extrusive:Igneous	Lava Flow	Basalt		51.3	0	-4.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc124i	mc124	-78.186	163.567	Extrusive:Igneous	Lava Flow	Basalt		104.5	0	-33.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc124j	mc124	-78.186	163.567	Extrusive:Igneous	Lava Flow	Basalt		121.3	0	-24.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc124k	mc124	-78.186	163.567	Extrusive:Igneous	Lava Flow	Basalt		152.0	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc124l	mc124	-78.186	163.567	Extrusive:Igneous	Lava Flow	Basalt		156.3	0	-47.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125a	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		185.5	0	-38.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125b	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		160.2	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125c	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		167.4	0	-36.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125d	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		154.6	0	-41.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125e	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		154.4	0	-34.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125f	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		128.6	0	-31.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125g	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		110.6	0	-49.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125h	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		103.8	0	-68.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125i	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		316.1	0	-40.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125j	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		335.8	0	-45.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125k	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		135.1	0	-56.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125l	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		132.8	0	-74.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125m	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		139.3	0	-42.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125n	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		347.1	0	-39.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc125o	mc125	-78.25399999999999	163.73	Intrusive:Igneous	Volcanic Dike	Basalt		317.8	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc126a	mc126	-78.253	163.737	Extrusive:Igneous	Lava Flow	Basalt		163.1	0	-20.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc126b	mc126	-78.253	163.737	Extrusive:Igneous	Lava Flow	Basalt		163.3	0	-26.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc126c	mc126	-78.253	163.737	Extrusive:Igneous	Lava Flow	Basalt		125.8	0	-2.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc126d	mc126	-78.253	163.737	Extrusive:Igneous	Lava Flow	Basalt		52.1	0	-16.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc126e	mc126	-78.253	163.737	Extrusive:Igneous	Lava Flow	Basalt		132.3	0	-10.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc126f	mc126	-78.253	163.737	Extrusive:Igneous	Lava Flow	Basalt		156.4	0	-12.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc126g	mc126	-78.253	163.737	Extrusive:Igneous	Lava Flow	Basalt		112.6	0	-22.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc126h	mc126	-78.253	163.737	Extrusive:Igneous	Lava Flow	Basalt		137.5	0	-21.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc126i	mc126	-78.253	163.737	Extrusive:Igneous	Lava Flow	Basalt		202.0	0	-13.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc126j	mc126	-78.253	163.737	Extrusive:Igneous	Lava Flow	Basalt		191.1	0	-11.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc127a	mc127	-78.25399999999999	163.733	Extrusive:Igneous	Lava Flow	Basalt		175.0	0	-33.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc127b	mc127	-78.25399999999999	163.733	Extrusive:Igneous	Lava Flow	Basalt		173.8	0	-34.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc127c	mc127	-78.25399999999999	163.733	Extrusive:Igneous	Lava Flow	Basalt		143.8	0	-29.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc127d	mc127	-78.25399999999999	163.733	Extrusive:Igneous	Lava Flow	Basalt		125.5	0	-36.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc127e	mc127	-78.25399999999999	163.733	Extrusive:Igneous	Lava Flow	Basalt		97.5	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc127f	mc127	-78.25399999999999	163.733	Extrusive:Igneous	Lava Flow	Basalt		339.5	0	-54.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc127g	mc127	-78.25399999999999	163.733	Extrusive:Igneous	Lava Flow	Basalt		327.2	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc127h	mc127	-78.25399999999999	163.733	Extrusive:Igneous	Lava Flow	Basalt		127.7	0	-53.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc127i	mc127	-78.25399999999999	163.733	Extrusive:Igneous	Lava Flow	Basalt		290.2	0	-49.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc127j	mc127	-78.25399999999999	163.733	Extrusive:Igneous	Lava Flow	Basalt		104.9	0	-49.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc128a	mc128	-78.21	166.571	Extrusive:Igneous	Lava Flow	Basalt		117.7	0	-64.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc128b	mc128	-78.21	166.571	Extrusive:Igneous	Lava Flow	Basalt		119.7	0	-61.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc128c	mc128	-78.21	166.571	Extrusive:Igneous	Lava Flow	Basalt		115.9	0	-74.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc128d	mc128	-78.21	166.571	Extrusive:Igneous	Lava Flow	Basalt		124.4	0	-83.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc128e	mc128	-78.21	166.571	Extrusive:Igneous	Lava Flow	Basalt		94.7	0	-92.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc128f	mc128	-78.21	166.571	Extrusive:Igneous	Lava Flow	Basalt		98.7	0	-94.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc128g	mc128	-78.21	166.571	Extrusive:Igneous	Lava Flow	Basalt		63.4	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc128h	mc128	-78.21	166.571	Extrusive:Igneous	Lava Flow	Basalt		124.9	0	-84.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc128i	mc128	-78.21	166.571	Extrusive:Igneous	Lava Flow	Basalt		119.7	0	-84.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc128j	mc128	-78.21	166.571	Extrusive:Igneous	Lava Flow	Basalt		102.1	0	-82.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc128k	mc128	-78.21	166.571	Extrusive:Igneous	Lava Flow	Basalt		112.7	0	-81.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc129a	mc129	-78.214	166.577	Intrusive:Igneous	Volcanic Dike	Basalt		281.2	0	-41.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc129b	mc129	-78.214	166.577	Intrusive:Igneous	Volcanic Dike	Basalt		289.9	0	-39.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc129c	mc129	-78.214	166.577	Intrusive:Igneous	Volcanic Dike	Basalt		272.4	0	-39.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc129d	mc129	-78.214	166.577	Intrusive:Igneous	Volcanic Dike	Basalt		232.0	0	-32.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc129e	mc129	-78.214	166.577	Intrusive:Igneous	Volcanic Dike	Basalt		216.7	0	-31.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc129f	mc129	-78.214	166.577	Intrusive:Igneous	Volcanic Dike	Basalt		267.1	0	-50.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc129h	mc129	-78.214	166.577	Intrusive:Igneous	Volcanic Dike	Basalt		208.1	0	-63.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc129i	mc129	-78.214	166.577	Intrusive:Igneous	Volcanic Dike	Basalt		194.4	0	-67.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc129j	mc129	-78.214	166.577	Intrusive:Igneous	Volcanic Dike	Basalt		60.6	0	-37.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc129l	mc129	-78.214	166.577	Intrusive:Igneous	Volcanic Dike	Basalt		54.1	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc129m	mc129	-78.214	166.577	Intrusive:Igneous	Volcanic Dike	Basalt		76.9	0	-48.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc12b	mc12	-77.58	166.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	142.0	0	-72.0	g	This study	SO-SIGHT:FS-FD
+mc130a	mc130	-78.21	166.579	Extrusive:Igneous	Lava Flow	Basalt		299.2	0	-25.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc130b	mc130	-78.21	166.579	Extrusive:Igneous	Lava Flow	Basalt		308.9	0	-28.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc130c	mc130	-78.21	166.579	Extrusive:Igneous	Lava Flow	Basalt		326.4	0	-20.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc130d	mc130	-78.21	166.579	Extrusive:Igneous	Lava Flow	Basalt		313.6	0	-25.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc130e	mc130	-78.21	166.579	Extrusive:Igneous	Lava Flow	Basalt		68.1	0	-26.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc130f	mc130	-78.21	166.579	Extrusive:Igneous	Lava Flow	Basalt		199.6	0	-20.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc130g	mc130	-78.21	166.579	Extrusive:Igneous	Lava Flow	Basalt		225.9	0	-7.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc130h	mc130	-78.21	166.579	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: bad mark in field##.	301.9	0	-25.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc130i	mc130	-78.21	166.579	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: bad mark in field##.	202.5	0	-26.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc130j	mc130	-78.21	166.579	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: overprint during thellier##.	241.7	0	-41.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc131a	mc131	-78.214	166.57299999999998	Extrusive:Igneous	Lava Flow	Basalt		37.2	0	-33.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc131b	mc131	-78.214	166.57299999999998	Extrusive:Igneous	Lava Flow	Basalt		48.2	0	-29.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc131c	mc131	-78.214	166.57299999999998	Extrusive:Igneous	Lava Flow	Basalt		25.7	0	-24.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc131d	mc131	-78.214	166.57299999999998	Extrusive:Igneous	Lava Flow	Basalt		62.7	0	-22.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc131e	mc131	-78.214	166.57299999999998	Extrusive:Igneous	Lava Flow	Basalt		319.2	0	-33.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc131f	mc131	-78.214	166.57299999999998	Extrusive:Igneous	Lava Flow	Basalt		301.0	0	-30.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc131g	mc131	-78.214	166.57299999999998	Extrusive:Igneous	Lava Flow	Basalt		41.2	0	-47.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc131h	mc131	-78.214	166.57299999999998	Extrusive:Igneous	Lava Flow	Basalt		22.7	0	-47.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc131i	mc131	-78.214	166.57299999999998	Extrusive:Igneous	Lava Flow	Basalt		45.2	0	-47.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc131j	mc131	-78.214	166.57299999999998	Extrusive:Igneous	Lava Flow	Basalt		89.7	0	-51.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc131k	mc131	-78.214	166.57299999999998	Extrusive:Igneous	Lava Flow	Basalt		35.9	0	-44.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc131l	mc131	-78.214	166.57299999999998	Extrusive:Igneous	Lava Flow	Basalt		26.9	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc131m	mc131	-78.214	166.57299999999998	Extrusive:Igneous	Lava Flow	Basalt		49.1	0	-56.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc132a	mc132	-78.206	166.55200000000002	Extrusive:Igneous	Lava Flow	Basalt		55.9	0	-19.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc132b	mc132	-78.206	166.55200000000002	Extrusive:Igneous	Lava Flow	Basalt		48.4	0	-19.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc132c	mc132	-78.206	166.55200000000002	Extrusive:Igneous	Lava Flow	Basalt		182.2	0	-18.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc132d	mc132	-78.206	166.55200000000002	Extrusive:Igneous	Lava Flow	Basalt		211.4	0	-19.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc132e	mc132	-78.206	166.55200000000002	Extrusive:Igneous	Lava Flow	Basalt		124.8	0	-20.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc132f	mc132	-78.206	166.55200000000002	Extrusive:Igneous	Lava Flow	Basalt		169.5	0	-16.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc132g	mc132	-78.206	166.55200000000002	Extrusive:Igneous	Lava Flow	Basalt		50.4	0	-10.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc132h	mc132	-78.206	166.55200000000002	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: bad mark in field##.	51.1	0	-9.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc132i	mc132	-78.206	166.55200000000002	Extrusive:Igneous	Lava Flow	Basalt		275.2	0	-36.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc132j	mc132	-78.206	166.55200000000002	Extrusive:Igneous	Lava Flow	Basalt		285.4	0	-36.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc132k	mc132	-78.206	166.55200000000002	Extrusive:Igneous	Lava Flow	Basalt		280.5	0	-25.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc132l	mc132	-78.206	166.55200000000002	Extrusive:Igneous	Lava Flow	Basalt		319.2	0	-26.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc133a	mc133	-78.199	166.584	Extrusive:Igneous	Lava Flow	Trachyte		308.7	0	-53.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc133b	mc133	-78.199	166.584	Extrusive:Igneous	Lava Flow	Trachyte		299.9	0	-58.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc133c	mc133	-78.199	166.584	Extrusive:Igneous	Lava Flow	Trachyte		43.5	0	-61.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc133d	mc133	-78.199	166.584	Extrusive:Igneous	Lava Flow	Trachyte		34.0	0	-58.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc133e	mc133	-78.199	166.584	Extrusive:Igneous	Lava Flow	Trachyte		65.0	0	-16.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc133f	mc133	-78.199	166.584	Extrusive:Igneous	Lava Flow	Trachyte		20.3	0	-12.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc133g	mc133	-78.199	166.584	Extrusive:Igneous	Lava Flow	Trachyte	## direction deleted because: bad mark in field##.	39.5	0	-68.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc133h	mc133	-78.199	166.584	Extrusive:Igneous	Lava Flow	Trachyte		15.9	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc133i	mc133	-78.199	166.584	Extrusive:Igneous	Lava Flow	Trachyte		36.6	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc133j	mc133	-78.199	166.584	Extrusive:Igneous	Lava Flow	Trachyte		20.5	0	-60.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc133l	mc133	-78.199	166.584	Extrusive:Igneous	Lava Flow	Trachyte	## direction deleted because: bad mark in field##.	86.4	0	-62.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc133m	mc133	-78.199	166.584	Extrusive:Igneous	Lava Flow	Trachyte		62.6	0	-60.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc134a	mc134	-78.219	166.607	Extrusive:Igneous	Lava Flow	Basalt		98.2	0	-31.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc134b	mc134	-78.219	166.607	Extrusive:Igneous	Lava Flow	Basalt		140.3	0	-37.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc134c	mc134	-78.219	166.607	Extrusive:Igneous	Lava Flow	Basalt		59.0	0	-49.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc134d	mc134	-78.219	166.607	Extrusive:Igneous	Lava Flow	Basalt		64.6	0	-49.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc134e	mc134	-78.219	166.607	Extrusive:Igneous	Lava Flow	Basalt		113.8	0	-23.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc134f	mc134	-78.219	166.607	Extrusive:Igneous	Lava Flow	Basalt		163.4	0	-20.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc134g	mc134	-78.219	166.607	Extrusive:Igneous	Lava Flow	Basalt		128.1	0	-17.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc134h	mc134	-78.219	166.607	Extrusive:Igneous	Lava Flow	Basalt		131.5	0	-22.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc134i	mc134	-78.219	166.607	Extrusive:Igneous	Lava Flow	Basalt		67.9	0	-32.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc134j	mc134	-78.219	166.607	Extrusive:Igneous	Lava Flow	Basalt		80.1	0	-36.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc134k	mc134	-78.219	166.607	Extrusive:Igneous	Lava Flow	Basalt		1.7	0	-49.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc135a	mc135	-78.23100000000001	166.565	Extrusive:Igneous	Lava Flow	Basalt		23.7	0	-66.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc135b	mc135	-78.23100000000001	166.565	Extrusive:Igneous	Lava Flow	Basalt		11.6	0	-63.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc135c	mc135	-78.23100000000001	166.565	Extrusive:Igneous	Lava Flow	Basalt		211.5	0	-13.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc135d	mc135	-78.23100000000001	166.565	Extrusive:Igneous	Lava Flow	Basalt		230.2	0	-11.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc135e	mc135	-78.23100000000001	166.565	Extrusive:Igneous	Lava Flow	Basalt		161.4	0	-10.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc135f	mc135	-78.23100000000001	166.565	Extrusive:Igneous	Lava Flow	Basalt		301.9	0	-16.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc135g	mc135	-78.23100000000001	166.565	Extrusive:Igneous	Lava Flow	Basalt		30.3	0	-38.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc135h	mc135	-78.23100000000001	166.565	Extrusive:Igneous	Lava Flow	Basalt		11.5	0	-39.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc135i	mc135	-78.23100000000001	166.565	Extrusive:Igneous	Lava Flow	Basalt		43.2	0	-24.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc135j	mc135	-78.23100000000001	166.565	Extrusive:Igneous	Lava Flow	Basalt		22.0	0	-35.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc136a	mc136	-78.282	163.329	Extrusive:Igneous	Lava Flow	Basalt		75.2	0	-38.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc136b	mc136	-78.282	163.329	Extrusive:Igneous	Lava Flow	Basalt		94.9	0	-38.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc136c	mc136	-78.282	163.329	Extrusive:Igneous	Lava Flow	Basalt		87.4	0	-14.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc136d	mc136	-78.282	163.329	Extrusive:Igneous	Lava Flow	Basalt		114.6	0	-43.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc136e	mc136	-78.282	163.329	Extrusive:Igneous	Lava Flow	Basalt		86.3	0	-34.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc136f	mc136	-78.282	163.329	Extrusive:Igneous	Lava Flow	Basalt		95.0	0	-35.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc136g	mc136	-78.282	163.329	Extrusive:Igneous	Lava Flow	Basalt		125.5	0	-44.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc136h	mc136	-78.282	163.329	Extrusive:Igneous	Lava Flow	Basalt		138.7	0	-59.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc136i	mc136	-78.282	163.329	Extrusive:Igneous	Lava Flow	Basalt		139.9	0	-64.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc136j	mc136	-78.282	163.329	Extrusive:Igneous	Lava Flow	Basalt		103.0	0	-43.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc136k	mc136	-78.282	163.329	Extrusive:Igneous	Lava Flow	Basalt		118.4	0	-49.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc137a	mc137	-78.26100000000001	163.257	Extrusive:Igneous	Lava Flow	Basalt		177.1	0	-77.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc137b	mc137	-78.26100000000001	163.257	Extrusive:Igneous	Lava Flow	Basalt		157.9	0	-76.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc137c	mc137	-78.26100000000001	163.257	Extrusive:Igneous	Lava Flow	Basalt		163.4	0	-74.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc137d	mc137	-78.26100000000001	163.257	Extrusive:Igneous	Lava Flow	Basalt		151.8	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc137e	mc137	-78.26100000000001	163.257	Extrusive:Igneous	Lava Flow	Basalt		189.3	0	-56.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc137f	mc137	-78.26100000000001	163.257	Extrusive:Igneous	Lava Flow	Basalt		173.4	0	-59.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc137g	mc137	-78.26100000000001	163.257	Extrusive:Igneous	Lava Flow	Basalt		197.9	0	-57.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc137h	mc137	-78.26100000000001	163.257	Extrusive:Igneous	Lava Flow	Basalt		191.6	0	-41.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc137i	mc137	-78.26100000000001	163.257	Extrusive:Igneous	Lava Flow	Basalt		179.9	0	-41.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc137j	mc137	-78.26100000000001	163.257	Extrusive:Igneous	Lava Flow	Basalt		177.1	0	-60.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc137k	mc137	-78.26100000000001	163.257	Extrusive:Igneous	Lava Flow	Basalt		168.2	0	-63.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc137l	mc137	-78.26100000000001	163.257	Extrusive:Igneous	Lava Flow	Basalt		220.0	0	-73.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc138a	mc138	-78.26	163.24	Extrusive:Igneous	Lava Flow	Basalt		119.5	0	-58.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc138b	mc138	-78.26	163.24	Extrusive:Igneous	Lava Flow	Basalt		130.5	0	-61.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc138c	mc138	-78.26	163.24	Extrusive:Igneous	Lava Flow	Basalt		125.0	0	-55.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc138d	mc138	-78.26	163.24	Extrusive:Igneous	Lava Flow	Basalt		135.5	0	-56.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc138e	mc138	-78.26	163.24	Extrusive:Igneous	Lava Flow	Basalt		81.0	0	-77.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc138f	mc138	-78.26	163.24	Extrusive:Igneous	Lava Flow	Basalt		95.5	0	-74.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc138g	mc138	-78.26	163.24	Extrusive:Igneous	Lava Flow	Basalt		62.0	0	-33.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc138h	mc138	-78.26	163.24	Extrusive:Igneous	Lava Flow	Basalt		64.0	0	-28.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc138i	mc138	-78.26	163.24	Extrusive:Igneous	Lava Flow	Basalt		167.5	0	-20.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc138j	mc138	-78.26	163.24	Extrusive:Igneous	Lava Flow	Basalt		146.0	0	-37.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc138k	mc138	-78.26	163.24	Extrusive:Igneous	Lava Flow	Basalt		155.0	0	-39.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc139a	mc139	-78.26	163.08	Extrusive:Igneous	Lava Flow	Basalt		353.9	0	-63.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc139b	mc139	-78.26	163.08	Extrusive:Igneous	Lava Flow	Basalt		7.7	0	-53.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc139c	mc139	-78.26	163.08	Extrusive:Igneous	Lava Flow	Basalt		342.4	0	-65.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc139d	mc139	-78.26	163.08	Extrusive:Igneous	Lava Flow	Basalt		348.2	0	-62.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc139e	mc139	-78.26	163.08	Extrusive:Igneous	Lava Flow	Basalt		349.9	0	-59.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc139f	mc139	-78.26	163.08	Extrusive:Igneous	Lava Flow	Basalt		6.0	0	-73.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc139g	mc139	-78.26	163.08	Extrusive:Igneous	Lava Flow	Basalt		336.45	0	-66.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc139h	mc139	-78.26	163.08	Extrusive:Igneous	Lava Flow	Basalt		26.2	0	-57.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc139i	mc139	-78.26	163.08	Extrusive:Igneous	Lava Flow	Basalt		34.45	0	-58.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc139j	mc139	-78.26	163.08	Extrusive:Igneous	Lava Flow	Basalt		334.2	0	-47.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc139k	mc139	-78.26	163.08	Extrusive:Igneous	Lava Flow	Basalt		322.7	0	-62.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc13a	mc13	-77.64	166.41	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	1.0	0	-58.0	g	This study	SO-SIGHT:FS-FD
+mc13b	mc13	-77.64	166.41	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	10.0	0	-71.0	g	This study	SO-SIGHT:FS-FD
+mc13c	mc13	-77.64	166.41	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	345.0	0	-81.0	g	This study	SO-SIGHT:FS-FD
+mc13d	mc13	-77.64	166.41	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	353.0	0	-42.0	g	This study	SO-SIGHT:FS-FD
+mc13e	mc13	-77.64	166.41	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	9.0	0	-59.0	g	This study	SO-SIGHT:FS-FD
+mc13f	mc13	-77.64	166.41	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	341.0	0	-76.0	g	This study	SO-SIGHT:FS-FD
+mc13g	mc13	-77.64	166.41	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	26.0	0	-70.0	g	This study	SO-SIGHT:FS-FD
+mc13h	mc13	-77.64	166.41	Extrusive:Igneous	Lava Flow	Trachyte	Archived samples from 1965, 66 expeditions.	24.0	0	-54.0	g	This study	SO-SIGHT:FS-FD
+mc140a	mc140	-78.27600000000001	163.004	Extrusive:Igneous	Lava Flow	Basalt		290.3	0	-79.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc140b	mc140	-78.27600000000001	163.004	Extrusive:Igneous	Lava Flow	Basalt		303.8	0	-80.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc140c	mc140	-78.27600000000001	163.004	Extrusive:Igneous	Lava Flow	Basalt		281.8	0	-85.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc140d	mc140	-78.27600000000001	163.004	Extrusive:Igneous	Lava Flow	Basalt		295.3	0	-82.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc140e	mc140	-78.27600000000001	163.004	Extrusive:Igneous	Lava Flow	Basalt		293.8	0	-66.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc140f	mc140	-78.27600000000001	163.004	Extrusive:Igneous	Lava Flow	Basalt		315.3	0	-60.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc140g	mc140	-78.27600000000001	163.004	Extrusive:Igneous	Lava Flow	Basalt		295.8	0	-68.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc140h	mc140	-78.27600000000001	163.004	Extrusive:Igneous	Lava Flow	Basalt		302.3	0	-82.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc140i	mc140	-78.27600000000001	163.004	Extrusive:Igneous	Lava Flow	Basalt		307.8	0	-85.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc140j	mc140	-78.27600000000001	163.004	Extrusive:Igneous	Lava Flow	Basalt		302.8	0	-72.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc141b	mc141	-77.58	166.24599999999998	Extrusive:Igneous	Lava Flow	Basalt		25.4	0	-62.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc141c	mc141	-77.58	166.24599999999998	Intrusive:Igneous	Volcanic Dike	Basalt		29.9	0	-57.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc141d	mc141	-77.58	166.24599999999998	Intrusive:Igneous	Volcanic Dike	Basalt		14.9	0	-72.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc141e	mc141	-77.58	166.24599999999998	Intrusive:Igneous	Volcanic Dike	Basalt		2.7	0	-75.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc141f	mc141	-77.58	166.24599999999998	Intrusive:Igneous	Volcanic Dike	Basalt		57.9	0	75.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc141g	mc141	-77.58	166.24599999999998	Intrusive:Igneous	Volcanic Dike	Basalt		53.2	0	-54.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc141h	mc141	-77.58	166.24599999999998	Intrusive:Igneous	Volcanic Dike	Basalt		38.2	0	-58.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc141i	mc141	-77.58	166.24599999999998	Intrusive:Igneous	Volcanic Dike	Basalt		25.2	0	-61.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc141j	mc141	-77.58	166.24599999999998	Intrusive:Igneous	Volcanic Dike	Basalt		97.9	0	-69.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc141k	mc141	-77.58	166.24599999999998	Intrusive:Igneous	Volcanic Dike	Basalt		83.9	0	-74.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc141l	mc141	-77.58	166.24599999999998	Intrusive:Igneous	Volcanic Dike	Basalt		31.2	0	-35.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc142a	mc142	-77.851	166.68	Extrusive:Igneous	Lava Flow	Trachyte		142.2	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc142b	mc142	-77.851	166.68	Extrusive:Igneous	Lava Flow	Trachyte		138.4	0	-68.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc142c	mc142	-77.851	166.68	Extrusive:Igneous	Lava Flow	Trachyte		81.9	0	-32.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc142d	mc142	-77.851	166.68	Extrusive:Igneous	Lava Flow	Trachyte		101.4	0	-33.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc142e	mc142	-77.851	166.68	Extrusive:Igneous	Lava Flow	Trachyte		54.1	0	-33.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc142f	mc142	-77.851	166.68	Extrusive:Igneous	Lava Flow	Trachyte		87.9	0	-37.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc142g	mc142	-77.851	166.68	Extrusive:Igneous	Lava Flow	Trachyte		106.3	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc142h	mc142	-77.851	166.68	Extrusive:Igneous	Lava Flow	Trachyte		114.1	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc142i	mc142	-77.851	166.68	Extrusive:Igneous	Lava Flow	Trachyte		106.8	0	-66.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc142j	mc142	-77.851	166.68	Extrusive:Igneous	Lava Flow	Trachyte		36.3	0	-26.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc142k	mc142	-77.851	166.68	Extrusive:Igneous	Lava Flow	Trachyte		70.8	0	-29.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc143a	mc143	-78.244	162.879	Extrusive:Igneous	Lava Flow	Basalt		89.0	0	-78.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc143b	mc143	-78.244	162.879	Extrusive:Igneous	Lava Flow	Basalt		83.2	0	-83.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc143c	mc143	-78.244	162.879	Extrusive:Igneous	Lava Flow	Basalt		87.4	0	-71.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc143d	mc143	-78.244	162.879	Extrusive:Igneous	Lava Flow	Basalt		81.2	0	-74.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc143e	mc143	-78.244	162.879	Extrusive:Igneous	Lava Flow	Basalt		85.4	0	-84.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc143f	mc143	-78.244	162.879	Extrusive:Igneous	Lava Flow	Basalt		75.6	0	-81.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc143g	mc143	-78.244	162.879	Extrusive:Igneous	Lava Flow	Basalt		78.4	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc143h	mc143	-78.244	162.879	Extrusive:Igneous	Lava Flow	Basalt		63.8	0	-73.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc143i	mc143	-78.244	162.879	Extrusive:Igneous	Lava Flow	Basalt		81.3	0	-68.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc143j	mc143	-78.244	162.879	Extrusive:Igneous	Lava Flow	Basalt		77.3	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc143k	mc143	-78.244	162.879	Extrusive:Igneous	Lava Flow	Basalt		76.9	0	-45.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc144a	mc144	-77.85	166.688	Extrusive:Igneous	Lava Flow	Trachyte		165.7	0	-40.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc144b	mc144	-77.85	166.688	Extrusive:Igneous	Lava Flow	Trachyte		156.7	0	-39.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc144c	mc144	-77.85	166.688	Extrusive:Igneous	Lava Flow	Trachyte		123.9	0	-81.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc144d	mc144	-77.85	166.688	Extrusive:Igneous	Lava Flow	Trachyte		111.6	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc144e	mc144	-77.85	166.688	Extrusive:Igneous	Lava Flow	Trachyte		117.4	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc144f	mc144	-77.85	166.688	Extrusive:Igneous	Lava Flow	Trachyte		108.1	0	-47.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc144g	mc144	-77.85	166.688	Extrusive:Igneous	Lava Flow	Trachyte		124.6	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc144h	mc144	-77.85	166.688	Extrusive:Igneous	Lava Flow	Trachyte		185.9	0	-44.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc144i	mc144	-77.85	166.688	Extrusive:Igneous	Lava Flow	Trachyte		193.2	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc144j	mc144	-77.85	166.688	Extrusive:Igneous	Lava Flow	Trachyte		194.7	0	-35.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc144k	mc144	-77.85	166.688	Extrusive:Igneous	Lava Flow	Trachyte		206.4	0	-31.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc145a	mc144	-77.85	166.688	Extrusive:Igneous	Lava Flow	Trachyte		0.0	0	0.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc145b	mc145	-78.24	162.893	Extrusive:Igneous	Lava Flow	Basalt		94.8	0	-54.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc145c	mc145	-78.24	162.893	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: bad mark in field##.	96.0	0	-55.5	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc145d	mc145	-78.24	162.893	Extrusive:Igneous	Lava Flow	Basalt		121.3	0	-64.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc145e	mc145	-78.24	162.893	Extrusive:Igneous	Lava Flow	Basalt		137.3	0	-54.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc145f	mc145	-78.24	162.893	Extrusive:Igneous	Lava Flow	Basalt		132.0	0	-53.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc145g	mc145	-78.24	162.893	Extrusive:Igneous	Lava Flow	Basalt		122.3	0	-62.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc145i	mc145	-78.24	162.893	Extrusive:Igneous	Lava Flow	Basalt		136.8	0	-59.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc145j	mc145	-78.24	162.893	Extrusive:Igneous	Lava Flow	Basalt		103.3	0	-48.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc145k	mc145	-78.24	162.893	Extrusive:Igneous	Lava Flow	Basalt		102.5	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc145l	mc145	-78.24	162.893	Extrusive:Igneous	Lava Flow	Basalt		103.0	0	-63.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc145m	mc145	-78.24	162.893	Extrusive:Igneous	Lava Flow	Basalt		145.5	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc145n	mc145	-78.24	162.893	Extrusive:Igneous	Lava Flow	Basalt		83.0	0	-65.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc146a	mc146	-78.22	162.963	Extrusive:Igneous	Lava Flow	Basalt		320.1	0	-34.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc146b	mc146	-78.22	162.963	Extrusive:Igneous	Lava Flow	Basalt		326.0	0	-36.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc146c	mc146	-78.22	162.963	Extrusive:Igneous	Lava Flow	Basalt		353.4	0	-19.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc146d	mc146	-78.22	162.963	Extrusive:Igneous	Lava Flow	Basalt		347.1	0	-17.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc146e	mc146	-78.22	162.963	Extrusive:Igneous	Lava Flow	Basalt		272.3	0	-34.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc146f	mc146	-78.22	162.963	Extrusive:Igneous	Lava Flow	Basalt		278.8	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc146g	mc146	-78.22	162.963	Extrusive:Igneous	Lava Flow	Basalt		286.5	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc146h	mc146	-78.22	162.963	Extrusive:Igneous	Lava Flow	Basalt		329.0	0	-25.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc146i	mc146	-78.22	162.963	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: displaced block##.	328.2	0	-25.5	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc146j	mc146	-78.22	162.963	Extrusive:Igneous	Lava Flow	Basalt		267.4	0	-36.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc146k	mc146	-78.22	162.963	Extrusive:Igneous	Lava Flow	Basalt		292.4	0	-33.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc147a	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		205.6	0	-78.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc147b	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		210.9	0	-78.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc147c	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		206.4	0	-79.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc147d	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		212.4	0	-78.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc147e	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		203.6	0	-77.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc147f	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		208.4	0	-33.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc147g	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		211.6	0	-78.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc147h	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		215.6	0	-73.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc147i	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		197.1	0	-74.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc147j	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		195.4	0	-78.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc147k	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		201.4	0	-77.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc147l	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		202.4	0	-82.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc147m	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		215.1	0	-71.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc147n	mc147	-78.196	162.96200000000002	Extrusive:Igneous	Lava Flow	Basalt		213.6	0	-69.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc148a	mc148	-77.492	167.24900000000002	Extrusive:Igneous	Lava Flow	Basalt		81.7	0	-72.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc148b	mc148	-77.492	167.24900000000002	Extrusive:Igneous	Lava Flow	Basalt		61.7	0	-69.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc148c	mc148	-77.492	167.24900000000002	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: bad mark in field##.	60.7	0	-57.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc148d	mc148	-77.492	167.24900000000002	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: overprint during thellier##.	53.1	0	-50.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc148e	mc148	-77.492	167.24900000000002	Extrusive:Igneous	Lava Flow	Basalt		72.5	0	-23.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc148f	mc148	-77.492	167.24900000000002	Extrusive:Igneous	Lava Flow	Basalt		95.2	0	-17.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc148g	mc148	-77.492	167.24900000000002	Extrusive:Igneous	Lava Flow	Basalt		173.5	0	-22.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc148h	mc148	-77.492	167.24900000000002	Extrusive:Igneous	Lava Flow	Basalt		174.7	0	-32.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc148i	mc148	-77.492	167.24900000000002	Extrusive:Igneous	Lava Flow	Basalt		88.6	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc148j	mc148	-77.492	167.24900000000002	Extrusive:Igneous	Lava Flow	Basalt		113.6	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc148k	mc148	-77.492	167.24900000000002	Extrusive:Igneous	Lava Flow	Basalt		105.8	0	-40.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc149a	mc149	-77.486	167.187	Intrusive:Igneous	Volcanic Dike	Basalt		33.2	0	-53.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc149b	mc149	-77.486	167.187	Intrusive:Igneous	Volcanic Dike	Basalt		37.2	0	-82.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc149c	mc149	-77.486	167.187	Intrusive:Igneous	Volcanic Dike	Basalt		21.5	0	-79.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc149d	mc149	-77.486	167.187	Intrusive:Igneous	Volcanic Dike	Basalt		39.2	0	-55.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc149e	mc149	-77.486	167.187	Intrusive:Igneous	Volcanic Dike	Basalt		29.7	0	-52.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc149f	mc149	-77.486	167.187	Intrusive:Igneous	Volcanic Dike	Basalt		45.4	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc149g	mc149	-77.486	167.187	Intrusive:Igneous	Volcanic Dike	Basalt		30.2	0	-58.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc149h	mc149	-77.486	167.187	Intrusive:Igneous	Volcanic Dike	Basalt		30.4	0	-59.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc149i	mc149	-77.486	167.187	Intrusive:Igneous	Volcanic Dike	Basalt		8.1	0	-63.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc149j	mc149	-77.486	167.187	Intrusive:Igneous	Volcanic Dike	Basalt		47.4	0	-64.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc149k	mc149	-77.486	167.187	Intrusive:Igneous	Volcanic Dike	Basalt		21.1	0	-67.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc14a	mc14	-77.46	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	318.0	0	-43.0	g	This study	SO-SIGHT:FS-FD
+mc14b	mc14	-77.46	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	229.0	0	-31.0	g	This study	SO-SIGHT:FS-FD
+mc14c	mc14	-77.46	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	209.0	0	-35.0	g	This study	SO-SIGHT:FS-FD
+mc14d	mc14	-77.46	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	262.0	0	-34.0	g	This study	SO-SIGHT:FS-FD
+mc14e	mc14	-77.46	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	286.0	0	-50.0	g	This study	SO-SIGHT:FS-FD
+mc14f	mc14	-77.46	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	230.0	0	-29.0	g	This study	SO-SIGHT:FS-FD
+mc14g	mc14	-77.46	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	260.0	0	-37.0	g	This study	SO-SIGHT:FS-FD
+mc14h	mc14	-77.46	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	241.0	0	-38.0	g	This study	SO-SIGHT:FS-FD
+mc150a	mc150	-77.714	162.637	Extrusive:Igneous	Lava Flow	Basalt		188.3	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc150b	mc150	-77.714	162.637	Extrusive:Igneous	Lava Flow	Basalt		186.1	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc150c	mc150	-77.714	162.637	Extrusive:Igneous	Lava Flow	Basalt		173.0	0	-22.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc150d	mc150	-77.714	162.637	Extrusive:Igneous	Lava Flow	Basalt		164.5	0	-72.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc150e	mc150	-77.714	162.637	Extrusive:Igneous	Lava Flow	Basalt		155.4	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc150f	mc150	-77.714	162.637	Extrusive:Igneous	Lava Flow	Basalt		160.9	0	-68.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc150g	mc150	-77.714	162.637	Extrusive:Igneous	Lava Flow	Basalt		173.3	0	-72.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc150h	mc150	-77.714	162.637	Extrusive:Igneous	Lava Flow	Basalt		162.8	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc150i	mc150	-77.714	162.637	Extrusive:Igneous	Lava Flow	Basalt		161.3	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc150j	mc150	-77.714	162.637	Extrusive:Igneous	Lava Flow	Basalt		154.7	0	-60.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc151a	mc151	-77.486	167.187	Extrusive:Igneous	Lava Flow	Basalt		25.9	0	-86.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc151b	mc151	-77.486	167.187	Extrusive:Igneous	Lava Flow	Basalt		30.4	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc151c	mc151	-77.486	167.187	Extrusive:Igneous	Lava Flow	Basalt		29.4	0	-59.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc151d	mc151	-77.486	167.187	Extrusive:Igneous	Lava Flow	Basalt		46.6	0	-79.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc151e	mc151	-77.486	167.187	Extrusive:Igneous	Lava Flow	Basalt		49.9	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc151f	mc151	-77.486	167.187	Extrusive:Igneous	Lava Flow	Basalt		43.3	0	-47.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc152a	mc152	-77.71600000000001	162.645	Intrusive:Igneous	Volcanic Dike	Basalt		142.6	0	-100.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc152b	mc152	-77.71600000000001	162.645	Intrusive:Igneous	Volcanic Dike	Basalt		146.3	0	-92.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc152c	mc152	-77.71600000000001	162.645	Intrusive:Igneous	Volcanic Dike	Basalt		148.0	0	-76.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc152d	mc152	-77.71600000000001	162.645	Intrusive:Igneous	Volcanic Dike	Basalt		157.7	0	-73.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc152e	mc152	-77.71600000000001	162.645	Intrusive:Igneous	Volcanic Dike	Basalt		134.2	0	-78.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc152f	mc152	-77.71600000000001	162.645	Intrusive:Igneous	Volcanic Dike	Basalt		146.9	0	-72.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc152g	mc152	-77.71600000000001	162.645	Intrusive:Igneous	Volcanic Dike	Basalt		137.6	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc152h	mc152	-77.71600000000001	162.645	Intrusive:Igneous	Volcanic Dike	Basalt		148.8	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc152i	mc152	-77.71600000000001	162.645	Intrusive:Igneous	Volcanic Dike	Basalt		133.6	0	-79.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc152j	mc152	-77.71600000000001	162.645	Intrusive:Igneous	Volcanic Dike	Basalt		168.3	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc152k	mc152	-77.71600000000001	162.645	Intrusive:Igneous	Volcanic Dike	Basalt		170.3	0	-69.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc153a	mc153	-77.76	162.144	Extrusive:Igneous	Lava Flow	Basalt		187.8	0	-69.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc153c	mc153	-77.76	162.144	Extrusive:Igneous	Lava Flow	Basalt		222.0	0	-77.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc153d	mc153	-77.76	162.144	Extrusive:Igneous	Lava Flow	Basalt		222.5	0	-79.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc153e	mc153	-77.76	162.144	Extrusive:Igneous	Lava Flow	Basalt		234.9	0	-73.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc153f	mc153	-77.76	162.144	Extrusive:Igneous	Lava Flow	Basalt		173.9	0	-65.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc153g	mc153	-77.76	162.144	Extrusive:Igneous	Lava Flow	Basalt		192.7	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc153h	mc153	-77.76	162.144	Extrusive:Igneous	Lava Flow	Basalt		170.4	0	-59.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc153i	mc153	-77.76	162.144	Extrusive:Igneous	Lava Flow	Basalt		187.1	0	-58.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc153j	mc153	-77.76	162.144	Extrusive:Igneous	Lava Flow	Basalt		183.8	0	-55.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc153k	mc153	-77.76	162.144	Extrusive:Igneous	Lava Flow	Basalt		194.6	0	-53.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc153l	mc153	-77.76	162.144	Extrusive:Igneous	Lava Flow	Basalt		182.3	0	-46.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc153m	mc153	-77.76	162.144	Extrusive:Igneous	Lava Flow	Basalt		188.0	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc154a	mc154	-77.719	162.626	Extrusive:Igneous	Lava Flow	Basalt		216.9	0	-90.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc154b	mc154	-77.719	162.626	Extrusive:Igneous	Lava Flow	Basalt		232.3	0	-87.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc154c	mc154	-77.719	162.626	Extrusive:Igneous	Lava Flow	Basalt		230.3	0	-83.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc154d	mc154	-77.719	162.626	Extrusive:Igneous	Lava Flow	Basalt		235.8	0	-82.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc154e	mc154	-77.719	162.626	Extrusive:Igneous	Lava Flow	Basalt		213.5	0	-79.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc154f	mc154	-77.719	162.626	Extrusive:Igneous	Lava Flow	Basalt		220.3	0	-86.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc154g	mc154	-77.719	162.626	Extrusive:Igneous	Lava Flow	Basalt		284.0	0	-59.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc154h	mc154	-77.719	162.626	Extrusive:Igneous	Lava Flow	Basalt		292.7	0	-57.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc154i	mc154	-77.719	162.626	Extrusive:Igneous	Lava Flow	Basalt		251.5	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc154j	mc154	-77.719	162.626	Extrusive:Igneous	Lava Flow	Basalt		252.2	0	-43.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155a	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		103.6	0	-44.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155b	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		149.8	0	-47.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155c	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		15.3	0	-24.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155d	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		75.0	0	-24.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155e	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		47.0	0	-34.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155f	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		67.7	0	-25.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155g	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		85.5	0	-26.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155h	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		342.9	0	-16.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155i	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		86.2	0	-34.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155j	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		100.4	0	-36.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155k	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		78.6	0	-36.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155l	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		51.4	0	-21.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155m	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		83.4	0	-25.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc155n	mc155	-77.699	162.253	Extrusive:Igneous	Lava Flow	Basalt		51.6	0	-26.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc156a	mc156	-77.705	162.592	Extrusive:Igneous	Lava Flow	Basalt		171.1	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc156b	mc156	-77.705	162.592	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: bad mark in field##.	188.6	0	-58.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc156c	mc156	-77.705	162.592	Extrusive:Igneous	Lava Flow	Basalt		199.3	0	-54.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc156d	mc156	-77.705	162.592	Extrusive:Igneous	Lava Flow	Basalt		200.0	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc156e	mc156	-77.705	162.592	Extrusive:Igneous	Lava Flow	Basalt		185.7	0	-58.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc156f	mc156	-77.705	162.592	Extrusive:Igneous	Lava Flow	Basalt		194.0	0	-54.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc156g	mc156	-77.705	162.592	Extrusive:Igneous	Lava Flow	Basalt		161.2	0	-34.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc156h	mc156	-77.705	162.592	Extrusive:Igneous	Lava Flow	Basalt		172.9	0	-35.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc156i	mc156	-77.705	162.592	Extrusive:Igneous	Lava Flow	Basalt		152.6	0	-89.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc156j	mc156	-77.705	162.592	Extrusive:Igneous	Lava Flow	Basalt		162.9	0	-87.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc157a	mc157	-77.703	162.264	Extrusive:Igneous	Lava Flow	Basalt		16.7	0	-36.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc157b	mc157	-77.703	162.264	Extrusive:Igneous	Lava Flow	Basalt		37.4	0	-38.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc157c	mc157	-77.703	162.264	Extrusive:Igneous	Lava Flow	Basalt		85.4	0	-43.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc157d	mc157	-77.703	162.264	Extrusive:Igneous	Lava Flow	Basalt			0		b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc157e	mc157	-77.703	162.264	Extrusive:Igneous	Lava Flow	Basalt		56.3	0	-31.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc157f	mc157	-77.703	162.264	Extrusive:Igneous	Lava Flow	Basalt		35.1	0	-23.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc157g	mc157	-77.703	162.264	Extrusive:Igneous	Lava Flow	Basalt		59.8	0	-34.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc157h	mc157	-77.703	162.264	Extrusive:Igneous	Lava Flow	Basalt		17.5	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc157j	mc157	-77.703	162.264	Extrusive:Igneous	Lava Flow	Basalt		9.4	0	-35.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc157k	mc157	-77.703	162.264	Extrusive:Igneous	Lava Flow	Basalt		5.6	0	-39.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc157l	mc157	-77.703	162.264	Extrusive:Igneous	Lava Flow	Basalt		27.9	0	-29.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc157m	mc157	-77.703	162.264	Extrusive:Igneous	Lava Flow	Basalt		35.6	0	-37.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc157n	mc157	-77.703	162.264	Extrusive:Igneous	Lava Flow	Basalt		8.6	0	-47.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc158a	mc158	-77.688	162.46200000000002	Extrusive:Igneous	Lava Flow	Basalt		40.5	0	-14.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc158b	mc158	-77.688	162.46200000000002	Extrusive:Igneous	Lava Flow	Basalt		72.7	0	-22.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc158c	mc158	-77.688	162.46200000000002	Extrusive:Igneous	Lava Flow	Basalt		57.5	0	-12.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc158d	mc158	-77.688	162.46200000000002	Extrusive:Igneous	Lava Flow	Basalt		71.2	0	-18.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc158e	mc158	-77.688	162.46200000000002	Extrusive:Igneous	Lava Flow	Basalt		36.2	0	-10.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc158f	mc158	-77.688	162.46200000000002	Extrusive:Igneous	Lava Flow	Basalt		89.0	0	-9.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc158g	mc158	-77.688	162.46200000000002	Extrusive:Igneous	Lava Flow	Basalt		60.7	0	-22.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc158h	mc158	-77.688	162.46200000000002	Extrusive:Igneous	Lava Flow	Basalt		40.7	0	-31.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc158i	mc158	-77.688	162.46200000000002	Extrusive:Igneous	Lava Flow	Basalt		50.0	0	-31.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc158j	mc158	-77.688	162.46200000000002	Extrusive:Igneous	Lava Flow	Basalt		144.7	0	-7.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc15a	mc15	-77.47	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	157.0	0	-21.0	g	This study	SO-SIGHT:FS-FD
+mc15b	mc15	-77.47	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	179.0	0	-34.0	g	This study	SO-SIGHT:FS-FD
+mc15c	mc15	-77.47	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	131.0	0	-47.0	g	This study	SO-SIGHT:FS-FD
+mc15d	mc15	-77.47	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	135.0	0	-33.0	g	This study	SO-SIGHT:FS-FD
+mc15e	mc15	-77.47	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	120.0	0	-34.0	g	This study	SO-SIGHT:FS-FD
+mc15f	mc15	-77.47	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	123.0	0	-31.0	g	This study	SO-SIGHT:FS-FD
+mc15g	mc15	-77.47	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	111.0	0	-59.0	g	This study	SO-SIGHT:FS-FD
+mc15h	mc15	-77.47	169.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	125.0	0	-42.0	g	This study	SO-SIGHT:FS-FD
+mc160a	mc160	-77.687	162.35399999999998	Extrusive:Igneous	Lava Flow	Basalt		315.9	0	-46.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc160b	mc160	-77.687	162.35399999999998	Extrusive:Igneous	Lava Flow	Basalt		309.7	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc160c	mc160	-77.687	162.35399999999998	Extrusive:Igneous	Lava Flow	Basalt		22.4	0	-22.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc160d	mc160	-77.687	162.35399999999998	Extrusive:Igneous	Lava Flow	Basalt		347.8	0	-14.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc160e	mc160	-77.687	162.35399999999998	Extrusive:Igneous	Lava Flow	Basalt		25.6	0	-30.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc160f	mc160	-77.687	162.35399999999998	Extrusive:Igneous	Lava Flow	Basalt		340.3	0	-30.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc160g	mc160	-77.687	162.35399999999998	Extrusive:Igneous	Lava Flow	Basalt		290.0	0	-47.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc160h	mc160	-77.687	162.35399999999998	Extrusive:Igneous	Lava Flow	Basalt		291.7	0	-45.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc160i	mc160	-77.687	162.35399999999998	Extrusive:Igneous	Lava Flow	Basalt		297.2	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc160j	mc160	-77.687	162.35399999999998	Extrusive:Igneous	Lava Flow	Basalt		307.9	0	-47.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc160k	mc160	-77.687	162.35399999999998	Extrusive:Igneous	Lava Flow	Basalt		246.6	0	-32.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc160l	mc160	-77.687	162.35399999999998	Extrusive:Igneous	Lava Flow	Basalt		280.9	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc161a	mc161	-77.702	162.694	Extrusive:Igneous	Lava Flow	Basalt		345.4	0	-20.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc161b	mc161	-77.702	162.694	Extrusive:Igneous	Lava Flow	Basalt		331.1	0	-25.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc161c	mc161	-77.702	162.694	Extrusive:Igneous	Lava Flow	Basalt		307.4	0	-21.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc161d	mc161	-77.702	162.694	Extrusive:Igneous	Lava Flow	Basalt		334.6	0	-29.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc161e	mc161	-77.702	162.694	Extrusive:Igneous	Lava Flow	Basalt		14.1	0	-23.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc161f	mc161	-77.702	162.694	Extrusive:Igneous	Lava Flow	Basalt		20.8	0	-26.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc161g	mc161	-77.702	162.694	Extrusive:Igneous	Lava Flow	Basalt		11.6	0	-24.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc161h	mc161	-77.702	162.694	Extrusive:Igneous	Lava Flow	Basalt		28.3	0	-27.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc161i	mc161	-77.702	162.694	Extrusive:Igneous	Lava Flow	Basalt		5.8	0	-32.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc161j	mc161	-77.702	162.694	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: bad mark in field##.	6.5	0	-26.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc161k	mc161	-77.702	162.694	Extrusive:Igneous	Lava Flow	Basalt		37.7	0	-30.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc162a	mc162	-77.70100000000001	162.69	Extrusive:Igneous	Lava Flow	Basalt		209.4	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc162b	mc162	-77.70100000000001	162.69	Extrusive:Igneous	Lava Flow	Basalt		217.9	0	-47.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc162c	mc162	-77.70100000000001	162.69	Extrusive:Igneous	Lava Flow	Basalt		137.6	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc162d	mc162	-77.70100000000001	162.69	Extrusive:Igneous	Lava Flow	Basalt		142.0	0	-42.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc162e	mc162	-77.70100000000001	162.69	Extrusive:Igneous	Lava Flow	Basalt		193.8	0	-63.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc162f	mc162	-77.70100000000001	162.69	Extrusive:Igneous	Lava Flow	Basalt		199.2	0	-63.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc162g	mc162	-77.70100000000001	162.69	Extrusive:Igneous	Lava Flow	Basalt		198.4	0	-55.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc162h	mc162	-77.70100000000001	162.69	Extrusive:Igneous	Lava Flow	Basalt		205.1	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc162i	mc162	-77.70100000000001	162.69	Extrusive:Igneous	Lava Flow	Basalt		229.6	0	-48.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc162j	mc162	-77.70100000000001	162.69	Extrusive:Igneous	Lava Flow	Basalt		242.3	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc163a	mc163	-77.7	162.68	Extrusive:Igneous	Lava Flow	Basalt		52.7	0	-28.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc163b	mc163	-77.7	162.68	Extrusive:Igneous	Lava Flow	Basalt		48.2	0	-26.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc163c	mc163	-77.7	162.68	Extrusive:Igneous	Lava Flow	Basalt		42.7	0	-39.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc163d	mc163	-77.7	162.68	Extrusive:Igneous	Lava Flow	Basalt		68.9	0	-44.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc163e	mc163	-77.7	162.68	Extrusive:Igneous	Lava Flow	Basalt		60.8	0	-32.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc163f	mc163	-77.7	162.68	Extrusive:Igneous	Lava Flow	Basalt		69.6	0	-28.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc163g	mc163	-77.7	162.68	Extrusive:Igneous	Lava Flow	Basalt		21.3	0	-24.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc163h	mc163	-77.7	162.68	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: overprint during thellier##.	46.0	0	-28.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc163i	mc163	-77.7	162.68	Extrusive:Igneous	Lava Flow	Basalt		191.8	0	-19.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc163j	mc163	-77.7	162.68	Extrusive:Igneous	Lava Flow	Basalt		181.2	0	-24.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc163k	mc163	-77.7	162.68	Extrusive:Igneous	Lava Flow	Basalt		39.4	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc164a	mc164	-77.514	169.33	Extrusive:Igneous	Lava Flow	Basalt		105.0	0	-24.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc164b	mc164	-77.514	169.33	Extrusive:Igneous	Lava Flow	Basalt		107.7	0	-18.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc164c	mc164	-77.514	169.33	Extrusive:Igneous	Lava Flow	Basalt		75.9	0	-28.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc164d	mc164	-77.514	169.33	Extrusive:Igneous	Lava Flow	Basalt		89.2	0	-29.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc164e	mc164	-77.514	169.33	Extrusive:Igneous	Lava Flow	Basalt		75.9	0	-27.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc164f	mc164	-77.514	169.33	Extrusive:Igneous	Lava Flow	Basalt		76.1	0	-26.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc164g	mc164	-77.514	169.33	Extrusive:Igneous	Lava Flow	Basalt		115.9	0	-25.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc164h	mc164	-77.514	169.33	Extrusive:Igneous	Lava Flow	Basalt		120.6	0	-27.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc164i	mc164	-77.514	169.33	Extrusive:Igneous	Lava Flow	Basalt		326.3	0	-19.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc164j	mc164	-77.514	169.33	Extrusive:Igneous	Lava Flow	Basalt		358.1	0	-19.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc164k	mc164	-77.514	169.33	Extrusive:Igneous	Lava Flow	Basalt		22.3	0	-26.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc164l	mc164	-77.514	169.33	Extrusive:Igneous	Lava Flow	Basalt		72.6	0	-14.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc165a	mc165	-77.513	169.332	Extrusive:Igneous	Lava Flow	Basalt		190.8	0	-64.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc165b	mc165	-77.513	169.332	Extrusive:Igneous	Lava Flow	Basalt		206.2	0	-68.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc165c	mc165	-77.513	169.332	Extrusive:Igneous	Lava Flow	Basalt		134.4	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc165d	mc165	-77.513	169.332	Extrusive:Igneous	Lava Flow	Basalt		141.1	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc165e	mc165	-77.513	169.332	Extrusive:Igneous	Lava Flow	Basalt		139.8	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc165f	mc165	-77.513	169.332	Extrusive:Igneous	Lava Flow	Basalt		154.3	0	-53.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc165g	mc165	-77.513	169.332	Extrusive:Igneous	Lava Flow	Basalt		162.0	0	-57.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc165h	mc165	-77.513	169.332	Extrusive:Igneous	Lava Flow	Basalt		170.2	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc165i	mc165	-77.513	169.332	Extrusive:Igneous	Lava Flow	Basalt		110.9	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc165j	mc165	-77.513	169.332	Extrusive:Igneous	Lava Flow	Basalt		117.6	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc166a	mc166	-77.84899999999999	166.67	Extrusive:Igneous	Lava Flow	Basalt		324.3	0	-16.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc166b	mc166	-77.84899999999999	166.67	Extrusive:Igneous	Lava Flow	Basalt		15.6	0	-20.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc166c	mc166	-77.84899999999999	166.67	Extrusive:Igneous	Lava Flow	Basalt		9.5	0	-59.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc166d	mc166	-77.84899999999999	166.67	Extrusive:Igneous	Lava Flow	Basalt		10.3	0	-57.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc166e	mc166	-77.84899999999999	166.67	Extrusive:Igneous	Lava Flow	Basalt		340.5	0	-35.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc166f	mc166	-77.84899999999999	166.67	Extrusive:Igneous	Lava Flow	Basalt		39.0	0	-26.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc166g	mc166	-77.84899999999999	166.67	Extrusive:Igneous	Lava Flow	Basalt		316.5	0	-51.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc166h	mc166	-77.84899999999999	166.67	Extrusive:Igneous	Lava Flow	Basalt		330.5	0	-46.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc166i	mc166	-77.84899999999999	166.67	Extrusive:Igneous	Lava Flow	Basalt		4.5	0	-49.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc166j	mc166	-77.84899999999999	166.67	Extrusive:Igneous	Lava Flow	Basalt		17.0	0	-47.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc166l	mc166	-77.84899999999999	166.67	Extrusive:Igneous	Lava Flow	Basalt		10.5	0	-51.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc167a	mc167	-77.487	169.294	Extrusive:Igneous	Lava Flow	Basalt		48.2	0	-20.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc167b	mc167	-77.487	169.294	Extrusive:Igneous	Lava Flow	Basalt		203.0	0	-21.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc167c	mc167	-77.487	169.294	Extrusive:Igneous	Lava Flow	Basalt		180.0	0	-24.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc167d	mc167	-77.487	169.294	Extrusive:Igneous	Lava Flow	Basalt		194.7	0	-23.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc167e	mc167	-77.487	169.294	Extrusive:Igneous	Lava Flow	Basalt		200.4	0	-32.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc167f	mc167	-77.487	169.294	Extrusive:Igneous	Lava Flow	Basalt		217.9	0	-28.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc167g	mc167	-77.487	169.294	Extrusive:Igneous	Lava Flow	Basalt		156.7	0	-25.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc167h	mc167	-77.487	169.294	Extrusive:Igneous	Lava Flow	Basalt		148.4	0	-21.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc167i	mc167	-77.487	169.294	Extrusive:Igneous	Lava Flow	Basalt		171.2	0	-23.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc167j	mc167	-77.487	169.294	Extrusive:Igneous	Lava Flow	Basalt		263.1	0	-36.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc167k	mc167	-77.487	169.294	Extrusive:Igneous	Lava Flow	Basalt		272.4	0	-32.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc168a	mc168	-77.488	169.292	Extrusive:Igneous	Lava Flow	Basalt		5.5	0	-29.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc168b	mc168	-77.488	169.292	Extrusive:Igneous	Lava Flow	Basalt		20.0	0	-34.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc168c	mc168	-77.488	169.292	Extrusive:Igneous	Lava Flow	Basalt		343.7	0	-20.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc168d	mc168	-77.488	169.292	Extrusive:Igneous	Lava Flow	Basalt		11.5	0	-16.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc168e	mc168	-77.488	169.292	Extrusive:Igneous	Lava Flow	Basalt		171.2	0	-39.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc168f	mc168	-77.488	169.292	Extrusive:Igneous	Lava Flow	Basalt		177.9	0	-35.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc168g	mc168	-77.488	169.292	Extrusive:Igneous	Lava Flow	Basalt		158.6	0	-38.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc168h	mc168	-77.488	169.292	Extrusive:Igneous	Lava Flow	Basalt		180.1	0	-41.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc168i	mc168	-77.488	169.292	Extrusive:Igneous	Lava Flow	Basalt		357.8	0	-23.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc168j	mc168	-77.488	169.292	Extrusive:Igneous	Lava Flow	Basalt		35.5	0	-20.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc168k	mc168	-77.488	169.292	Extrusive:Igneous	Lava Flow	Basalt		96.0	0	-30.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc168l	mc168	-77.488	169.292	Extrusive:Igneous	Lava Flow	Basalt		119.7	0	-33.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc169a	mc169	-77.491	169.28	Extrusive:Igneous	Lava Flow	Basalt		310.6	0	-12.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc169b	mc169	-77.491	169.28	Extrusive:Igneous	Lava Flow	Basalt		32.8	0	-12.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc169c	mc169	-77.491	169.28	Extrusive:Igneous	Lava Flow	Basalt		75.7	0	-27.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc169d	mc169	-77.491	169.28	Extrusive:Igneous	Lava Flow	Basalt		355.3	0	-23.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc169e	mc169	-77.491	169.28	Extrusive:Igneous	Lava Flow	Basalt		57.7	0	-21.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc169f	mc169	-77.491	169.28	Extrusive:Igneous	Lava Flow	Basalt		0.2	0	-25.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc169g	mc169	-77.491	169.28	Extrusive:Igneous	Lava Flow	Basalt		15.1	0	-19.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc169h	mc169	-77.491	169.28	Extrusive:Igneous	Lava Flow	Basalt		5.6	0	-28.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc169i	mc169	-77.491	169.28	Extrusive:Igneous	Lava Flow	Basalt		108.0	0	-30.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc169j	mc169	-77.491	169.28	Extrusive:Igneous	Lava Flow	Basalt		338.5	0	-21.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc16d	mc16	-77.51	169.38	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	54.0	0	-32.0	g	This study	SO-SIGHT:FS-FD
+mc170a	mc170	-77.854	166.71400000000003	Extrusive:Igneous	Lava Flow	Basalt		342.1	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc170b	mc170	-77.854	166.71400000000003	Extrusive:Igneous	Lava Flow	Basalt		356.8	0	-54.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc170c	mc170	-77.854	166.71400000000003	Extrusive:Igneous	Lava Flow	Basalt		345.3	0	-60.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc170d	mc170	-77.854	166.71400000000003	Extrusive:Igneous	Lava Flow	Basalt		352.3	0	-53.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc170e	mc170	-77.854	166.71400000000003	Extrusive:Igneous	Lava Flow	Basalt		339.8	0	-55.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc170f	mc170	-77.854	166.71400000000003	Extrusive:Igneous	Lava Flow	Basalt		343.6	0	-53.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc170g	mc170	-77.854	166.71400000000003	Extrusive:Igneous	Lava Flow	Basalt		337.3	0	-60.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc170h	mc170	-77.854	166.71400000000003	Extrusive:Igneous	Lava Flow	Basalt		353.0	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc170i	mc170	-77.854	166.71400000000003	Extrusive:Igneous	Lava Flow	Basalt		3.8	0	-31.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc170j	mc170	-77.854	166.71400000000003	Extrusive:Igneous	Lava Flow	Basalt		30.5	0	-29.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc170k	mc170	-77.854	166.71400000000003	Extrusive:Igneous	Lava Flow	Basalt		350.0	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc19a	mc19	-77.86	165.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	325.0	0	-43.0	g	This study	SO-SIGHT:FS-FD
+mc19b	mc19	-77.86	165.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	54.0	0	-40.0	g	This study	SO-SIGHT:FS-FD
+mc19c	mc19	-77.86	165.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	94.0	0	-94.0	g	This study	SO-SIGHT:FS-FD
+mc19d	mc19	-77.86	165.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	352.0	0	-71.0	g	This study	SO-SIGHT:FS-FD
+mc19e	mc19	-77.86	165.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	327.0	0	-66.0	g	This study	SO-SIGHT:FS-FD
+mc19f	mc19	-77.86	165.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	15.0	0	-63.0	g	This study	SO-SIGHT:FS-FD
+mc19g	mc19	-77.86	165.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	285.0	0	-47.0	g	This study	SO-SIGHT:FS-FD
+mc19h	mc19	-77.86	165.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	281.0	0	-28.0	g	This study	SO-SIGHT:FS-FD
+mc200a	mc200	-77.54995	166.16148	Extrusive:Igneous	Lava Flow	Phonolite		8.2	0	-34.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc200b	mc200	-77.54995	166.16148	Extrusive:Igneous	Lava Flow	Phonolite		12.3	0	-35.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc200c	mc200	-77.54995	166.16148	Extrusive:Igneous	Lava Flow	Phonolite		12.8	0	-35.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc200d	mc200	-77.54995	166.16148	Extrusive:Igneous	Lava Flow	Phonolite		291.3	0	-40.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc200e	mc200	-77.54995	166.16148	Extrusive:Igneous	Lava Flow	Phonolite		234.5	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc200f	mc200	-77.54995	166.16148	Extrusive:Igneous	Lava Flow	Phonolite		221.2	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc200g	mc200	-77.54995	166.16148	Extrusive:Igneous	Lava Flow	Phonolite		228.3	0	-59.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc200h	mc200	-77.54995	166.16148	Extrusive:Igneous	Lava Flow	Phonolite		225.2	0	-54.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc200i	mc200	-77.54995	166.16148	Extrusive:Igneous	Lava Flow	Phonolite		131.9	0	-36.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc200j	mc200	-77.54995	166.16148	Extrusive:Igneous	Lava Flow	Phonolite		128.1	0	-38.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc200k	mc200	-77.54995	166.16148	Extrusive:Igneous	Lava Flow	Phonolite		128.8	0	-34.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc201a	mc201	-77.56284000000001	166.21958	Extrusive:Igneous	Lava Flow	Phonolite		41.5	0	-48.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc201b	mc201	-77.56284000000001	166.21958	Extrusive:Igneous	Lava Flow	Phonolite		40.5	0	-52.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc201c	mc201	-77.56284000000001	166.21958	Extrusive:Igneous	Lava Flow	Phonolite		48.7	0	-47.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc201d	mc201	-77.56284000000001	166.21958	Extrusive:Igneous	Lava Flow	Phonolite		40.0	0	-39.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc201e	mc201	-77.56284000000001	166.21958	Extrusive:Igneous	Lava Flow	Phonolite		34.7	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc201f	mc201	-77.56284000000001	166.21958	Extrusive:Igneous	Lava Flow	Phonolite		34.5	0	-40.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc201g	mc201	-77.56284000000001	166.21958	Extrusive:Igneous	Lava Flow	Phonolite		68.7	0	-44.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc201h	mc201	-77.56284000000001	166.21958	Extrusive:Igneous	Lava Flow	Phonolite		63.6	0	-53.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc201i	mc201	-77.56284000000001	166.21958	Extrusive:Igneous	Lava Flow	Phonolite		70.9	0	-49.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc201j	mc201	-77.56284000000001	166.21958	Extrusive:Igneous	Lava Flow	Phonolite		66.6	0	-60.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc202a	mc202	-77.65674	166.36424	Extrusive:Igneous	Lava Flow	Phonolite		173.0	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc202b	mc202	-77.65674	166.36424	Extrusive:Igneous	Lava Flow	Phonolite		173.3	0	-72.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc202c	mc202	-77.65674	166.36424	Extrusive:Igneous	Lava Flow	Phonolite		173.5	0	-72.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc202d	mc202	-77.65674	166.36424	Extrusive:Igneous	Lava Flow	Phonolite		160.8	0	-68.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc202e	mc202	-77.65674	166.36424	Extrusive:Igneous	Lava Flow	Phonolite		159.6	0	-65.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc202f	mc202	-77.65674	166.36424	Extrusive:Igneous	Lava Flow	Phonolite		172.1	0	-65.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc202g	mc202	-77.65674	166.36424	Extrusive:Igneous	Lava Flow	Phonolite		165.6	0	-55.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc202h	mc202	-77.65674	166.36424	Extrusive:Igneous	Lava Flow	Phonolite		177.1	0	-44.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc202i	mc202	-77.65674	166.36424	Extrusive:Igneous	Lava Flow	Phonolite		192.6	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc202j	mc202	-77.65674	166.36424	Extrusive:Igneous	Lava Flow	Phonolite		171.5	0	-25.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc203a	mc203	-77.5807	166.25055	Intrusive:Igneous	Volcanic Dike	Basalt		348.8	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc203b	mc203	-77.5807	166.25055	Intrusive:Igneous	Volcanic Dike	Basalt		349.1	0	-82.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc203c	mc203	-77.5807	166.25055	Intrusive:Igneous	Volcanic Dike	Basalt		358.3	0	-85.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc203d	mc203	-77.5807	166.25055	Intrusive:Igneous	Volcanic Dike	Basalt		347.7	0	-79.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc203e	mc203	-77.5807	166.25055	Intrusive:Igneous	Volcanic Dike	Basalt		351.1	0	-70.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc203f	mc203	-77.5807	166.25055	Intrusive:Igneous	Volcanic Dike	Basalt		16.0	0	-77.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc203g	mc203	-77.5807	166.25055	Intrusive:Igneous	Volcanic Dike	Basalt		15.1	0	-78.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc203h	mc203	-77.5807	166.25055	Intrusive:Igneous	Volcanic Dike	Basalt		9.7	0	-71.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc203i	mc203	-77.5807	166.25055	Intrusive:Igneous	Volcanic Dike	Basalt		355.9	0	-86.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc203j	mc203	-77.5807	166.25055	Intrusive:Igneous	Volcanic Dike	Basalt		1.1	0	-89.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc204a	mc204	-77.6402	166.40836000000002	Extrusive:Igneous	Lava Flow	Phonolite		42.5	0	-68.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc204b	mc204	-77.6402	166.40836000000002	Extrusive:Igneous	Lava Flow	Phonolite		40.3	0	-82.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc204c	mc204	-77.6402	166.40836000000002	Extrusive:Igneous	Lava Flow	Phonolite		31.3	0	-82.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc204d	mc204	-77.6402	166.40836000000002	Extrusive:Igneous	Lava Flow	Phonolite		34.3	0	-89.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc204e	mc204	-77.6402	166.40836000000002	Extrusive:Igneous	Lava Flow	Phonolite		32.3	0	-83.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc204f	mc204	-77.6402	166.40836000000002	Extrusive:Igneous	Lava Flow	Phonolite		37.8	0	-71.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc204g	mc204	-77.6402	166.40836000000002	Extrusive:Igneous	Lava Flow	Phonolite		39.8	0	-79.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc204h	mc204	-77.6402	166.40836000000002	Extrusive:Igneous	Lava Flow	Phonolite		74.3	0	-91.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc204i	mc204	-77.6402	166.40836000000002	Extrusive:Igneous	Lava Flow	Phonolite		73.8	0	-90.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc204j	mc204	-77.6402	166.40836000000002	Extrusive:Igneous	Lava Flow	Phonolite		77.4	0	-92.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc204k	mc204	-77.6402	166.40836000000002	Extrusive:Igneous	Lava Flow	Phonolite		79.9	0	-85.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc204l	mc204	-77.6402	166.40836000000002	Extrusive:Igneous	Lava Flow	Phonolite		81.0	0	-76.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc205a	mc205	-77.65666	166.72515	Intrusive:Igneous	Volcanic Dike	Basalt		45.8	0	-62.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc205b	mc205	-77.65666	166.72515	Intrusive:Igneous	Volcanic Dike	Basalt		44.2	0	-64.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc205c	mc205	-77.65666	166.72515	Intrusive:Igneous	Volcanic Dike	Basalt		43.1	0	-58.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc205d	mc205	-77.65666	166.72515	Intrusive:Igneous	Volcanic Dike	Basalt		47.1	0	-78.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc205e	mc205	-77.65666	166.72515	Intrusive:Igneous	Volcanic Dike	Basalt		48.0	0	-80.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc205f	mc205	-77.65666	166.72515	Intrusive:Igneous	Volcanic Dike	Basalt		87.4	0	-60.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc205g	mc205	-77.65666	166.72515	Intrusive:Igneous	Volcanic Dike	Basalt		86.9	0	-61.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc205h	mc205	-77.65666	166.72515	Intrusive:Igneous	Volcanic Dike	Basalt		43.1	0	-81.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc205i	mc205	-77.65666	166.72515	Intrusive:Igneous	Volcanic Dike	Basalt		41.6	0	-87.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc205j	mc205	-77.65666	166.72515	Intrusive:Igneous	Volcanic Dike	Basalt		43.5	0	-78.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc205k	mc205	-77.65666	166.72515	Intrusive:Igneous	Volcanic Dike	Basalt		44.0	0	-90.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc206a	mc206	-77.66665	166.78033	Intrusive:Igneous	Volcanic Dome	Basalt		37.2	0	-82.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc206b	mc206	-77.66665	166.78033	Intrusive:Igneous	Volcanic Dome	Basalt		50.7	0	-87.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc206c	mc206	-77.66665	166.78033	Intrusive:Igneous	Volcanic Dome	Basalt		35.0	0	-84.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc206d	mc206	-77.66665	166.78033	Intrusive:Igneous	Volcanic Dome	Basalt		9.9	0	-85.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc206e	mc206	-77.66665	166.78033	Intrusive:Igneous	Volcanic Dome	Basalt		9.9	0	-88.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc206f	mc206	-77.66665	166.78033	Intrusive:Igneous	Volcanic Dome	Basalt		49.2	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc206g	mc206	-77.66665	166.78033	Intrusive:Igneous	Volcanic Dome	Basalt		47.9	0	-54.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc206h	mc206	-77.66665	166.78033	Intrusive:Igneous	Volcanic Dome	Basalt		58.4	0	-56.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc206i	mc206	-77.66665	166.78033	Intrusive:Igneous	Volcanic Dome	Basalt		62.4	0	-63.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc206j	mc206	-77.66665	166.78033	Intrusive:Igneous	Volcanic Dome	Basalt		335.6	0	-36.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc206k	mc206	-77.66665	166.78033	Intrusive:Igneous	Volcanic Dome	Basalt		46.8	0	-77.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc207a	mc207	-77.67871	166.5173	Extrusive:Igneous	Lava Flow	Basalt		183.0	0	-81.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc207b	mc207	-77.67871	166.5173	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: overprint during thellier##.	187.3	0	-82.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc207c	mc207	-77.67871	166.5173	Extrusive:Igneous	Lava Flow	Basalt		186.5	0	-84.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc207d	mc207	-77.67871	166.5173	Extrusive:Igneous	Lava Flow	Basalt		189.1	0	-78.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc207e	mc207	-77.67871	166.5173	Extrusive:Igneous	Lava Flow	Basalt		173.8	0	-36.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc207f	mc207	-77.67871	166.5173	Extrusive:Igneous	Lava Flow	Basalt		170.5	0	-35.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc207g	mc207	-77.67871	166.5173	Extrusive:Igneous	Lava Flow	Basalt		175.0	0	-35.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc207h	mc207	-77.67871	166.5173	Extrusive:Igneous	Lava Flow	Basalt		127.2	0	-62.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc207i	mc207	-77.67871	166.5173	Extrusive:Igneous	Lava Flow	Basalt		123.7	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc207j	mc207	-77.67871	166.5173	Extrusive:Igneous	Lava Flow	Basalt		124.4	0	-64.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc207k	mc207	-77.67871	166.5173	Extrusive:Igneous	Lava Flow	Basalt		127.4	0	-69.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc208a	mc208	-77.66786	166.53186000000002	Extrusive:Igneous	Lava Flow	Basalt		203.0	0	-77.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc208b	mc208	-77.66786	166.53186000000002	Extrusive:Igneous	Lava Flow	Basalt		206.6	0	-83.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc208c	mc208	-77.66786	166.53186000000002	Extrusive:Igneous	Lava Flow	Basalt		205.2	0	-79.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc208d	mc208	-77.66786	166.53186000000002	Extrusive:Igneous	Lava Flow	Basalt		198.4	0	-70.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc208e	mc208	-77.66786	166.53186000000002	Extrusive:Igneous	Lava Flow	Basalt		201.9	0	-69.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc208f	mc208	-77.66786	166.53186000000002	Extrusive:Igneous	Lava Flow	Basalt		181.8	0	-75.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc208g	mc208	-77.66786	166.53186000000002	Extrusive:Igneous	Lava Flow	Basalt		170.0	0	-77.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc208h	mc208	-77.66786	166.53186000000002	Extrusive:Igneous	Lava Flow	Basalt		167.7	0	-80.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc208i	mc208	-77.66786	166.53186000000002	Extrusive:Igneous	Lava Flow	Basalt		141.1	0	-100.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc208j	mc208	-77.66786	166.53186000000002	Extrusive:Igneous	Lava Flow	Basalt		140.6	0	-98.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc209a	mc209	-77.68544	166.36812	Extrusive:Igneous	Lava Flow	Basalt		81.5	0	-64.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc209b	mc209	-77.68544	166.36812	Extrusive:Igneous	Lava Flow	Basalt		84.5	0	-63.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc209c	mc209	-77.68544	166.36812	Extrusive:Igneous	Lava Flow	Basalt		90.3	0	-63.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc209d	mc209	-77.68544	166.36812	Extrusive:Igneous	Lava Flow	Basalt		94.6	0	-63.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc209e	mc209	-77.68544	166.36812	Extrusive:Igneous	Lava Flow	Basalt		98.1	0	-61.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc209f	mc209	-77.68544	166.36812	Extrusive:Igneous	Lava Flow	Basalt		102.1	0	-61.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc209g	mc209	-77.68544	166.36812	Extrusive:Igneous	Lava Flow	Basalt		108.4	0	-89.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc209h	mc209	-77.68544	166.36812	Extrusive:Igneous	Lava Flow	Basalt		78.1	0	-92.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc209i	mc209	-77.68544	166.36812	Extrusive:Igneous	Lava Flow	Basalt		113.1	0	-85.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc209j	mc209	-77.68544	166.36812	Extrusive:Igneous	Lava Flow	Basalt		95.9	0	-89.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc20a	mc20	-77.88	165.02	Intrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	175.0	0	-82.0	g	This study	SO-SIGHT:FS-FD
+mc20b	mc20	-77.88	165.02	Intrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	193.0	0	-71.0	g	This study	SO-SIGHT:FS-FD
+mc20c	mc20	-77.88	165.02	Intrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	135.0	0	-89.0	g	This study	SO-SIGHT:FS-FD
+mc20d	mc20	-77.88	165.02	Intrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	136.0	0	-55.0	g	This study	SO-SIGHT:FS-FD
+mc20e	mc20	-77.88	165.02	Intrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	149.0	0	-42.0	g	This study	SO-SIGHT:FS-FD
+mc20f	mc20	-77.88	165.02	Intrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	124.0	0	-54.0	g	This study	SO-SIGHT:FS-FD
+mc20g	mc20	-77.88	165.02	Extrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	101.0	0	-45.0	g	This study	SO-SIGHT:FS-FD
+mc20h	mc20	-77.88	165.02	Intrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	43.0	0	-42.0	g	This study	SO-SIGHT:FS-FD
+mc210a	mc210	-77.69125	166.3743	Intrusive:Igneous	Volcanic Dike	Phonolite		79.3	0	-61.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc210b	mc210	-77.69125	166.3743	Intrusive:Igneous	Volcanic Dike	Phonolite		75.6	0	-84.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc210c	mc210	-77.69125	166.3743	Intrusive:Igneous	Volcanic Dike	Phonolite		81.6	0	-77.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc210d	mc210	-77.69125	166.3743	Intrusive:Igneous	Volcanic Dike	Phonolite		78.1	0	-72.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc210e	mc210	-77.69125	166.3743	Intrusive:Igneous	Volcanic Dike	Phonolite		70.4	0	-71.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc210f	mc210	-77.69125	166.3743	Intrusive:Igneous	Volcanic Dike	Phonolite		78.1	0	-80.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc210g	mc210	-77.69125	166.3743	Intrusive:Igneous	Volcanic Dike	Phonolite		86.4	0	-78.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc210h	mc210	-77.69125	166.3743	Intrusive:Igneous	Volcanic Dike	Phonolite		60.8	0	-80.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc210i	mc210	-77.69125	166.3743	Intrusive:Igneous	Volcanic Dike	Phonolite		64.1	0	-74.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc210j	mc210	-77.69125	166.3743	Intrusive:Igneous	Volcanic Dike	Phonolite		61.1	0	-72.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc211a	mc211	-77.66147	166.3397	Extrusive:Igneous	Lava Flow	Phonolite		312.9	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc211b	mc211	-77.66147	166.3397	Extrusive:Igneous	Lava Flow	Phonolite	## direction deleted because: bad mark in field##.	310.7	0	-57.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc211c	mc211	-77.66147	166.3397	Extrusive:Igneous	Lava Flow	Phonolite		303.7	0	-52.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc211d	mc211	-77.66147	166.3397	Extrusive:Igneous	Lava Flow	Phonolite		17.2	0	-80.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc211e	mc211	-77.66147	166.3397	Extrusive:Igneous	Lava Flow	Phonolite		357.2	0	-48.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc211f	mc211	-77.66147	166.3397	Extrusive:Igneous	Lava Flow	Phonolite		358.4	0	-48.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc211g	mc211	-77.66147	166.3397	Extrusive:Igneous	Lava Flow	Phonolite		337.2	0	-83.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc211h	mc211	-77.66147	166.3397	Extrusive:Igneous	Lava Flow	Phonolite		345.2	0	-84.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc211i	mc211	-77.66147	166.3397	Extrusive:Igneous	Lava Flow	Phonolite		1.2	0	-69.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc211j	mc211	-77.66147	166.3397	Extrusive:Igneous	Lava Flow	Phonolite		357.7	0	-60.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc212a	mc212	-77.56505	166.35938000000002	Extrusive:Igneous	Lava Flow	Basalt		78.6	0	-62.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc212b	mc212	-77.56505	166.35938000000002	Extrusive:Igneous	Lava Flow	Basalt		73.5	0	-57.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc212c	mc212	-77.56505	166.35938000000002	Extrusive:Igneous	Lava Flow	Basalt		64.0	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc212d	mc212	-77.56505	166.35938000000002	Extrusive:Igneous	Lava Flow	Basalt		63.4	0	-49.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc212e	mc212	-77.56505	166.35938000000002	Extrusive:Igneous	Lava Flow	Basalt		78.3	0	-82.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc212f	mc212	-77.56505	166.35938000000002	Extrusive:Igneous	Lava Flow	Basalt		74.5	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc212g	mc212	-77.56505	166.35938000000002	Extrusive:Igneous	Lava Flow	Basalt		65.4	0	-79.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc212h	mc212	-77.56505	166.35938000000002	Extrusive:Igneous	Lava Flow	Basalt		59.4	0	-46.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc212i	mc212	-77.56505	166.35938000000002	Extrusive:Igneous	Lava Flow	Basalt		68.1	0	-54.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc212j	mc212	-77.56505	166.35938000000002	Extrusive:Igneous	Lava Flow	Basalt		78.0	0	-54.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc212k	mc212	-77.56505	166.35938000000002	Extrusive:Igneous	Lava Flow	Basalt		77.4	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc212l	mc212	-77.56505	166.35938000000002	Extrusive:Igneous	Lava Flow	Basalt		70.5	0	-53.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc213a	mc213	-77.22331	166.42877	Extrusive:Igneous	Lava Flow	Basalt		77.9	0	-71.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc213b	mc213	-77.22331	166.42877	Extrusive:Igneous	Lava Flow	Basalt		78.3	0	-69.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc213c	mc213	-77.22331	166.42877	Extrusive:Igneous	Lava Flow	Basalt		91.5	0	-67.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc213d	mc213	-77.22331	166.42877	Extrusive:Igneous	Lava Flow	Basalt		76.9	0	-67.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc213e	mc213	-77.22331	166.42877	Extrusive:Igneous	Lava Flow	Basalt		74.0	0	-74.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc213f	mc213	-77.22331	166.42877	Extrusive:Igneous	Lava Flow	Basalt		66.5	0	-96.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc213g	mc213	-77.22331	166.42877	Extrusive:Igneous	Lava Flow	Basalt		74.6	0	-98.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc213h	mc213	-77.22331	166.42877	Extrusive:Igneous	Lava Flow	Basalt		78.3	0	-112.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc213i	mc213	-77.22331	166.42877	Extrusive:Igneous	Lava Flow	Basalt		69.2	0	-89.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc213j	mc213	-77.22331	166.42877	Extrusive:Igneous	Lava Flow	Basalt		81.1	0	-82.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc213k	mc213	-77.22331	166.42877	Extrusive:Igneous	Lava Flow	Basalt		67.3	0	-57.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc214a	mc214	-77.22355	166.4294	Extrusive:Igneous	Lava Flow	Basalt		182.6	0	-66.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc214b	mc214	-77.22355	166.4294	Extrusive:Igneous	Lava Flow	Basalt		180.2	0	-53.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc214c	mc214	-77.22355	166.4294	Extrusive:Igneous	Lava Flow	Basalt		184.9	0	-47.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc214d	mc214	-77.22355	166.4294	Extrusive:Igneous	Lava Flow	Basalt		94.9	0	-90.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc214e	mc214	-77.22355	166.4294	Extrusive:Igneous	Lava Flow	Basalt		107.1	0	-98.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc214f	mc214	-77.22355	166.4294	Extrusive:Igneous	Lava Flow	Basalt		104.5	0	-81.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc214g	mc214	-77.22355	166.4294	Extrusive:Igneous	Lava Flow	Basalt		111.0	0	-96.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc214h	mc214	-77.22355	166.4294	Extrusive:Igneous	Lava Flow	Basalt		162.7	0	-87.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc214i	mc214	-77.22355	166.4294	Extrusive:Igneous	Lava Flow	Basalt		161.2	0	-90.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc214j	mc214	-77.22355	166.4294	Extrusive:Igneous	Lava Flow	Basalt		149.6	0	-90.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc215a	mc215	-77.4773	166.89491	Extrusive:Igneous	Lava Flow	Basalt		13.7	0	-8.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc215b	mc215	-77.4773	166.89491	Extrusive:Igneous	Lava Flow	Basalt		354.6	0	-11.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc215c	mc215	-77.4773	166.89491	Extrusive:Igneous	Lava Flow	Basalt		18.3	0	-12.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc215d	mc215	-77.4773	166.89491	Extrusive:Igneous	Lava Flow	Basalt		294.4	0	-48.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc215e	mc215	-77.4773	166.89491	Extrusive:Igneous	Lava Flow	Basalt		263.3	0	-24.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc215f	mc215	-77.4773	166.89491	Extrusive:Igneous	Lava Flow	Basalt		302.9	0	-15.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc215g	mc215	-77.4773	166.89491	Extrusive:Igneous	Lava Flow	Basalt		312.5	0	-14.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc215h	mc215	-77.4773	166.89491	Extrusive:Igneous	Lava Flow	Basalt		270.2	0	-32.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc215i	mc215	-77.4773	166.89491	Extrusive:Igneous	Lava Flow	Basalt		241.6	0	-27.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc215j	mc215	-77.4773	166.89491	Extrusive:Igneous	Lava Flow	Basalt		244.4	0	-38.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc216a	mc216	-77.42390999999999	166.81075	Extrusive:Igneous	Lava Flow	Basalt		188.6	0	-47.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc216b	mc216	-77.42390999999999	166.81075	Extrusive:Igneous	Lava Flow	Basalt		172.9	0	-37.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc216c	mc216	-77.42390999999999	166.81075	Extrusive:Igneous	Lava Flow	Basalt		181.1	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc216d	mc216	-77.42390999999999	166.81075	Extrusive:Igneous	Lava Flow	Basalt		181.5	0	-36.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc216e	mc216	-77.42390999999999	166.81075	Extrusive:Igneous	Lava Flow	Basalt		176.6	0	-41.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc216f	mc216	-77.42390999999999	166.81075	Extrusive:Igneous	Lava Flow	Basalt		183.2	0	-39.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc216g	mc216	-77.42390999999999	166.81075	Extrusive:Igneous	Lava Flow	Basalt		165.5	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc216h	mc216	-77.42390999999999	166.81075	Extrusive:Igneous	Lava Flow	Basalt		166.9	0	-46.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc216i	mc216	-77.42390999999999	166.81075	Extrusive:Igneous	Lava Flow	Basalt		173.5	0	-75.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc216j	mc216	-77.42390999999999	166.81075	Extrusive:Igneous	Lava Flow	Basalt		191.4	0	-90.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc217a	mc217	-77.50885	167.44064	Extrusive:Igneous	Lava Flow	Basalt		252.5	0	-67.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc217b	mc217	-77.50885	167.44064	Extrusive:Igneous	Lava Flow	Basalt		262.5	0	-68.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc217c	mc217	-77.50885	167.44064	Extrusive:Igneous	Lava Flow	Basalt		261.0	0	-69.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc217d	mc217	-77.50885	167.44064	Extrusive:Igneous	Lava Flow	Basalt		269.9	0	-73.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc217e	mc217	-77.50885	167.44064	Extrusive:Igneous	Lava Flow	Basalt		269.9	0	-69.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc217f	mc217	-77.50885	167.44064	Extrusive:Igneous	Lava Flow	Basalt		266.6	0	-78.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc217g	mc217	-77.50885	167.44064	Extrusive:Igneous	Lava Flow	Basalt		265.6	0	-76.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc217h	mc217	-77.50885	167.44064	Extrusive:Igneous	Lava Flow	Basalt		275.0	0	-63.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc217i	mc217	-77.50885	167.44064	Extrusive:Igneous	Lava Flow	Basalt		285.2	0	-74.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc217j	mc217	-77.50885	167.44064	Extrusive:Igneous	Lava Flow	Basalt		265.4	0	-61.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc217k	mc217	-77.50885	167.44064	Extrusive:Igneous	Lava Flow	Basalt		267.9	0	-60.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc218a	mc218	-77.56218	166.97756	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: bad mark in field##.	32.7	0	-83.0	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc218b	mc218	-77.56218	166.97756	Extrusive:Igneous	Lava Flow	Basalt		29.9	0	-86.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc218c	mc218	-77.56218	166.97756	Extrusive:Igneous	Lava Flow	Basalt		36.7	0	-92.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc218d	mc218	-77.56218	166.97756	Extrusive:Igneous	Lava Flow	Basalt		35.4	0	-87.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc218e	mc218	-77.56218	166.97756	Extrusive:Igneous	Lava Flow	Basalt		75.3	0	-59.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc218f	mc218	-77.56218	166.97756	Extrusive:Igneous	Lava Flow	Basalt		77.8	0	-61.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc218g	mc218	-77.56218	166.97756	Extrusive:Igneous	Lava Flow	Basalt		40.9	0	-41.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc218h	mc218	-77.56218	166.97756	Extrusive:Igneous	Lava Flow	Basalt		53.5	0	-37.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc218i	mc218	-77.56218	166.97756	Extrusive:Igneous	Lava Flow	Basalt		54.4	0	-43.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc218j	mc218	-77.56218	166.97756	Extrusive:Igneous	Lava Flow	Basalt		4.5	0	-43.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc218k	mc218	-77.56218	166.97756	Extrusive:Igneous	Lava Flow	Basalt		12.6	0	-41.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc218l	mc218	-77.56218	166.97756	Extrusive:Igneous	Lava Flow	Basalt		1.2	0	-80.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc219a	mc219	-77.84783	166.67453	Extrusive:Igneous	Lava Flow	Basalt		345.3	0	-61.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc219b	mc219	-77.84783	166.67453	Extrusive:Igneous	Lava Flow	Basalt		344.0	0	-60.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc219c	mc219	-77.84783	166.67453	Extrusive:Igneous	Lava Flow	Basalt		277.3	0	-26.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc219d	mc219	-77.84783	166.67453	Extrusive:Igneous	Lava Flow	Basalt		276.9	0	-23.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc219e	mc219	-77.84783	166.67453	Extrusive:Igneous	Lava Flow	Basalt		300.3	0	-22.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc219f	mc219	-77.84783	166.67453	Extrusive:Igneous	Lava Flow	Basalt		285.9	0	-19.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc219g	mc219	-77.84783	166.67453	Extrusive:Igneous	Lava Flow	Basalt		279.5	0	-20.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc219h	mc219	-77.84783	166.67453	Extrusive:Igneous	Lava Flow	Basalt		222.0	0	-17.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc219i	mc219	-77.84783	166.67453	Extrusive:Igneous	Lava Flow	Basalt		236.3	0	-15.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc219j	mc219	-77.84783	166.67453	Extrusive:Igneous	Lava Flow	Basalt		179.9	0	-70.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc219k	mc219	-77.84783	166.67453	Extrusive:Igneous	Lava Flow	Basalt		172.5	0	-66.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc219l	mc219	-77.84783	166.67453	Extrusive:Igneous	Lava Flow	Basalt		180.1	0	-58.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc21a	mc21	-78.21	166.49	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	240.0	0	-78.0	g	This study	SO-SIGHT:FS-FD
+mc21b	mc21	-78.21	166.49	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	192.0	0	-65.0	g	This study	SO-SIGHT:FS-FD
+mc21c	mc21	-78.21	166.49	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	307.0	0	-18.0	g	This study	SO-SIGHT:FS-FD
+mc21d	mc21	-78.21	166.49	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	32.0	0	-11.0	g	This study	SO-SIGHT:FS-FD
+mc21e	mc21	-78.21	166.49	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	247.0	0	-27.0	g	This study	SO-SIGHT:FS-FD
+mc21f	mc21	-78.21	166.49	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	347.0	0	-24.0	g	This study	SO-SIGHT:FS-FD
+mc21g	mc21	-78.21	166.49	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	222.0	0	-11.0	g	This study	SO-SIGHT:FS-FD
+mc21h	mc21	-78.21	166.49	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	158.0	0	-22.0	g	This study	SO-SIGHT:FS-FD
+mc220a	mc220	-77.45702	166.91009	Extrusive:Igneous	Lava Flow	Basalt		297.7	0	-80.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc220b	mc220	-77.45702	166.91009	Extrusive:Igneous	Lava Flow	Basalt		288.9	0	-84.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc220c	mc220	-77.45702	166.91009	Extrusive:Igneous	Lava Flow	Basalt		291.4	0	-89.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc220d	mc220	-77.45702	166.91009	Extrusive:Igneous	Lava Flow	Basalt		288.6	0	-82.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc220e	mc220	-77.45702	166.91009	Extrusive:Igneous	Lava Flow	Basalt		277.8	0	-94.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc220f	mc220	-77.45702	166.91009	Extrusive:Igneous	Lava Flow	Basalt		238.3	0	-77.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc220g	mc220	-77.45702	166.91009	Extrusive:Igneous	Lava Flow	Basalt		246.7	0	-66.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc220h	mc220	-77.45702	166.91009	Extrusive:Igneous	Lava Flow	Basalt		239.0	0	-73.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc220i	mc220	-77.45702	166.91009	Extrusive:Igneous	Lava Flow	Basalt		243.4	0	-82.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc220j	mc220	-77.45702	166.91009	Extrusive:Igneous	Lava Flow	Basalt		223.4	0	-74.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc221a	mc221	-77.5161	166.79804	Extrusive:Igneous	Lava Flow	Basalt		218.6	0	-81.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc221b	mc221	-77.5161	166.79804	Extrusive:Igneous	Lava Flow	Basalt		227.8	0	-84.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc221c	mc221	-77.5161	166.79804	Extrusive:Igneous	Lava Flow	Basalt		228.7	0	-84.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc221d	mc221	-77.5161	166.79804	Extrusive:Igneous	Lava Flow	Basalt		204.4	0	-93.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc221e	mc221	-77.5161	166.79804	Extrusive:Igneous	Lava Flow	Basalt		210.3	0	-92.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc221f	mc221	-77.5161	166.79804	Extrusive:Igneous	Lava Flow	Basalt		214.7	0	-91.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc221g	mc221	-77.5161	166.79804	Extrusive:Igneous	Lava Flow	Basalt		212.7	0	-89.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc221h	mc221	-77.5161	166.79804	Extrusive:Igneous	Lava Flow	Basalt		277.1	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc221i	mc221	-77.5161	166.79804	Extrusive:Igneous	Lava Flow	Basalt		281.7	0	-48.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc221j	mc221	-77.5161	166.79804	Extrusive:Igneous	Lava Flow	Basalt		288.2	0	-46.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc222a	mc222	-77.53893000000001	166.84845	Extrusive:Igneous	Lava Flow	Basalt		164.6	0	-61.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc222b	mc222	-77.53893000000001	166.84845	Extrusive:Igneous	Lava Flow	Basalt		165.1	0	-50.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc222c	mc222	-77.53893000000001	166.84845	Extrusive:Igneous	Lava Flow	Basalt		165.6	0	-26.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc222d	mc222	-77.53893000000001	166.84845	Extrusive:Igneous	Lava Flow	Basalt		162.6	0	-33.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc222e	mc222	-77.53893000000001	166.84845	Extrusive:Igneous	Lava Flow	Basalt		173.1	0	-19.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc222f	mc222	-77.53893000000001	166.84845	Extrusive:Igneous	Lava Flow	Basalt		145.2	0	-12.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc222g	mc222	-77.53893000000001	166.84845	Extrusive:Igneous	Lava Flow	Basalt		159.6	0	-17.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc222h	mc222	-77.53893000000001	166.84845	Extrusive:Igneous	Lava Flow	Basalt		158.1	0	-55.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc222i	mc222	-77.53893000000001	166.84845	Extrusive:Igneous	Lava Flow	Basalt		158.1	0	-42.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc222j	mc222	-77.53893000000001	166.84845	Extrusive:Igneous	Lava Flow	Basalt		160.2	0	-53.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc223a	mc223	-77.65831	166.7863	Extrusive:Igneous	Lava Flow	Phonolite		203.3	0	-78.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc223b	mc223	-77.65831	166.7863	Extrusive:Igneous	Lava Flow	Phonolite		202.9	0	-74.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc223c	mc223	-77.65831	166.7863	Extrusive:Igneous	Lava Flow	Phonolite		201.9	0	-75.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc223d	mc223	-77.65831	166.7863	Extrusive:Igneous	Lava Flow	Phonolite		201.2	0	-75.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc223e	mc223	-77.65831	166.7863	Extrusive:Igneous	Lava Flow	Phonolite		204.2	0	-73.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc223f	mc223	-77.65831	166.7863	Extrusive:Igneous	Lava Flow	Phonolite		203.7	0	-73.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc223g	mc223	-77.65831	166.7863	Extrusive:Igneous	Lava Flow	Phonolite		164.0	0	-58.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc223h	mc223	-77.65831	166.7863	Extrusive:Igneous	Lava Flow	Phonolite		148.8	0	-48.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc223i	mc223	-77.65831	166.7863	Extrusive:Igneous	Lava Flow	Phonolite		291.2	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc223j	mc223	-77.65831	166.7863	Extrusive:Igneous	Lava Flow	Phonolite		300.4	0	-32.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc223k	mc223	-77.65831	166.7863	Extrusive:Igneous	Lava Flow	Phonolite		230.9	0	-75.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc223l	mc223	-77.65831	166.7863	Extrusive:Igneous	Lava Flow	Phonolite		227.9	0	-67.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc224a	mc224	-77.53045999999999	166.8839	Extrusive:Igneous	Lava Flow	Phonolite		305.2	0	-23.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc224b	mc224	-77.53045999999999	166.8839	Extrusive:Igneous	Lava Flow	Phonolite		319.9	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc224c	mc224	-77.53045999999999	166.8839	Extrusive:Igneous	Lava Flow	Phonolite		334.0	0	-32.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc224d	mc224	-77.53045999999999	166.8839	Extrusive:Igneous	Lava Flow	Phonolite		331.2	0	-42.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc224e	mc224	-77.53045999999999	166.8839	Extrusive:Igneous	Lava Flow	Phonolite		332.9	0	-44.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc224f	mc224	-77.53045999999999	166.8839	Extrusive:Igneous	Lava Flow	Phonolite		353.4	0	-54.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc224g	mc224	-77.53045999999999	166.8839	Extrusive:Igneous	Lava Flow	Phonolite		357.8	0	-57.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc224h	mc224	-77.53045999999999	166.8839	Extrusive:Igneous	Lava Flow	Phonolite		339.3	0	-66.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc224i	mc224	-77.53045999999999	166.8839	Extrusive:Igneous	Lava Flow	Phonolite		274.2	0	-57.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc224j	mc224	-77.53045999999999	166.8839	Extrusive:Igneous	Lava Flow	Phonolite		251.4	0	-21.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc224k	mc224	-77.53045999999999	166.8839	Extrusive:Igneous	Lava Flow	Phonolite		241.3	0	-22.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc224l	mc224	-77.53045999999999	166.8839	Extrusive:Igneous	Lava Flow	Phonolite		249.7	0	-27.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc224m	mc224	-77.53045999999999	166.8839	Extrusive:Igneous	Lava Flow	Phonolite		320.7	0	-59.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc225a	mc225	-77.58053000000001	166.80156000000002	Extrusive:Igneous	Lava Flow	Phonolite		185.0	0	-80.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc225b	mc225	-77.58053000000001	166.80156000000002	Extrusive:Igneous	Lava Flow	Phonolite		189.1	0	-79.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc225c	mc225	-77.58053000000001	166.80156000000002	Extrusive:Igneous	Lava Flow	Phonolite		189.6	0	-88.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc225d	mc225	-77.58053000000001	166.80156000000002	Extrusive:Igneous	Lava Flow	Phonolite		170.0	0	-85.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc225e	mc225	-77.58053000000001	166.80156000000002	Extrusive:Igneous	Lava Flow	Phonolite		220.2	0	-87.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc225f	mc225	-77.58053000000001	166.80156000000002	Extrusive:Igneous	Lava Flow	Phonolite		226.2	0	-88.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc225g	mc225	-77.58053000000001	166.80156000000002	Extrusive:Igneous	Lava Flow	Phonolite		222.9	0	-73.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc225h	mc225	-77.58053000000001	166.80156000000002	Extrusive:Igneous	Lava Flow	Phonolite		231.8	0	-86.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc225i	mc225	-77.58053000000001	166.80156000000002	Extrusive:Igneous	Lava Flow	Phonolite		223.3	0	-83.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc225j	mc225	-77.58053000000001	166.80156000000002	Extrusive:Igneous	Lava Flow	Phonolite		250.0	0	-98.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc225k	mc225	-77.58053000000001	166.80156000000002	Extrusive:Igneous	Lava Flow	Phonolite		253.9	0	-77.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc226a	mc226	-77.61355	166.76571	Extrusive:Igneous	Lava Flow	Phonolite		145.8	0	-76.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc226b	mc226	-77.61355	166.76571	Extrusive:Igneous	Lava Flow	Phonolite		146.0	0	-78.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc226c	mc226	-77.61355	166.76571	Extrusive:Igneous	Lava Flow	Phonolite		150.4	0	-79.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc226d	mc226	-77.61355	166.76571	Extrusive:Igneous	Lava Flow	Phonolite		227.5	0	-69.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc226e	mc226	-77.61355	166.76571	Extrusive:Igneous	Lava Flow	Phonolite		238.1	0	-67.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc226f	mc226	-77.61355	166.76571	Extrusive:Igneous	Lava Flow	Phonolite		260.0	0	-51.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc226g	mc226	-77.61355	166.76571	Extrusive:Igneous	Lava Flow	Phonolite		263.1	0	-50.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc226h	mc226	-77.61355	166.76571	Extrusive:Igneous	Lava Flow	Phonolite		151.7	0	-69.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc226i	mc226	-77.61355	166.76571	Extrusive:Igneous	Lava Flow	Phonolite		159.8	0	-52.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc226j	mc226	-77.61355	166.76571	Extrusive:Igneous	Lava Flow	Phonolite		164.4	0	-48.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc226k	mc226	-77.61355	166.76571	Extrusive:Igneous	Lava Flow	Phonolite		167.8	0	-42.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc227a	mc227	-77.27064	166.73278	Extrusive:Igneous	Lava Flow	Basalt		288.3	0	-12.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc227b	mc227	-77.27064	166.73278	Extrusive:Igneous	Lava Flow	Basalt		274.9	0	-12.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc227c	mc227	-77.27064	166.73278	Extrusive:Igneous	Lava Flow	Basalt		249.7	0	-19.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc227d	mc227	-77.27064	166.73278	Extrusive:Igneous	Lava Flow	Basalt		251.7	0	-19.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc227e	mc227	-77.27064	166.73278	Extrusive:Igneous	Lava Flow	Basalt		313.9	0	-20.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc227f	mc227	-77.27064	166.73278	Extrusive:Igneous	Lava Flow	Basalt		230.7	0	-26.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc227g	mc227	-77.27064	166.73278	Extrusive:Igneous	Lava Flow	Basalt		218.9	0	-34.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc227h	mc227	-77.27064	166.73278	Extrusive:Igneous	Lava Flow	Basalt		183.4	0	-12.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc227i	mc227	-77.27064	166.73278	Extrusive:Igneous	Lava Flow	Basalt		213.4	0	-29.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc227j	mc227	-77.27064	166.73278	Extrusive:Igneous	Lava Flow	Basalt		139.9	0	-29.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc228a	mc228	-77.2669	166.37738000000002	Extrusive:Igneous	Lava Flow	Trachyte		130.6	0	-12.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc228b	mc228	-77.2669	166.37738000000002	Extrusive:Igneous	Lava Flow	Trachyte		101.1	0	-23.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc228c	mc228	-77.2669	166.37738000000002	Extrusive:Igneous	Lava Flow	Trachyte		194.7	0	-18.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc228d	mc228	-77.2669	166.37738000000002	Extrusive:Igneous	Lava Flow	Trachyte		223.2	0	-12.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc228e	mc228	-77.2669	166.37738000000002	Extrusive:Igneous	Lava Flow	Trachyte		163.2	0	-19.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc228f	mc228	-77.2669	166.37738000000002	Extrusive:Igneous	Lava Flow	Trachyte		258.7	0	-37.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc228g	mc228	-77.2669	166.37738000000002	Extrusive:Igneous	Lava Flow	Trachyte		275.7	0	-29.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc228h	mc228	-77.2669	166.37738000000002	Extrusive:Igneous	Lava Flow	Trachyte		326.2	0	-21.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc228i	mc228	-77.2669	166.37738000000002	Extrusive:Igneous	Lava Flow	Trachyte		90.7	0	-14.0	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc228j	mc228	-77.2669	166.37738000000002	Extrusive:Igneous	Lava Flow	Trachyte		5.2	0	-24.5	g	This study	FS-LOC-GPS:SO-GPS-DIFF:SO-POM:FS-FD
+mc229a	mc229	-77.48281	167.15435	Extrusive:Igneous	Lava Flow	Basalt		4.8	0	-78.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc229b	mc229	-77.48281	167.15435	Extrusive:Igneous	Lava Flow	Basalt		30.0	0	-83.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc229c	mc229	-77.48281	167.15435	Extrusive:Igneous	Lava Flow	Basalt		40.3	0	-90.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc229d	mc229	-77.48281	167.15435	Extrusive:Igneous	Lava Flow	Basalt		49.7	0	-84.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc229e	mc229	-77.48281	167.15435	Extrusive:Igneous	Lava Flow	Basalt		11.1	0	-93.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc229f	mc229	-77.48281	167.15435	Extrusive:Igneous	Lava Flow	Basalt		2.6	0	-90.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc229g	mc229	-77.48281	167.15435	Extrusive:Igneous	Lava Flow	Basalt		21.5	0	-85.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc229h	mc229	-77.48281	167.15435	Extrusive:Igneous	Lava Flow	Basalt	## direction deleted because: bad mark in field##.	45.0	0	-75.5	b	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc229i	mc229	-77.48281	167.15435	Extrusive:Igneous	Lava Flow	Basalt		28.0	0	-58.5	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc229j	mc229	-77.48281	167.15435	Extrusive:Igneous	Lava Flow	Basalt		52.2	0	-89.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc229k	mc229	-77.48281	167.15435	Extrusive:Igneous	Lava Flow	Basalt		35.0	0	-87.0	g	This study	FS-LOC-GPS:SO-POM:SO-SUN:FS-FD
+mc22a	mc22	-78.2	166.54	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	310.0	0	-57.0	g	This study	SO-SIGHT:FS-FD
+mc22b	mc22	-78.2	166.54	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	320.0	0	-45.0	g	This study	SO-SIGHT:FS-FD
+mc26a	mc26	-78.21	166.57	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	255.0	0	-37.0	g	This study	SO-SIGHT:FS-FD
+mc26b	mc26	-78.21	166.57	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	311.0	0	-26.0	g	This study	SO-SIGHT:FS-FD
+mc26c	mc26	-78.21	166.57	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	293.0	0	-37.0	g	This study	SO-SIGHT:FS-FD
+mc26d	mc26	-78.21	166.57	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	311.0	0	-38.0	g	This study	SO-SIGHT:FS-FD
+mc26e	mc26	-78.21	166.57	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	347.0	0	-37.0	g	This study	SO-SIGHT:FS-FD
+mc26f	mc26	-78.21	166.57	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	40.0	0	-30.0	g	This study	SO-SIGHT:FS-FD
+mc26g	mc26	-78.21	166.57	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	239.0	0	-16.0	g	This study	SO-SIGHT:FS-FD
+mc26h	mc26	-78.21	166.57	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	279.0	0	-23.0	g	This study	SO-SIGHT:FS-FD
+mc28a	mc28	-78.29	164.73	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	75.0	0	-18.0	g	This study	SO-SIGHT:FS-FD
+mc28b	mc28	-78.29	164.73	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	59.0	0	-38.0	g	This study	SO-SIGHT:FS-FD
+mc28c	mc28	-78.29	164.73	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	323.0	0	-37.0	g	This study	SO-SIGHT:FS-FD
+mc28d	mc28	-78.29	164.73	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	305.0	0	-28.0	g	This study	SO-SIGHT:FS-FD
+mc28e	mc28	-78.29	164.73	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions ## direction deleted because: overprint during thellier##.	349.0	0	-34.0	b	This study	SO-SIGHT:FS-FD
+mc28f	mc28	-78.29	164.73	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	75.0	0	-25.0	g	This study	SO-SIGHT:FS-FD
+mc28g	mc28	-78.29	164.73	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	49.0	0	-23.0	g	This study	SO-SIGHT:FS-FD
+mc28h	mc28	-78.29	164.73	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	89.0	0	-19.0	g	This study	SO-SIGHT:FS-FD
+mc29a	mc29	-78.31	164.8	Extrusive:Igneous	Volcanic Dike	Basalt	Archived samples from 1965, 66 expeditions.	235.0	0	-40.0	g	This study	SO-SIGHT:FS-FD
+mc29b	mc29	-78.31	164.8	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	242.0	0	-49.0	g	This study	SO-SIGHT:FS-FD
+mc29c	mc29	-78.31	164.8	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	229.0	0	-66.0	g	This study	SO-SIGHT:FS-FD
+mc29d	mc29	-78.31	164.8	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	264.0	0	-32.0	g	This study	SO-SIGHT:FS-FD
+mc29e	mc29	-78.31	164.8	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	96.0	0	-20.0	g	This study	SO-SIGHT:FS-FD
+mc29f	mc29	-78.31	164.8	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	91.0	0	-17.0	g	This study	SO-SIGHT:FS-FD
+mc29g	mc29	-78.31	164.8	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	38.0	0	-25.0	g	This study	SO-SIGHT:FS-FD
+mc29h	mc29	-78.31	164.8	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	67.0	0	-13.0	g	This study	SO-SIGHT:FS-FD
+mc30a	mc30	-78.34	164.87	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	346.0	0	-61.0	g	This study	SO-SIGHT:FS-FD
+mc30b	mc30	-78.34	164.87	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	6.0	0	-59.0	g	This study	SO-SIGHT:FS-FD
+mc30c	mc30	-78.34	164.87	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	9.0	0	-45.0	g	This study	SO-SIGHT:FS-FD
+mc30d	mc30	-78.34	164.87	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	257.0	0	-57.0	g	This study	SO-SIGHT:FS-FD
+mc30e	mc30	-78.34	164.87	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	224.0	0	-47.0	g	This study	SO-SIGHT:FS-FD
+mc30f	mc30	-78.34	164.87	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	250.0	0	-61.0	g	This study	SO-SIGHT:FS-FD
+mc30g	mc30	-78.34	164.87	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	286.0	0	-63.0	g	This study	SO-SIGHT:FS-FD
+mc30h	mc30	-78.34	164.87	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	269.0	0	-61.0	g	This study	SO-SIGHT:FS-FD
+mc31a	mc31	-78.34	164.28	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	290.0	0	-55.0	g	This study	SO-SIGHT:FS-FD
+mc31b	mc31	-78.34	164.28	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	236.0	0	-37.0	g	This study	SO-SIGHT:FS-FD
+mc31c	mc31	-78.34	164.28	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	208.0	0	-57.0	g	This study	SO-SIGHT:FS-FD
+mc31d	mc31	-78.34	164.28	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	252.0	0	-68.0	g	This study	SO-SIGHT:FS-FD
+mc31e	mc31	-78.34	164.28	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	300.0	0	-39.0	g	This study	SO-SIGHT:FS-FD
+mc31f	mc31	-78.34	164.28	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	297.0	0	-25.0	g	This study	SO-SIGHT:FS-FD
+mc31g	mc31	-78.34	164.28	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	219.0	0	-50.0	g	This study	SO-SIGHT:FS-FD
+mc31h	mc31	-78.34	164.28	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	303.0	0	-54.0	g	This study	SO-SIGHT:FS-FD
+mc32a	mc32	-78.36	164.3	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	105.0	0	-43.0	g	This study	SO-SIGHT:FS-FD
+mc32b	mc32	-78.36	164.3	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	106.0	0	-42.0	g	This study	SO-SIGHT:FS-FD
+mc32c	mc32	-78.36	164.3	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	102.0	0	-35.0	g	This study	SO-SIGHT:FS-FD
+mc32d	mc32	-78.36	164.3	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	154.0	0	-41.0	g	This study	SO-SIGHT:FS-FD
+mc32e	mc32	-78.36	164.3	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	265.0	0	-37.0	g	This study	SO-SIGHT:FS-FD
+mc32f	mc32	-78.36	164.3	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	222.0	0	-41.0	g	This study	SO-SIGHT:FS-FD
+mc32g	mc32	-78.36	164.3	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	96.0	0	-26.0	g	This study	SO-SIGHT:FS-FD
+mc32h	mc32	-78.36	164.3	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	330.0	0	-17.0	g	This study	SO-SIGHT:FS-FD
+mc33a	mc33	-78.38	164.34	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	161.0	0	-75.0	g	This study	SO-SIGHT:FS-FD
+mc33b	mc33	-78.38	164.34	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	219.0	0	-51.0	g	This study	SO-SIGHT:FS-FD
+mc33c	mc33	-78.38	164.34	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	148.0	0	-62.0	g	This study	SO-SIGHT:FS-FD
+mc33d	mc33	-78.38	164.34	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	182.0	0	-68.0	g	This study	SO-SIGHT:FS-FD
+mc33e	mc33	-78.38	164.34	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	228.0	0	-65.0	g	This study	SO-SIGHT:FS-FD
+mc33f	mc33	-78.38	164.34	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	181.0	0	-75.0	g	This study	SO-SIGHT:FS-FD
+mc33g	mc33	-78.38	164.34	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	197.0	0	-44.0	g	This study	SO-SIGHT:FS-FD
+mc33h	mc33	-78.38	164.34	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	239.0	0	-49.0	g	This study	SO-SIGHT:FS-FD
+mc34a	mc34	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	275.0	0	-36.0	g	This study	SO-SIGHT:FS-FD
+mc34b	mc34	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	204.0	0	-43.0	g	This study	SO-SIGHT:FS-FD
+mc34c	mc34	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	291.0	0	-28.0	g	This study	SO-SIGHT:FS-FD
+mc34d	mc34	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	300.0	0	-13.0	g	This study	SO-SIGHT:FS-FD
+mc34e	mc34	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	314.0	0	-12.0	g	This study	SO-SIGHT:FS-FD
+mc34f	mc34	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	182.0	0	-14.0	g	This study	SO-SIGHT:FS-FD
+mc34g	mc34	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	238.0	0	-48.0	g	This study	SO-SIGHT:FS-FD
+mc34h	mc34	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	85.0	0	-24.0	g	This study	SO-SIGHT:FS-FD
+mc35a	mc35	-78.39	164.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	123.0	0	-63.0	g	This study	SO-SIGHT:FS-FD
+mc35b	mc35	-78.39	164.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	163.0	0	-55.0	g	This study	SO-SIGHT:FS-FD
+mc35c	mc35	-78.39	164.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	74.0	0	-44.0	g	This study	SO-SIGHT:FS-FD
+mc35d	mc35	-78.39	164.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	136.0	0	-55.0	g	This study	SO-SIGHT:FS-FD
+mc35e	mc35	-78.39	164.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	76.0	0	-40.0	g	This study	SO-SIGHT:FS-FD
+mc35f	mc35	-78.39	164.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	27.0	0	-38.0	g	This study	SO-SIGHT:FS-FD
+mc35g	mc35	-78.39	164.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	315.0	0	-56.0	g	This study	SO-SIGHT:FS-FD
+mc35h	mc35	-78.39	164.23	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	5.0	0	-20.0	g	This study	SO-SIGHT:FS-FD
+mc36a	mc36	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	161.0	0	-45.0	g	This study	SO-SIGHT:FS-FD
+mc36b	mc36	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	171.0	0	-85.0	g	This study	SO-SIGHT:FS-FD
+mc36c	mc36	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	82.0	0	-40.0	g	This study	SO-SIGHT:FS-FD
+mc36d	mc36	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	118.0	0	-90.0	g	This study	SO-SIGHT:FS-FD
+mc36e	mc36	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	156.0	0	-87.0	g	This study	SO-SIGHT:FS-FD
+mc36f	mc36	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	205.0	0	-43.0	g	This study	SO-SIGHT:FS-FD
+mc36g	mc36	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	206.0	0	-73.0	g	This study	SO-SIGHT:FS-FD
+mc36h	mc36	-78.39	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	200.0	0	-47.0	g	This study	SO-SIGHT:FS-FD
+mc37a	mc37	-78.4	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	319.0	0	-41.0	g	This study	SO-SIGHT:FS-FD
+mc37b	mc37	-78.4	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	350.0	0	-58.0	g	This study	SO-SIGHT:FS-FD
+mc37c	mc37	-78.4	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	323.0	0	-58.0	g	This study	SO-SIGHT:FS-FD
+mc37d	mc37	-78.4	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	241.0	0	-51.0	g	This study	SO-SIGHT:FS-FD
+mc37e	mc37	-78.4	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	263.0	0	-77.0	g	This study	SO-SIGHT:FS-FD
+mc37f	mc37	-78.4	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	276.0	0	-64.0	g	This study	SO-SIGHT:FS-FD
+mc37g	mc37	-78.4	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	280.0	0	-72.0	g	This study	SO-SIGHT:FS-FD
+mc37h	mc37	-78.4	164.27	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	243.0	0	-60.0	g	This study	SO-SIGHT:FS-FD
+mc38a	mc38	-78.4	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	84.0	0	-64.0	g	This study	SO-SIGHT:FS-FD
+mc38b	mc38	-78.4	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	112.0	0	-43.0	g	This study	SO-SIGHT:FS-FD
+mc38c	mc38	-78.4	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	74.0	0	-47.0	g	This study	SO-SIGHT:FS-FD
+mc38d	mc38	-78.4	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	65.0	0	-63.0	g	This study	SO-SIGHT:FS-FD
+mc38e	mc38	-78.4	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	37.0	0	-60.0	g	This study	SO-SIGHT:FS-FD
+mc38f	mc38	-78.4	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	50.0	0	-70.0	g	This study	SO-SIGHT:FS-FD
+mc38g	mc38	-78.4	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	18.0	0	-76.0	g	This study	SO-SIGHT:FS-FD
+mc38h	mc38	-78.4	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	18.0	0	-39.0	g	This study	SO-SIGHT:FS-FD
+mc39a	mc39	-78.39	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	40.0	0	-55.0	g	This study	SO-SIGHT:FS-FD
+mc39b	mc39	-78.39	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	34.0	0	-60.0	g	This study	SO-SIGHT:FS-FD
+mc39c	mc39	-78.39	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	16.0	0	-70.0	g	This study	SO-SIGHT:FS-FD
+mc39d	mc39	-78.39	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	102.0	0	-73.0	g	This study	SO-SIGHT:FS-FD
+mc39e	mc39	-78.39	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	158.0	0	-68.0	g	This study	SO-SIGHT:FS-FD
+mc39f	mc39	-78.39	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	58.0	0	-48.0	g	This study	SO-SIGHT:FS-FD
+mc39g	mc39	-78.39	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	141.0	0	-64.0	g	This study	SO-SIGHT:FS-FD
+mc39h	mc39	-78.39	164.21	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	119.0	0	-49.0	g	This study	SO-SIGHT:FS-FD
+mc40a	mc40	-78.39	164.2	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	248.0	0	-49.0	g	This study	SO-SIGHT:FS-FD
+mc40b	mc40	-78.39	164.2	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	223.0	0	-53.0	g	This study	SO-SIGHT:FS-FD
+mc40c	mc40	-78.39	164.2	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	118.0	0	-46.0	g	This study	SO-SIGHT:FS-FD
+mc40d	mc40	-78.39	164.2	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	179.0	0	-47.0	g	This study	SO-SIGHT:FS-FD
+mc40e	mc40	-78.39	164.2	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	178.0	0	-40.0	g	This study	SO-SIGHT:FS-FD
+mc40f	mc40	-78.39	164.2	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	182.0	0	-38.0	g	This study	SO-SIGHT:FS-FD
+mc40g	mc40	-78.39	164.2	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	243.0	0	-48.0	g	This study	SO-SIGHT:FS-FD
+mc40h	mc40	-78.39	164.2	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	99.0	0	-31.0	g	This study	SO-SIGHT:FS-FD
+mc41a	mc41	-78.39	164.2	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	131.0	0	-16.0	g	This study	SO-SIGHT:FS-FD
+mc41b	mc41	-78.39	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	98.0	0	-21.0	g	This study	SO-SIGHT:FS-FD
+mc41c	mc41	-78.39	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	127.0	0	-37.0	g	This study	SO-SIGHT:FS-FD
+mc41d	mc41	-78.39	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	65.0	0	-47.0	g	This study	SO-SIGHT:FS-FD
+mc41e	mc41	-78.39	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	91.0	0	-43.0	g	This study	SO-SIGHT:FS-FD
+mc41f	mc41	-78.39	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	156.0	0	-53.0	g	This study	SO-SIGHT:FS-FD
+mc41g	mc41	-78.39	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	163.0	0	-43.0	g	This study	SO-SIGHT:FS-FD
+mc41h	mc41	-78.39	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	118.0	0	-34.0	g	This study	SO-SIGHT:FS-FD
+mc42a	mc42	-78.37	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	291.0	0	-72.0	g	This study	SO-SIGHT:FS-FD
+mc42b	mc42	-78.37	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	258.0	0	-37.0	g	This study	SO-SIGHT:FS-FD
+mc42c	mc42	-78.37	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	278.0	0	-64.0	g	This study	SO-SIGHT:FS-FD
+mc42d	mc42	-78.37	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	288.0	0	-57.0	g	This study	SO-SIGHT:FS-FD
+mc42e	mc42	-78.37	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	318.0	0	-27.0	g	This study	SO-SIGHT:FS-FD
+mc42f	mc42	-78.37	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	1.0	0	-39.0	g	This study	SO-SIGHT:FS-FD
+mc42g	mc42	-78.37	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	298.0	0	-40.0	g	This study	SO-SIGHT:FS-FD
+mc42h	mc42	-78.37	164.12	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	351.0	0	-62.0	g	This study	SO-SIGHT:FS-FD
+mc43a	mc43	-78.37	164.24	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	334.0	0	-79.0	g	This study	SO-SIGHT:FS-FD
+mc43b	mc43	-78.37	164.24	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	332.0	0	-64.0	g	This study	SO-SIGHT:FS-FD
+mc43c	mc43	-78.37	164.24	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	336.0	0	-63.0	g	This study	SO-SIGHT:FS-FD
+mc43d	mc43	-78.37	164.24	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	275.0	0	-51.0	g	This study	SO-SIGHT:FS-FD
+mc43e	mc43	-78.37	164.24	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	93.0	0	-78.0	g	This study	SO-SIGHT:FS-FD
+mc43f	mc43	-78.37	164.24	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	112.0	0	-46.0	g	This study	SO-SIGHT:FS-FD
+mc43g	mc43	-78.37	164.24	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	98.0	0	-61.0	g	This study	SO-SIGHT:FS-FD
+mc43h	mc43	-78.37	164.24	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	104.0	0	-100.0	g	This study	SO-SIGHT:FS-FD
+mc44a	mc44	-78.36	164.26	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	184.0	0	-29.0	g	This study	SO-SIGHT:FS-FD
+mc44b	mc44	-78.36	164.26	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	231.0	0	-28.0	g	This study	SO-SIGHT:FS-FD
+mc44c	mc44	-78.36	164.26	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	102.0	0	-25.0	g	This study	SO-SIGHT:FS-FD
+mc44d	mc44	-78.36	164.26	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	145.0	0	-26.0	g	This study	SO-SIGHT:FS-FD
+mc44e	mc44	-78.36	164.26	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	102.0	0	-14.0	g	This study	SO-SIGHT:FS-FD
+mc44f	mc44	-78.36	164.26	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	67.0	0	-17.0	g	This study	SO-SIGHT:FS-FD
+mc44g	mc44	-78.36	164.26	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	179.0	0	-17.0	g	This study	SO-SIGHT:FS-FD
+mc44h	mc44	-78.36	164.26	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	232.0	0	-20.0	g	This study	SO-SIGHT:FS-FD
+mc48a	mc48	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	138.0	0	-53.0	g	This study	SO-SIGHT:FS-FD
+mc48b	mc48	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	131.0	0	-40.0	g	This study	SO-SIGHT:FS-FD
+mc48c	mc48	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	156.0	0	-46.0	g	This study	SO-SIGHT:FS-FD
+mc48d	mc48	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	228.0	0	-49.0	g	This study	SO-SIGHT:FS-FD
+mc48e	mc48	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	151.0	0	-54.0	g	This study	SO-SIGHT:FS-FD
+mc48f	mc48	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	133.0	0	-55.0	g	This study	SO-SIGHT:FS-FD
+mc48g	mc48	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	240.0	0	-53.0	g	This study	SO-SIGHT:FS-FD
+mc48h	mc48	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	175.0	0	-53.0	g	This study	SO-SIGHT:FS-FD
+mc49a	mc49	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	248.0	0	-60.0	g	This study	SO-SIGHT:FS-FD
+mc49b	mc49	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	208.0	0	-73.0	g	This study	SO-SIGHT:FS-FD
+mc49c	mc49	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	206.0	0	-31.0	g	This study	SO-SIGHT:FS-FD
+mc49d	mc49	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	271.0	0	-53.0	g	This study	SO-SIGHT:FS-FD
+mc49e	mc49	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	311.0	0	-19.0	g	This study	SO-SIGHT:FS-FD
+mc49f	mc49	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	206.0	0	-34.0	g	This study	SO-SIGHT:FS-FD
+mc49g	mc49	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	257.0	0	-51.0	g	This study	SO-SIGHT:FS-FD
+mc49h	mc49	-78.24	163.36	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	250.0	0	-37.0	g	This study	SO-SIGHT:FS-FD
+mc50a	mc50	-78.25	163.22	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	19.0	0	-28.0	g	This study	SO-SIGHT:FS-FD
+mc50b	mc50	-78.25	163.22	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	48.0	0	-16.0	g	This study	SO-SIGHT:FS-FD
+mc50c	mc50	-78.25	163.22	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	140.0	0	-43.0	g	This study	SO-SIGHT:FS-FD
+mc50d	mc50	-78.25	163.22	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	90.0	0	-32.0	g	This study	SO-SIGHT:FS-FD
+mc50e	mc50	-78.25	163.22	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	139.0	0	-41.0	g	This study	SO-SIGHT:FS-FD
+mc50f	mc50	-78.25	163.22	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	148.0	0	-46.0	g	This study	SO-SIGHT:FS-FD
+mc50g	mc50	-78.25	163.22	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	155.0	0	-18.0	g	This study	SO-SIGHT:FS-FD
+mc50h	mc50	-78.25	163.22	Extrusive:Igneous	Lava Flow	Basalt	Archived samples from 1965, 66 expeditions.	148.0	0	-23.0	g	This study	SO-SIGHT:FS-FD
