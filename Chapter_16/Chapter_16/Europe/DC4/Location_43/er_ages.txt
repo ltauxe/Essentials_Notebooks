@@ -1,3 +1,0 @@
-tab 	er_ages
-age	age_culture_name	age_description	age_range_high	age_range_low	age_sigma	age_unit	astronomical_stage	biostrat_zone	conodont_zone	er_citation_names	er_expedition_name	er_formation_name	er_fossil_name	er_location_name	er_member_name	er_mineral_name	er_sample_name	er_site_name	er_specimen_name	er_timescale_citation_names	magic_method_codes	magnetic_reversal_chron	oxygen_stage	tiepoint_alternatives	tiepoint_elevation	tiepoint_height	tiepoint_height_sigma	tiepoint_name	tiepoint_type	timescale_eon	timescale_epoch	timescale_era	timescale_period	timescale_stage
-			155	125		Ma				:Channell 1992:				Umbrian Sediments						:Gradstein et al. 2004:	:GM-FOSSIL:									Phanerozoic	Late Jurassic : Early Cretaceous	Mesozoic	Jurassic : Cretaceous	Kimmeridgian - Barremian
