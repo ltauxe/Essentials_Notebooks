@@ -1,5 +1,0 @@
-tab 	er_citations
-book_title	citation_type	city	er_citation_name	journal	long_authors	pages	publisher	title	volume	year
-	Journal		This study	Geology	Schwehr, K. and Tauxe, L.	203-206		Characterization of soft-sediment deformation: Detection of cryptoslumps using magnetic methods	31	2003
-Methods in rock magnetism and Paleomagnetism: Techniques and instrumentation	Book	London	Collinson 1983		Collinson, D.W.	503	Chapman and Hall			1983
-	Journal		Hext 1963	Biometrika	Hext, G.R.	353-373		The estimation of second-order tensors, with related tests and designs	50	1963

@@ -1,3 +1,0 @@
-tab 	er_locations
-continent_ocean	country	er_citation_names	er_location_name	location_begin_lat	location_begin_lon	location_end_lat	location_end_lon	location_type	plate_block	region	tectonic_setting	terrane
-North America	U.S.A.	This study	Scripps Beach	32.8544	242.7555	32.8544	242.7555	Outcrop	Pacific Plate	Southern California	Continental Shelf	Baja California
